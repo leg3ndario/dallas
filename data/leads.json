@@ -1,0 +1,2722 @@
+{
+  "generated_at": "2026-06-07T17:26:36Z",
+  "build_label": "FULL_BUILD",
+  "mode": "production",
+  "county": "Dallas",
+  "state": "TX",
+  "deployment": {
+    "github_org": "xcerebro",
+    "github_repo": "dallas",
+    "live_url": "",
+    "scheduled_task_name": "",
+    "watchdog_task_name": "",
+    "scheduler_runtime_class": "SCHEDULER_NOT_CONFIGURED",
+    "scheduler_test_fired_at": "",
+    "production_verification_status": "NOT_RUN",
+    "production_verification_at": "",
+    "last_known_good_commit": "",
+    "last_known_good_dashboard_at": ""
+  },
+  "total_signals_suppressed": 0,
+  "quality_metrics": {
+    "source_verification_rate": 1.0,
+    "field_completeness_rate": 0.9929,
+    "match_confidence_avg": 2.9867256637168142,
+    "parser_confidence_avg": 97.72123893805309,
+    "source_url_coverage": 1.0,
+    "dedupe_ran": true,
+    "unsupported_claim_count": 0,
+    "hallucination_risk_avg": 0,
+    "live_verification_passed": false
+  },
+  "build_label_reason": "",
+  "lead_total": 41,
+  "records": [
+    {
+      "lead_id": "lead_cad6f3145864e593",
+      "primary_parcel_id": "DX-FC-8963FF35D03C",
+      "display_address": "1204 West 6Th Street",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_d6b1fb4e5e994c659f86d98b40de15d3"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001165"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_cb9bd8c010174555",
+      "primary_parcel_id": "DX-FC-342652D60A7C",
+      "display_address": "1944 Churchill Downs",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_4b5bc7801a214d6fad6d8d9a12c5e690"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001164"
+      ],
+      "primary_event_date": "2026-06-03",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_4267cb05f1af79b9",
+      "primary_parcel_id": "00000506962000000",
+      "display_address": "2667 EXETER DR, Dallas",
+      "display_owner": "Price Olynthia Barron",
+      "display_score": 68,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "sub_to",
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "sub_to",
+          "confidence": "high",
+          "rationale": "Foreclosure paired with bankruptcy stay or absentee owner; subject-to acquisition pattern fits."
+        },
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_d6f290b38138455a99c6d395c0a51bb4"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001163"
+      ],
+      "primary_event_date": "2026-06-02",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000506962000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_d60e052226cf2525",
+      "primary_parcel_id": "DX-FC-91F7AA8988BA",
+      "display_address": "7830 Meadow Park",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_1f1a05675eb443c9a49e0fcf6bad30fb"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001162"
+      ],
+      "primary_event_date": "2026-06-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_b37a68787658e794",
+      "primary_parcel_id": "DX-FC-D3D23D0763EB",
+      "display_address": "3512 Loyd Drive",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_8b8789b6f1a44638bec668e68dd53558"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001188"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_207a0d9244c76f35",
+      "primary_parcel_id": "00000462343000000",
+      "display_address": "3315 SHELLEY BLVD, Dallas",
+      "display_owner": "Compian Lenabel",
+      "display_score": 68,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "sub_to",
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "sub_to",
+          "confidence": "high",
+          "rationale": "Foreclosure paired with bankruptcy stay or absentee owner; subject-to acquisition pattern fits."
+        },
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_5507c27ea0484d8c95fa653ea3b9659b"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001209"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000462343000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_dd2f5b225782c676",
+      "primary_parcel_id": "DX-FC-B3769EA2896E",
+      "display_address": "453 South Holiday Drive",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_70c8dff0072e4578821b501a8dd2743f"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001199"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_16e32c24b61773fd",
+      "primary_parcel_id": "DX-FC-042800EFDCAC",
+      "display_address": "719 Northhill Drive",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_11c1fa6790614db0a141e7aaa08c7845"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001208"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_05a865a3731c06b8",
+      "primary_parcel_id": "DX-FC-E42B0F64FEF8",
+      "display_address": "401 Ridgehaven Place",
+      "display_owner": "Unknown",
+      "display_score": 77,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure",
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure",
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Multi-signal distress stack; standard wholesale flow."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 2,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "stack_depth_2",
+          "delta": 12
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_f23c4f4340fc4de8bd39c5f272601290",
+        "ev_ad23596b42dc4e1faf0658eb7a0d4482"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001210",
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001234"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_1e61b9531ec4b0be",
+      "primary_parcel_id": "DX-FC-1BC325CB21F0",
+      "display_address": "424 Lakewood Drive",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_2b127714e80b49fa9fa92513c661076f"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001189"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_ec5527d4ddeef98b",
+      "primary_parcel_id": "DX-FC-7C4D10D90446",
+      "display_address": "1201 Case Drive",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_7cab4bcf45cc401c8900a59ce326e1a0"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001186"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_8607ad5dfe28c205",
+      "primary_parcel_id": "DX-FC-1E0646CE64F8",
+      "display_address": "1118 Fieldstone Drive",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_2f33f23dfd9f43f9b7004e0b898e90c1"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001219"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_c40a1776c65a06d9",
+      "primary_parcel_id": "00000820806100000",
+      "display_address": "7406 CHRISTIE LN, Dallas",
+      "display_owner": "Gdrq Investments Llc",
+      "display_score": 72,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [
+        "absentee",
+        "entity_owned",
+        "multiple_properties"
+      ],
+      "display_deal_paths": [
+        "sub_to",
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "sub_to",
+          "confidence": "high",
+          "rationale": "Foreclosure paired with bankruptcy stay or absentee owner; subject-to acquisition pattern fits."
+        },
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 7
+        }
+      ],
+      "evidence_ids": [
+        "ev_0b9b61850ccc427ba335f25204c14d01"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001206"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000820806100000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_a4b32f18b9d09305",
+      "primary_parcel_id": "00000820427300000",
+      "display_address": "9751 BURLESON DR, Dallas",
+      "display_owner": "Devillier David",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_91863118e6304e8f80e985a498d983ed"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001193"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000820427300000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_6294a6cfc9c1d586",
+      "primary_parcel_id": "DX-FC-65111BF79317",
+      "display_address": "1522 Deepwood Drive",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_9a1e437005844902b1e4b63c1260a230"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001203"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_6187c34c6426778b",
+      "primary_parcel_id": "DX-FC-15964497E999",
+      "display_address": "305 Crooked Tree Court",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_08e70d18c161428eafc8909203e9a960"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001192"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_63cb7bf4efdbdba6",
+      "primary_parcel_id": "00000614200000000",
+      "display_address": "530 ELSTON DR, Dallas",
+      "display_owner": "South Dallas Rentals",
+      "display_score": 68,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "sub_to",
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "sub_to",
+          "confidence": "high",
+          "rationale": "Foreclosure paired with bankruptcy stay or absentee owner; subject-to acquisition pattern fits."
+        },
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_4fb55b05b0a2430c953ac9513ad91344"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001202"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000614200000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_c7737b11e81e9784",
+      "primary_parcel_id": "00000725328350000",
+      "display_address": "8505 LONDONDERRY LN, Dallas",
+      "display_owner": "Jasko Taylor",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_e479c21a14f447a2b800d9f114a36421"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001204"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000725328350000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_4eae5c50aa63371f",
+      "primary_parcel_id": "00000801352000000",
+      "display_address": "4029 STAGECOACH CIR, Dallas",
+      "display_owner": "Gdrq Investments Llc",
+      "display_score": 72,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [
+        "absentee",
+        "entity_owned",
+        "multiple_properties"
+      ],
+      "display_deal_paths": [
+        "sub_to",
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "sub_to",
+          "confidence": "high",
+          "rationale": "Foreclosure paired with bankruptcy stay or absentee owner; subject-to acquisition pattern fits."
+        },
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 7
+        }
+      ],
+      "evidence_ids": [
+        "ev_921ee846c09d46bc80418e9e54f8aa1e"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001207"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000801352000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_2dd54b6f6241de3b",
+      "primary_parcel_id": "DX-FC-BE6B7EE83AFD",
+      "display_address": "3525 Seth Place",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_42515ec7c9774779bace5366dd39394d"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001211"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_0878abfc99be81dd",
+      "primary_parcel_id": "26367500160150000",
+      "display_address": "805 BROOKSHIRE CIR, Garland",
+      "display_owner": "Hernandez Julia",
+      "display_score": 68,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "sub_to",
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "sub_to",
+          "confidence": "high",
+          "rationale": "Foreclosure paired with bankruptcy stay or absentee owner; subject-to acquisition pattern fits."
+        },
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_b6bb5788d8c44ef383472a0e4f81a4ec"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001191"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "26367500160150000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_40e0b279789cfc64",
+      "primary_parcel_id": "DX-FC-D007C143EF64",
+      "display_address": "2727 West Camp Wisdom Road",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_ad8bd58139fa411780c1ee3a0c147df6"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001194"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_8ae79df3c2b59464",
+      "primary_parcel_id": "DX-FC-98C669477B34",
+      "display_address": "2029 Buffalo Hill Drive",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_3977df6c2b824caba9fa227f67c5a755"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001218"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_b4a8dd2c907f924a",
+      "primary_parcel_id": "DX-FC-05E4D0A3F476",
+      "display_address": "4827-4829 Tremont Street",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_f1f07b5e904d4bb0b95a4d38ab7ca8df"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001201"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_91943bf17df7bcc0",
+      "primary_parcel_id": "00000572059000000",
+      "display_address": "8367 TRANSIT ST, Dallas",
+      "display_owner": "Martinez Robert",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_bca862867d59445bb04bfcb84c3f5282"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001200"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000572059000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_076ca7caf6dc1ef7",
+      "primary_parcel_id": "DX-FC-251E0F1D45D2",
+      "display_address": "1310 Narcissus Lane",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_255a0dcada0a4f5c858915c97ead3c62"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001190"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_d442797c0cafa56d",
+      "primary_parcel_id": "26447560060390000",
+      "display_address": "6901 GEORGE BROWN DR, Garland",
+      "display_owner": "Spikes Leon Jr",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_ce0dcb2bc1c44df6a5a3d7c3156f3a86"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001231"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "26447560060390000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_68d77844810a9228",
+      "primary_parcel_id": "00000211546000000",
+      "display_address": "5107 DENTON DR, Dallas",
+      "display_owner": "Odom Timothy Neal",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_99d389e02e7e420cb629876f4d6c516f"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001221"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000211546000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_54a32e58b710ea03",
+      "primary_parcel_id": "00000560770000000",
+      "display_address": "1130 HOUGHTON RD, Dallas",
+      "display_owner": "Gomez Pedro",
+      "display_score": 68,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "sub_to",
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "sub_to",
+          "confidence": "high",
+          "rationale": "Foreclosure paired with bankruptcy stay or absentee owner; subject-to acquisition pattern fits."
+        },
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_1762f42c5544470da66e9668f6fad13c"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001223"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000560770000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_21dd68d03d201b45",
+      "primary_parcel_id": "DX-FC-C527B50B63FA",
+      "display_address": "1331 Temple Cliff Drive",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_85942265735940e2be800fc68bddc459"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001222"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_acf36bf94eec4194",
+      "primary_parcel_id": "26404520020290000",
+      "display_address": "912 NAVASOTA DR, Garland",
+      "display_owner": "Burditt Holly J",
+      "display_score": 68,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "sub_to",
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "sub_to",
+          "confidence": "high",
+          "rationale": "Foreclosure paired with bankruptcy stay or absentee owner; subject-to acquisition pattern fits."
+        },
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_5a7b2cb77642411ca6aaa9f0b723e2b1"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001232"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "26404520020290000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_15572fff6e3dda34",
+      "primary_parcel_id": "008682000M0230000",
+      "display_address": "7906 GREENGATE DR, Dallas",
+      "display_owner": "Bateman Fatesta S",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_5bae05255aea4c05a4baf27b5c747193"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001228"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "008682000M0230000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_408f3ed7999abd6f",
+      "primary_parcel_id": "DX-FC-5A754FDFAC21",
+      "display_address": "307 Old Mill Road",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_b99e935a927f4b5680b46168b07acaf5"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001229"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_1e620dd4c98c2288",
+      "primary_parcel_id": "DX-FC-F94989F5A5CE",
+      "display_address": "1232 Cliff Trail",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_48e3cc2cb24c4954a071890934793e3f"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001226"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_5c5f529befbd0b11",
+      "primary_parcel_id": "00000478255000000",
+      "display_address": "3521 ALASKA AVE, Dallas",
+      "display_owner": "Kane Desmond",
+      "display_score": 68,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "sub_to",
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "sub_to",
+          "confidence": "high",
+          "rationale": "Foreclosure paired with bankruptcy stay or absentee owner; subject-to acquisition pattern fits."
+        },
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_cf7d1ffbabeb4e2f86aba5f0441b6dcc"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001225"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000478255000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_0e610696af27d315",
+      "primary_parcel_id": "325595400A0380000",
+      "display_address": "1242 MINTO DR, Irving",
+      "display_owner": "Singh Upinder K Est Of",
+      "display_score": 77,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure",
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure",
+        "estate"
+      ],
+      "display_pattern_set": [
+        "foreclosure",
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Multi-signal distress stack; standard wholesale flow."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 2,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "stack_depth_2",
+          "delta": 12
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_430ad6e3d521402dbce392c180fe0945",
+        "ev_629fb1051626459fbba8a650a509e90d"
+      ],
+      "primary_source_urls": [
+        "about:owner-name/parcel_master/325595400A0380000#estate",
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001227"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "325595400A0380000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_66dbad30675011b0",
+      "primary_parcel_id": "DX-FC-97208F6322F0",
+      "display_address": "820 Grande Drive",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_6500cc2d68da4c79ab45ed6654966090"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001224"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_b6633c2535fa92c5",
+      "primary_parcel_id": "DX-FC-41556BA4CA3B",
+      "display_address": "4009 Meadow Canyon Dr",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_fb99dda92fda4c5b88d837d4984a6493"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001220"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_ae7cb606cd7604d3",
+      "primary_parcel_id": "DX-FC-D0468733F916",
+      "display_address": "2808 Turtle Dove Lane",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_127d35d7e15f4d9cb0a6909dc2149b89"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001230"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_02e0681d9dd39215",
+      "primary_parcel_id": "00000510304000000",
+      "display_address": "3916 BONNIE VIEW RD, Dallas",
+      "display_owner": "Vasquez Jose Wilfredo",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_b6bd489a89d34868982c9c30a0d684f2"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001239"
+      ],
+      "primary_event_date": "2026-06-05",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000510304000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_8edf8bfec3a382b6",
+      "primary_parcel_id": "00000456775000000",
+      "display_address": "719 BONNIE VIEW RD, Dallas",
+      "display_owner": "Johnson Damien",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_03a5ee084a184063b026a0974340b341"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001238"
+      ],
+      "primary_event_date": "2026-06-05",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000456775000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    }
+  ],
+  "pattern_counts": {
+    "estate": 1,
+    "foreclosure": 42
+  },
+  "attribute_counts": {
+    "absentee": 9,
+    "entity_owned": 2,
+    "multiple_properties": 2
+  },
+  "stack_depth_distribution": {
+    "1": 39,
+    "2": 2
+  },
+  "score_tier_distribution": {
+    "Strong": 41
+  },
+  "deal_path_distribution": {
+    "sub_to": 9,
+    "wholesale": 41
+  }
+}
