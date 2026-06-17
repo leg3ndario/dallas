@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T17:26:36Z",
+  "generated_at": "2026-06-17T13:48:38Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Dallas",
@@ -17,12 +17,12 @@
     "last_known_good_commit": "",
     "last_known_good_dashboard_at": ""
   },
-  "total_signals_suppressed": 0,
+  "total_signals_suppressed": 1,
   "quality_metrics": {
     "source_verification_rate": 1.0,
-    "field_completeness_rate": 0.9929,
-    "match_confidence_avg": 2.9867256637168142,
-    "parser_confidence_avg": 97.72123893805309,
+    "field_completeness_rate": 0.993,
+    "match_confidence_avg": 4.461538461538462,
+    "parser_confidence_avg": 97.73626373626374,
     "source_url_coverage": 1.0,
     "dedupe_ran": true,
     "unsupported_claim_count": 0,
@@ -30,7 +30,7 @@
     "live_verification_passed": false
   },
   "build_label_reason": "",
-  "lead_total": 411,
+  "lead_total": 399,
   "records": [
     {
       "lead_id": "lead_4e5b14573f2ccc9b",
@@ -86,9 +86,9 @@
         }
       ],
       "evidence_ids": [
-        "ev_a91b5a8cf3f64f3bb649065369691694",
-        "ev_fd049464b9c04ce5a1da367aff65a7d8",
-        "ev_86f66c4270b44bc7986d65040cf9df95"
+        "ev_bce80a9e42e0434a8f50668ccc761b19",
+        "ev_088effa6d2e74b8588974ecd9cf2ea35",
+        "ev_a1ff7571e08e4b788e96dfbd965fb068"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115896",
@@ -157,8 +157,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_56f06af94c6248fb9e57c0e590b39aba",
-        "ev_4d6338ec21b546b1bcab4eebe2c0bfa4"
+        "ev_ddccda7843cf47c6b8a8f579c43f2cd3",
+        "ev_0d130958cf504e46b497a9661ddee97b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116457",
@@ -226,8 +226,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_4edd87ad5c9342039c60ec9cc661afc4",
-        "ev_bc0bbf49dfb54bf4b233ff0707422646"
+        "ev_aea09cea1dcd48a69c1f20298192d22d",
+        "ev_77e1194655204ad8be03b31142eaa384"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116480",
@@ -289,7 +289,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_72ec2251a1d8435aaec6438471a27b40"
+        "ev_ea3e0534ef5e40cdb3ce314e23d7ce82"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115784"
@@ -350,7 +350,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cc1c3e40413a4320864c60de91cb598c"
+        "ev_0a4796fee75a4e3684f97b5b00542bb1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115909"
@@ -411,7 +411,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_29c15b716f42442992ab9d9b1dc495d3"
+        "ev_f0e9fd2142e04e19890456d80c61b4a1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115839"
@@ -472,7 +472,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_27e20792830f4158bef79b663bbca55e"
+        "ev_00dc03c9e905487c99eebf1339358b6b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117377"
@@ -533,7 +533,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dd9f72b132f945fcb526f1310bdeb48b"
+        "ev_2101e25d669846b0ac698e4f74d467f1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117404"
@@ -576,7 +576,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_41c8dece5f50470eb2a3162a057adbb1"
+        "ev_f70f989c7aeb4425973814e835fa8e7e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117357"
@@ -645,8 +645,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_df231bc148c341338b20027f5b215020",
-        "ev_e99edd05ebab48c99e8bcbcf6c9c593d"
+        "ev_c157f3915ee74f2db7c4c997d2292068",
+        "ev_af555736b8854581a28854075454476d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115772",
@@ -716,9 +716,9 @@
         }
       ],
       "evidence_ids": [
-        "ev_b30631798a234697986a80c1118538d0",
-        "ev_515761ca62e24584b96f6ba0ec47a256",
-        "ev_1c6c966b57dd4b29a5d19372735d32f7"
+        "ev_82e55cdf9ed446ed8f1f73d9557e2d1b",
+        "ev_620e179eeeeb4acca4020c24eedd0f39",
+        "ev_511c8353171749a4ba28dafebaf86596"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115822",
@@ -780,7 +780,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_686f8b177ecd49db899b64ce72492ac0"
+        "ev_0527aaf703b04e7bb134fe537b9a2ecf"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115864"
@@ -841,7 +841,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ba92c89e95e1455787aa4860dec1764d"
+        "ev_22a0e66f6f6d4e8290b43ed67646a7d0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115886"
@@ -916,12 +916,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_186b1658f906419d9c9a89ab86c10938",
-        "ev_cebda9e4deac48f7859aad893cfe8e8d",
-        "ev_9be87fd4406d44f29dce0d83510bd611",
-        "ev_499812252a004787a58cafd483f4c014",
-        "ev_68bf18f57c064a14a0a7c7a924b178a6",
-        "ev_427969a78a5649ccadfee043da56d3b2"
+        "ev_cd904905d6dd438bac2c65670f73246c",
+        "ev_2a5da2386f5a447a9788435f8b7ac674",
+        "ev_72f321aa227046029f5234554ef5a9a6",
+        "ev_4e1a083692cf4a16bd3c87ba37054c82",
+        "ev_e55144bca18248d4a75c02eb3bfde26c",
+        "ev_9bba695bba9842c68aaed9b4ae0eaba9"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115767",
@@ -986,7 +986,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6b1ee5df6fb141eb9d056a6fee6b0b26"
+        "ev_beca1696fae849ce96af2f4f189e6951"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115790"
@@ -1053,8 +1053,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_de42a3fb91fc4ad489cd494dee6e353f",
-        "ev_eaa90161267449fc9b8ca53ca34910ae"
+        "ev_221522b14e4f4b2f8ccb0cd569ec7e4e",
+        "ev_c879f990293f4900b8dc3f4e17481b3f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118310"
@@ -1115,7 +1115,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_020629cd2a21485b9dafe459ca6524f1"
+        "ev_ec3fbdceecdb47c18c7c9812c10c7e1e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118457"
@@ -1176,7 +1176,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2eb6596b2561457ba733b212b88e190a"
+        "ev_70165d8353b04c87b26551ac0c7eadd9"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118520"
@@ -1237,7 +1237,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4ad950c4098440aab8ad88e94a7b0f12"
+        "ev_ec12731a967a4a2b81f36401972d2e03"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118471"
@@ -1298,7 +1298,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_026f3eb525854257803dad36215bbf68"
+        "ev_945004a2813142409c21c8783380e1e9"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118453"
@@ -1365,8 +1365,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_a042af04cdf943a8b5f19fb2cba64077",
-        "ev_538d11318caf45418ff6f7dd8d6a3007"
+        "ev_84784a4bb2584264b1206776a1fa1fc7",
+        "ev_b8edd81d7d5448b9a5cc7995d0b8b784"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118446"
@@ -1433,8 +1433,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_18c55f45bd9644ab9e2ea3ff67b9a0c5",
-        "ev_3749c6e6f86c4173be045f847688a375"
+        "ev_3ce3f6d072f2418ca576b2ac0996c383",
+        "ev_0ebf816d93b5412389edce14effbbf61"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116535",
@@ -1496,7 +1496,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0d0b4db4e6eb498cb5e9a37ae65070d5"
+        "ev_34a6a7e7b1af41a28177780f3a0ddfc3"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116637"
@@ -1557,7 +1557,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_39a34cf96a03477b873b9edb76223905"
+        "ev_8938235eeba84f01ab137d11ee9cf99a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116584"
@@ -1624,8 +1624,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_47b24db3599649c5b41e2300c0a8ff76",
-        "ev_78ca043cfb454df6a170ee360bf9760c"
+        "ev_ade2dce6cb2b49a395c87ea604982297",
+        "ev_de6c6da593e844d99eaf404f24f181b4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118653"
@@ -1692,8 +1692,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_b38c49099678492fb4abda2fa762b316",
-        "ev_a6b5e5582ac94deaa7eb3f3d9a737f8e"
+        "ev_2454299b53ee43fd8ac7babc32080512",
+        "ev_7462cfdc84a74a018e8a9a8f7e168212"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118954"
@@ -1760,8 +1760,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_abb8dccef62c4cac9f37de35987fec6d",
-        "ev_44cdbed7503f415b8e765fd742942a30"
+        "ev_9ec2f8d40ab14bc8835da116776e4075",
+        "ev_71a9712a42784184b61261fb03495fe1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117251"
@@ -1828,8 +1828,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_db19484221bf429da3eae9a6afa83a11",
-        "ev_9ebbd2ba59bb474f87b555c6c2eb46fc"
+        "ev_9e034c51b6d14ad79de75916c9a811c4",
+        "ev_638f353a8cf64914b52b799f5c27298a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117373"
@@ -1872,8 +1872,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_b1946aba27124ab593f19547c3adb992",
-        "ev_77cc526775da48038a94fe680a0813fd"
+        "ev_0391349ab87747d980a0b0a32b58d05c",
+        "ev_73b4321818d64c0d9fed8865ff39a56a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117353"
@@ -1936,7 +1936,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7dea1201794048a8b08ffc36595fc4d9"
+        "ev_b628ff3956df459b8753977ee6d53081"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117399"
@@ -2003,74 +2003,13 @@
         }
       ],
       "evidence_ids": [
-        "ev_5ad02519a19f49c4adc8279a7f9b0482",
-        "ev_4738bcf6c2874678bd66765cca776299"
+        "ev_96eee1a372424a89990523bb1729d2bc",
+        "ev_a8cc89f0ec2c47e68bda4efee6c33a15"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117710"
       ],
       "primary_event_date": "2026-06-02",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_f88dbdc8a0a35f45",
-      "primary_parcel_id": "DX-RP-3DF4B3FCD5D8",
-      "display_address": "Lot: 3 Block: 40 Township: DALLAS",
-      "display_owner": "Unknown",
-      "display_score": 35,
-      "display_tier": "Low",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_MECHANICS_LIEN",
-          "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_fdec7933d1154da2bd48c9fcbe814695"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115848"
-      ],
-      "primary_event_date": "2026-06-01",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -2126,7 +2065,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8135ca1e9d6e49ca8b8ce0f6ae52367e"
+        "ev_6aabf0a8e7e44e189e6ea754c44b5f98"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115893"
@@ -2187,7 +2126,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cb1951bbbc5048c39856315b43ac4ffd"
+        "ev_c95bd23d95fb4568ab79819986166d16"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115799"
@@ -2248,7 +2187,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_00a0a7d406d5412899e31698d47c046c"
+        "ev_b984031db4d64cad8105d78caf722d31"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115841"
@@ -2309,7 +2248,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c8f41c8357114946b554ff2eaaeb340e"
+        "ev_d7b208e218bc4a259fbc48a2b58d9db9"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115884"
@@ -2325,18 +2264,16 @@
       ]
     },
     {
-      "lead_id": "lead_4f1d3480dbc1e10c",
+      "lead_id": "lead_c96a879dd8d0483c",
       "primary_parcel_id": "DX-RP-44DFE8F565FC",
       "display_address": "Lot: 16 Block: 3 Township: DALLAS",
       "display_owner": "Unknown",
-      "display_score": 47,
+      "display_score": 35,
       "display_tier": "Low",
       "display_patterns": [
-        "lien",
         "lien"
       ],
       "stack_contrib_patterns": [
-        "lien",
         "lien"
       ],
       "display_pattern_set": [
@@ -2350,25 +2287,21 @@
         {
           "path": "wholesale",
           "confidence": "moderate",
-          "rationale": "Multi-signal distress stack; standard wholesale flow."
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
         }
       ],
-      "display_title_complexity_tier": "Light curative",
+      "display_title_complexity_tier": "None",
       "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
       "display_year_built": null,
       "display_match_confidence": 0,
-      "stack_depth": 2,
+      "stack_depth": 1,
       "score_reasons": [
         {
           "factor": "base_MECHANICS_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "stack_depth_2",
-          "delta": 12
         },
         {
           "factor": "recent_filing_within_30_days",
@@ -2376,12 +2309,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_3019e0c0862d4d05b6551fa652aad1ce",
-        "ev_369483b9864541c399ad82f1e2f43103"
+        "ev_bbf60956be614a3bbdc7fb7958302c93"
       ],
       "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115780",
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116519"
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115780"
       ],
       "primary_event_date": "2026-06-01",
       "expected_sale_date": null,
@@ -2439,7 +2370,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2432a5611630482c94c742c039f083d5"
+        "ev_8a1725c3ec7e48519803efd6fa67b8e8"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115862"
@@ -2500,7 +2431,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_74e9cb6a559f4e77b219244d262a78fe"
+        "ev_e1af462375b24c8993f2d6d496e9a779"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115789"
@@ -2567,8 +2498,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_173b2289babb42cfa8c13680b3f11b5f",
-        "ev_0379787cf58241959e63beb974659849"
+        "ev_4304ddee1c2244139b07e2ea4e1ad110",
+        "ev_3f958743cb814fa6974d5e829da3a092"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115903",
@@ -2630,7 +2561,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7b0ff14a83654fb3a82cc060214d4e81"
+        "ev_3b30abbfe65746349251d9cf44b80d5e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116117"
@@ -2691,7 +2622,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a1f379ae55aa47c2b1ab76487f9d4b23"
+        "ev_0d8d88e593d145d9bf308c8d0ca373d5"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116385"
@@ -2752,7 +2683,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9da8fbbdbafb41c684b1d3a2b836af73"
+        "ev_93df797664f94e7db2fa97216a2738e5"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116529"
@@ -2813,7 +2744,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_efce6779149746a688823d48bdfb3635"
+        "ev_69f27987a0c74dddb30410380c70ee00"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116348"
@@ -2874,7 +2805,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2ed0f454a7ae4ecd985e85ac99214d5a"
+        "ev_af8ae7e206cf403f8b3b59be46b5797f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117415"
@@ -2935,7 +2866,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0d7109b0b0e64444a50b8abe589ebcd6"
+        "ev_f4a6c758f9f14f48802bb80be192c103"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117358"
@@ -3002,79 +2933,11 @@
         }
       ],
       "evidence_ids": [
-        "ev_a828c7b1624b4c3f8b19203aa86f2872",
-        "ev_db323947db01412f83680858e6994348"
+        "ev_97ed15a5745241d5aa91fbfa3bef9e7a",
+        "ev_727dac327b0a4d1ebc699a142cd678cc"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116601"
-      ],
-      "primary_event_date": "2026-06-02",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_f6b42ac7b3f92cef",
-      "primary_parcel_id": "DX-RP-9E025457CE99",
-      "display_address": "Lot: 40 Block: E Township: DALLAS",
-      "display_owner": "Unknown",
-      "display_score": 47,
-      "display_tier": "Low",
-      "display_patterns": [
-        "lien",
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien",
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Multi-signal distress stack; standard wholesale flow."
-        }
-      ],
-      "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 2,
-      "score_reasons": [
-        {
-          "factor": "base_MECHANICS_LIEN",
-          "delta": 30
-        },
-        {
-          "factor": "stack_depth_2",
-          "delta": 12
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_143fefd318a24349928fe50632cf9abc",
-        "ev_07d4f976b377491d8aed66b52fe25eb4"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116739"
       ],
       "primary_event_date": "2026-06-02",
       "expected_sale_date": null,
@@ -3132,7 +2995,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2b70169186fb46e79e96cfe6d2ce75ed"
+        "ev_30a2d84909d54e36b0585d42c4e228bb"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116720"
@@ -3193,7 +3056,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_85dd2ecf1eab415780f36caf49cb5bce"
+        "ev_4b73dc0827e94698b5564ff4b5688076"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116769"
@@ -3254,7 +3117,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8e31be57ae844957a535ea6a8b7cc8e8"
+        "ev_b8b485f9377a41de808bf56b1fb53bd4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118290"
@@ -3315,7 +3178,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bc9ddaf09f4b4bc3b2780502baf8701b"
+        "ev_68fcbce02b3e42fbaa5a971166765d1e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118642"
@@ -3376,7 +3239,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_46985400ae34472e9ca8efa609c1f75e"
+        "ev_b90dc9bec6eb4c149da63dab94cf5905"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118828"
@@ -3443,8 +3306,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_54a3d3cdf38445e3bcdf51abafd28aa2",
-        "ev_0e1ead6988e148b3b9771bb6ee27d531"
+        "ev_ac7a7c0233e94847838c4522e91c26e4",
+        "ev_e7be8a27a090446a94d0f3c7a3bf15f0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118949",
@@ -3506,7 +3369,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b9d9ce588d214c63a70bc93573f70e76"
+        "ev_5547daa43f134bbf9c09959e7a8c546d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115565"
@@ -3575,9 +3438,9 @@
         }
       ],
       "evidence_ids": [
-        "ev_6deb4ce5773a4d3a94ebb1b667a877d1",
-        "ev_64df8e0cbf84401fb4d562c34e94a117",
-        "ev_e8ae18e630424d94bbf6fbee8f4cce37"
+        "ev_d26da2d47bb544b6a2b4df42bbda0906",
+        "ev_874d2c2af5d9484ca0602ab0e7afbb7a",
+        "ev_5ba938a51d924d7fb4e99b14b5467e1c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115815",
@@ -3640,7 +3503,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a7b44f0f241d49b8891804e13050f477"
+        "ev_a6e6cf1458434413b776b82271140ef0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116517"
@@ -3707,8 +3570,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_700d3e8b0d04449c8a81cd5db620ad32",
-        "ev_521e5658f69f414d91dab8b8a038cccb"
+        "ev_1cc6f2cce5054f3c90a7527261ed1432",
+        "ev_30d56976dca849f3a63b458158dd131d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115900",
@@ -3770,71 +3633,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_240858c0a9454174a274c3ce986b5948"
+        "ev_54849f549f894e54bd0430a460b0188e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115849"
-      ],
-      "primary_event_date": "2026-06-01",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_7d7480a01d5cb15b",
-      "primary_parcel_id": "DX-RP-6B89B3987E1D",
-      "display_address": "N/A DOC-202600116113",
-      "display_owner": "Unknown",
-      "display_score": 30,
-      "display_tier": "Archive",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_HOSPITAL_LIEN",
-          "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_8cd5b4a8501843b6ab7e5fe0b75a2390"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116113"
       ],
       "primary_event_date": "2026-06-01",
       "expected_sale_date": null,
@@ -3892,7 +3694,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_340baddcba934b568cd217ddc867b5bf"
+        "ev_c20055f5cc8e41b0bd3e801da10e53b9"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115905"
@@ -3953,7 +3755,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4132065288f1401993c5ff12de874d10"
+        "ev_276cf50d8eb446f58008835db49bdf15"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115890"
@@ -4014,7 +3816,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5a69e7a6889349298d7133bcf0bf7aae"
+        "ev_a94ef7b900e241a2bb4f35b6c2e20d37"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115892"
@@ -4075,7 +3877,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3d65c16f6c764c2fb453bb6391a930c2"
+        "ev_21a45b317b394b0da6e9c99e686ee499"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115883"
@@ -4136,7 +3938,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2a491bbcd92c442c81074aca72da560c"
+        "ev_97876d80be304729b0089ca6aff9b6cc"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115806"
@@ -4197,7 +3999,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5e196b938166456b88c458b307865fa5"
+        "ev_a187027899084116bcaf08ede22f6229"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116369"
@@ -4258,7 +4060,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_982ab8ec19a04584b6226491a300d152"
+        "ev_8ea83754b1a74997abe48e7631cfe2f4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116308"
@@ -4325,8 +4127,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_3ed0a334f023492e8d5c45a2230a07de",
-        "ev_1cbbbdf1febd4e349bce0181f917efa8"
+        "ev_78b6bd1750b44cb6905eb506ffc8d991",
+        "ev_ef5bac311d3a4529811d39a6c38dd2d6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117146",
@@ -4370,7 +4172,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_71a3dd3746264ec3ac5efb0a3e265c39"
+        "ev_d2f42d751c794a65bc65420ea3a38eda"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117066"
@@ -4433,71 +4235,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_774ceaac9cfb4ceb884c745817d66468"
+        "ev_d7260bacd60849769e4a440bcdc2e73c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117360"
-      ],
-      "primary_event_date": "2026-06-02",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_b300cf7f9ffd2c3b",
-      "primary_parcel_id": "DX-RP-DD1F0D15D322",
-      "display_address": "N/A DOC-202600117372",
-      "display_owner": "Unknown",
-      "display_score": 30,
-      "display_tier": "Archive",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_HOSPITAL_LIEN",
-          "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_d636008db6444bf0baf29ef3c43160dc"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117372"
       ],
       "primary_event_date": "2026-06-02",
       "expected_sale_date": null,
@@ -4555,7 +4296,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8e214751d60f4d549e3d848e5abc5bf9"
+        "ev_c9a5abb834444411913e61945f3f9aef"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117392"
@@ -4616,7 +4357,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9932f71ff4954bf3961c866ba14ee5ff"
+        "ev_25d439557a3c4c54a647d8432ca3436c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116745"
@@ -4677,7 +4418,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9efb8cab0a074a1ba779b9adb2ff12a0"
+        "ev_a702bbd0e1d7420c8691c20217d2cc81"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117185"
@@ -4744,8 +4485,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_ab2a117b9ee04a89831c58c1f3d4ee99",
-        "ev_97ead3dcfa0d450b8f330f4e21111ea9"
+        "ev_6095f375e5874292bd92bdbae5395b36",
+        "ev_85cfc262bcc54dfea94b9abab6ae9e4b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118232"
@@ -4806,7 +4547,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_250a6a37ed87430d8bbf914da0fb1da3"
+        "ev_1951d6e8b793479c8e6fe929120ac511"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118442"
@@ -4867,7 +4608,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ac4c1f21b752426e9bd39e6b9b5913e0"
+        "ev_6431e0d097d14a15977e3058039e4378"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118469"
@@ -4928,7 +4669,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c7688c0727cb4e3ea6a2cc861594c6b9"
+        "ev_339fe306f3e8439eb44cd5eaed444e28"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118662"
@@ -4989,7 +4730,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0e71df5a59de4f37a1b97c00268b0503"
+        "ev_1d7de87c02074070bda1fbff42f34a60"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118390"
@@ -5050,7 +4791,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9bc2ddbccba84ba0bf3c897b67d0e4f7"
+        "ev_f6cf862033e94f3cb13141161d3a33dc"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115803"
@@ -5111,7 +4852,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7886eb3f43ab414fa1c79fec8dd7a85c"
+        "ev_6de304ce2b9b4511abf8de5d3ddbca6c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115838"
@@ -5178,8 +4919,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_8ae94b18d5de47b99889466d21d47dbe",
-        "ev_282a272ec98d4e048e9395f575011d30"
+        "ev_b7e1bd60893540b0b75ef8e5149e0801",
+        "ev_73fd37c206954723bb25521a088b95a2"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115860",
@@ -5241,7 +4982,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_232d2a95c774401ea6d669d123d5a423"
+        "ev_e522c03ca2fe4ec8bd2fa1be16a9608f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116477"
@@ -5257,18 +4998,16 @@
       ]
     },
     {
-      "lead_id": "lead_6be5038f332f38d7",
+      "lead_id": "lead_f7c741339d504f15",
       "primary_parcel_id": "DX-RP-F01224F9FA14",
       "display_address": "Lot: 5 Block: B Township: DALLAS",
       "display_owner": "Unknown",
-      "display_score": 47,
+      "display_score": 35,
       "display_tier": "Low",
       "display_patterns": [
-        "lien",
         "lien"
       ],
       "stack_contrib_patterns": [
-        "lien",
         "lien"
       ],
       "display_pattern_set": [
@@ -5282,25 +5021,21 @@
         {
           "path": "wholesale",
           "confidence": "moderate",
-          "rationale": "Multi-signal distress stack; standard wholesale flow."
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
         }
       ],
-      "display_title_complexity_tier": "Light curative",
+      "display_title_complexity_tier": "None",
       "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
       "display_year_built": null,
       "display_match_confidence": 0,
-      "stack_depth": 2,
+      "stack_depth": 1,
       "score_reasons": [
         {
           "factor": "base_MECHANICS_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "stack_depth_2",
-          "delta": 12
         },
         {
           "factor": "recent_filing_within_30_days",
@@ -5308,12 +5043,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_f31e683517364f54a05632706e561e0f",
-        "ev_329e15d7f6504b0aa7382832a8b7def8"
+        "ev_7b0b84f1ab40480d879b770fead27b26"
       ],
       "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116357",
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116363"
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116357"
       ],
       "primary_event_date": "2026-06-01",
       "expected_sale_date": null,
@@ -5381,10 +5114,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_1247ca1297a64d5b93348d6a311591f7",
-        "ev_1b7061ea149042e38fdc385bfded9ae8",
-        "ev_1a401549e6d143e59a4ba1e539b2c79c",
-        "ev_f3225de42a2b41eca05c06fe2b6550fb"
+        "ev_8baa75ffb5f245bfbe66136e35a8dd97",
+        "ev_5c52ee78c7a247afa0e1b63fb3a21cc3",
+        "ev_8205592ac35e4d10af27d24802684348",
+        "ev_c89a55f84143417698e741d5e26cae0f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115889",
@@ -5447,7 +5180,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9659100b7cfc4c67986501a3bdfc5c9c"
+        "ev_2de1cabc0d0a4c3988e5dfbb5dbb5d5c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116483"
@@ -5508,7 +5241,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_de7ba76f799a477caa17bcb5092e62ad"
+        "ev_6a18860559804d4fa1cd9786ef2020df"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116515"
@@ -5569,7 +5302,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_45022414c6314aa387e54975ec03b44e"
+        "ev_0607f28b31cb497499ff3585e1c0e86b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116531"
@@ -5630,7 +5363,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2e5a2dcad05b4300ab66da0ff85738bd"
+        "ev_91c4f95260984716b37bf0ccbc61d087"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116475"
@@ -5691,7 +5424,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e8d63bfd9ba6481e9db24cb7a42cd096"
+        "ev_dc98d1fc011448c5974fc31a475c8cf7"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118666"
@@ -5758,8 +5491,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_2bda6f8247554881b013c6901559c450",
-        "ev_4493e9a6771648d1b9a571f586f9273b"
+        "ev_d82452708d9f4db8bf9d7b7c8e70ef38",
+        "ev_6e76dca7b3304d0989adfddb7bd06fe3"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118658"
@@ -5826,8 +5559,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_e9fd1694c0534534aa1c6c9f275c6f7d",
-        "ev_41ee437118ba431b8cfe88c05c89110a"
+        "ev_ce2d05fb5bfb40f2bb92882b8498ea66",
+        "ev_03874de5ee5d4a60a16b3e69468711ce"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118656"
@@ -5894,8 +5627,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_bfa2ffbf16e2484e9491b0131f902f86",
-        "ev_f7d891c5c7b146c7a0aa45f85da8d658"
+        "ev_6ed53cb458a542358ab4f5354283c6f3",
+        "ev_f1dac8bd19ef4523b0a3059c0541f49b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118663"
@@ -5962,8 +5695,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_9723756ed33847c4b2ea2ff73e261ce3",
-        "ev_5c7f78f0a00649629def5a8b3c513789"
+        "ev_50130e652ee24f94aa61f9f66c11d7bf",
+        "ev_1583ac74f45d4005ac307513f1e4043a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118778"
@@ -6024,7 +5757,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_95909e9f199d45e3b9142338d4d86a98"
+        "ev_09a3df9c30f0455989089e809be6ccdb"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117408"
@@ -6085,7 +5818,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a16e16b76f70426b8881bbf243c06e94"
+        "ev_650720cbbf2f4ba8a8b62ee64a3419d4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117375"
@@ -6146,7 +5879,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_44e92030c7d244918c5ef895d7c1bd31"
+        "ev_d28e348589924bf5849f26b423b0a4ed"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117683"
@@ -6207,7 +5940,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b9cdf24667334ec691fcd7ffd80b9830"
+        "ev_da05c1f987634634a9719fadcd7e2ec1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117388"
@@ -6268,7 +6001,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6bd884f5132b4fe6b1b4918f10dc5120"
+        "ev_6768b4fad65c48e3b69296f88a0ee3a5"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117390"
@@ -6329,7 +6062,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_23708266778040ea90ccb1998bb240e4"
+        "ev_caa6594a6a8d45cd9e26bd56a08b178f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118660"
@@ -6390,7 +6123,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b3b86c58d01a437497dac65bb537a99a"
+        "ev_25435547d2c245f18660c603ccc39048"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116651"
@@ -6451,7 +6184,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_62d5511cb792412d8afca8656efba0ea"
+        "ev_e7f6f4ac781c420f8a7d72811f0f39ca"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115779"
@@ -6512,7 +6245,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7c3b66c837bd4344a33e97ada867d36c"
+        "ev_65b835c75ae1491eb4d9066a52081e50"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115857"
@@ -6573,7 +6306,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f4ac115dad054e07ac11eeeda2a0cab8"
+        "ev_f78b793a2f9145d3a3d0d95c9fc0ad42"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115832"
@@ -6634,7 +6367,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d8a3efb4c2c3403cba6ab7d233a07dc5"
+        "ev_1d849626a2664aa08a0658ac62f26521"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117256"
@@ -6695,7 +6428,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_febdb5f7173446fc98da29fd60e7f0ce"
+        "ev_1ab766581a7047f2959e7aa3ac4e2100"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116594"
@@ -6756,7 +6489,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_530a0eeb6a4e4ed8b7230f1b7ab29011"
+        "ev_0e26f83c4b664c5b9b6cf00f41f3d7b5"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116546"
@@ -6823,8 +6556,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_43cf0843e0834d3891e30a66049f4f91",
-        "ev_65504cda683b420c8c71682c38c4a502"
+        "ev_89034a52706b474bb0d63af8f1dc9928",
+        "ev_77d83107a734425e813ae7dd5781e322"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115870",
@@ -6886,7 +6619,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dc8cc0b01ba54ebeb78ebb8267a2f6ba"
+        "ev_47f388a604ec4836b259ef4e7e318f9e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116771"
@@ -6947,7 +6680,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8ee6d0713614461a831eb249d4b4dff8"
+        "ev_9bd6a93dbda3496fba5e353a2ee3818c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116518"
@@ -7008,7 +6741,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_388808dfd9364d21bb98b9175e565680"
+        "ev_72c4608b7019458f9ba094c467a3c2b8"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116461"
@@ -7069,7 +6802,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5cee27a3f1e348ecbb96a24cc2577288"
+        "ev_33a8244f48884e52a9e24344203e79d7"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115807"
@@ -7130,7 +6863,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_649849a62658417b887ec65575660664"
+        "ev_0ca5ee754eb54170843a14ff2e0b8f77"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115776"
@@ -7191,7 +6924,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7d022b9ccffb44be858fe5d2e4087aa4"
+        "ev_529bf33251ee41ce8dc04e435007013d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115906"
@@ -7252,7 +6985,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5ed831ce1b4a48fa8ffd54b4b411fd53"
+        "ev_73fb94b5d5174bcfa00a1e78e84b7f90"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115868"
@@ -7313,7 +7046,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_52832fb09582477385eaea8c7faa2b4f"
+        "ev_17ffc06956b44df88e75b939a8b04035"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118730"
@@ -7374,7 +7107,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0fe9d94758414716b88d59ab7bceaff4"
+        "ev_c6b26bad75704b11b2c2a49e03d98041"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118647"
@@ -7435,7 +7168,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_aec3feb7b1d9463f9a1024e7177ab48f"
+        "ev_94d9bfb7b9934adab8105ed77aaae680"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118303"
@@ -7496,7 +7229,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3ea6fde6a08143aeaee793db6989d33b"
+        "ev_4a343a904b174a22899971330121ff9c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118363"
@@ -7563,8 +7296,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_ad1c93c3fcc04ca69879aba9ba792870",
-        "ev_958702bed1e04acc9263a34ca0191534"
+        "ev_c93fb84e43a843a1978ee176cf619c4a",
+        "ev_e5d24510e7e843e7900cd6b3a9f07e90"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115855"
@@ -7631,8 +7364,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_64d3b70057cc4774ac27c79ab33d9d46",
-        "ev_27d9415d40354a44b9e3dc6fee264dcd"
+        "ev_27c43dcf69b84a20a52f1742afc8d865",
+        "ev_957ed7a140c44a7185d47d5df48a09af"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115914"
@@ -7699,8 +7432,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_ce6478235b644c9dbc919c4b96abc9b1",
-        "ev_e4c23bd152df46159a1c581ca1febf84"
+        "ev_a75a79f3d5fc43a0ac3bc318dc69c60c",
+        "ev_434a6615929a4c2eba299ff46f3c9195"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115915"
@@ -7771,10 +7504,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_d6abe8149683449f9054884bc19d1523",
-        "ev_32ea4f4feff241e8a7393f3e8f6567af",
-        "ev_e3f9bb2d83604ba9a34e420afd332357",
-        "ev_15cb7e351a544909b4392ad6d472f593"
+        "ev_677673212cb1455b958cc953e8dcb962",
+        "ev_7805a81313ed4705b5efbbc2a9b833fa",
+        "ev_ecedb5ebbd68425d987ddc974124de4c",
+        "ev_dd20b302cd884cc58938566f2aeef0d9"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115797",
@@ -7843,8 +7576,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_8e756bd751e24e879e48961e4ed8b1ac",
-        "ev_18c49fb76d7548109351af92e2f2d370"
+        "ev_218aaff2a2f14904ad7b1d822a46514f",
+        "ev_36058d20060542e99cf213a3e86d521f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116124"
@@ -7905,7 +7638,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_21026976d71b43b4a4de9edb5f43c078"
+        "ev_3064c1c490a74e59a518fbabd0fc3509"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116345"
@@ -7966,7 +7699,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_db87592ddb5c4d4ca83806fbe0ce4168"
+        "ev_7eaab7e7edcc4ff385b91892d4617d84"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116114"
@@ -8033,8 +7766,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_d55d0b0dc6af4b8bb5103c8cf32d716c",
-        "ev_29aa3acdcaf3490583d1606f0b899a69"
+        "ev_22d9599b6b554adb86a9dd730d97ec3b",
+        "ev_7d784c885c144a6c98abf355b40f08a6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116125"
@@ -8101,8 +7834,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_6a4467479487490bafb8e33957eb05ac",
-        "ev_fbad19113a06409ba6b3ad7e8e993d76"
+        "ev_125f7e890ada493e822155f1cf57631f",
+        "ev_8c292587bee1413bb254cd75e66ec812"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115783"
@@ -8163,7 +7896,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b5aac0bc1fa54a8286511575258eedbc"
+        "ev_5dbf421ee52b4382ba128d4ee9c86d86"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116715"
@@ -8224,7 +7957,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7e6c0df9aaed4ef9ba5a09ccce6241d4"
+        "ev_0c115ab174b84e119217a3820160afb4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117254"
@@ -8291,8 +8024,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_404664280bec45058e8d92e92b10122b",
-        "ev_9b6c8ba6855e42cc8d02612312c69fcd"
+        "ev_75e591485e4541538b75b630d484a32d",
+        "ev_25bef587216a4a3491b5c531ae7914e9"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117718"
@@ -8353,7 +8086,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d4cd7538a5c548c7b62242aeb60221d7"
+        "ev_f62e0717a350490cb1eb97f41cf7aa7d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117807"
@@ -8420,74 +8153,13 @@
         }
       ],
       "evidence_ids": [
-        "ev_afc11312928d4c369baef706cb81e8fa",
-        "ev_8cfd00d0dfb1473f91081a0e39a9484d"
+        "ev_702d741b1bd347cda1e369875d551320",
+        "ev_0ffaffe1fa364c99988972ca8e103f9e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118648"
       ],
       "primary_event_date": "2026-06-03",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_1ab5baca462d201f",
-      "primary_parcel_id": "DX-RP-071EBE7CEB71",
-      "display_address": "N/A DOC-202600117410",
-      "display_owner": "Unknown",
-      "display_score": 30,
-      "display_tier": "Archive",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_HOSPITAL_LIEN",
-          "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_bcadf8aa079a4726843898d9fc5acd90"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117410"
-      ],
-      "primary_event_date": "2026-06-02",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -8551,9 +8223,9 @@
         }
       ],
       "evidence_ids": [
-        "ev_b8967089411e448589d40b86a1912b13",
-        "ev_d34538558ecf4caeb034977aaa184835",
-        "ev_ab690eaa843e459081e3c6b4d1e38889"
+        "ev_909ce892ebfc46f7b0c2e452ad60a111",
+        "ev_85479962b86c4806a814f68a1b33deed",
+        "ev_3018ca605b2a4da482a10c079ca7e77b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115895",
@@ -8615,7 +8287,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1772f4a5b12a40e3a045c656fee1bb78"
+        "ev_b199ca41e5244f50a7cef0284de76f74"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116551"
@@ -8676,7 +8348,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_24db8412aa6b4f8aa5ce171b2fe600c3"
+        "ev_e99f1963075c41cb944481237b2c3895"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116616"
@@ -8737,7 +8409,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_185d487291ff41cc86c49dcdca588ee7"
+        "ev_4b1b127b7a454d5cbeefbbe711534287"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116646"
@@ -8798,7 +8470,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_58b57b41ff984bfb95d43f7e3cd19a4e"
+        "ev_1ba8c11f1c62444e99ba93b04f330001"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118654"
@@ -8859,7 +8531,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9e0ee04758c640fe9d03e5d872c2a66a"
+        "ev_5d74c84712f945609a179cce054e1805"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115490"
@@ -8920,7 +8592,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_650a07a33b3a46de9540ff36ac9b5586"
+        "ev_6bb8b741525f4dfebddfc8a914868f64"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115907"
@@ -8993,11 +8665,11 @@
         }
       ],
       "evidence_ids": [
-        "ev_28b25faf62c6450c9aff493209c44a9f",
-        "ev_bd9e0e3e6cbf4ad6b8c08d49b38a3b13",
-        "ev_93ef98119657474086f539f22bb02f65",
-        "ev_7599ca9089e64a929bfe551076129945",
-        "ev_5dd51ec7c722486b8c98f3ce90aa6fab"
+        "ev_092bc32b0eda42e692c28cd6137f899b",
+        "ev_0f8536813bc048f8b73ce3d0e61657f0",
+        "ev_d0ebf2bdca3744aaaa6645261cb553ff",
+        "ev_ebd5a2c88b35420ba37f0622a99118ff",
+        "ev_053fedcb6a12482ba279d23fefe2fc86"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115801",
@@ -9060,7 +8732,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cb81544565654ddfb114aaf7cb191d5e"
+        "ev_e7017d57cddf48b081a922730c059dd3"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115891"
@@ -9121,7 +8793,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_eef32f2220f34909a87ec2990d6c3156"
+        "ev_18b2c2ad55e44c37ab83611889abf9a6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116368"
@@ -9188,8 +8860,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_31ecb06ddaaa4615a0d36dcc1a256f8d",
-        "ev_fa73da2c23e2411ebf9f87eeb9e35555"
+        "ev_257c85290e8d479bbe264e56784f8823",
+        "ev_5980ed2dbed0490fa6c4642f84fdc4b9"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118255"
@@ -9256,8 +8928,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_b0c93220d8a5470ebc67e81b1c417e09",
-        "ev_59a6b148325a469a86d5d864ac9217c4"
+        "ev_64d3bc84538549e89376e172d05b80c4",
+        "ev_7fdc5df8a8ed43b9af7241d9a2654091"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118450"
@@ -9324,8 +8996,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_2a879185b7684b508eed02f1ae6d1862",
-        "ev_63a7416ce8b54e29ab68bb37d15ae881"
+        "ev_8aa0bb10c3474fda9ef3416ab5906cc3",
+        "ev_1ff6ecda0cf44822a07398b979f9ab7b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118645"
@@ -9392,8 +9064,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_cebf444a1cf2470ebfccd22b6eae781d",
-        "ev_dd837dfccb6f4b9980556cd3c6b331b0"
+        "ev_3c57c1d1e5044ca6b03c9766c97a3d3c",
+        "ev_048a886f375143f5b846bed548f3537d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118458"
@@ -9454,7 +9126,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_001fa1387036433a8a260852276b2858"
+        "ev_099b491712b74ce58a755bab7153f724"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117383"
@@ -9515,7 +9187,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7757a76d061e462197e7b24614b213a1"
+        "ev_c8d595329fe348c4a2df8b15f93f37a7"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117382"
@@ -9576,7 +9248,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_42defd2ec56c4b06838efe955928fb20"
+        "ev_d1bfb013b2ab486bb2c684428971d5c0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117403"
@@ -9637,7 +9309,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1f070a567bba4253ade5c8aba448613e"
+        "ev_e74e65484be0485cbf97507d4163d186"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117644"
@@ -9698,7 +9370,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fe9bedc693d74742b0ed672244e79a34"
+        "ev_c7d363f96bd34f629963507cd454e0d0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116545"
@@ -9759,7 +9431,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_726cdf6feeaa4b9e9c06bc98a4f1c26f"
+        "ev_429b6eaf887242d699cbbf5bc4f6d1a2"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116603"
@@ -9820,7 +9492,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_306772bf3d1c4b6b93c472c95cdb53c3"
+        "ev_c112b517984348b39b1b02d693e19091"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116733"
@@ -9889,9 +9561,9 @@
         }
       ],
       "evidence_ids": [
-        "ev_4b62ecee703a421ca7baae2695167a09",
-        "ev_f40996525c1e4a2eb1b48735a44a3a79",
-        "ev_1e2991a0cf0349fc8801875fa1448977"
+        "ev_88a967bb65ba4756ac239c7ee1b5b796",
+        "ev_d6458fd0178c4306b3d6f76e19432363",
+        "ev_48587be121ec4a7d84dadedfb531bcec"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116460",
@@ -9953,7 +9625,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_34af9d2bf20041d4a65667f8e9dc9817"
+        "ev_1fab3ee4b195448989fc3670187f96ed"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117414"
@@ -10014,7 +9686,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_11d895717625491dbd38019775e1395b"
+        "ev_143493bebfc94180ae923ed4ddf6e9a6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117402"
@@ -10075,7 +9747,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d3ae2d2a1c6a4dbfaf7b9e1264c4b4fe"
+        "ev_8a1d40dd1d774459820aa5a7179ff4a3"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117389"
@@ -10136,7 +9808,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3cc685f51eaa4a2da8f2fd901abe2ba6"
+        "ev_7de39fc5a61f4a4c853549ad463e7506"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117367"
@@ -10197,7 +9869,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2cb1fc754edf4dfda166625ee3142e52"
+        "ev_f4c054ea859e407391da6ebe6f4ac4e4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117914"
@@ -10258,7 +9930,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_97df63f87c6546d582e70e55767df743"
+        "ev_1edec8b5addf474a8a0127e7db737af2"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117930"
@@ -10325,8 +9997,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_6834d1c7259e4185a34b4d293f25a7de",
-        "ev_97830041623348bb86cb9bef5f327514"
+        "ev_71920f322a81462fb7a7ca440225801a",
+        "ev_16514b48d12e4555aded6093f6d317cb"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115773"
@@ -10399,11 +10071,11 @@
         }
       ],
       "evidence_ids": [
-        "ev_8958c37403284abfb8293bcd30e70442",
-        "ev_bc45b1a599894afabd91cedca25d246e",
-        "ev_bf1459a9021e4c0d8ee3ad6e51dd5f06",
-        "ev_217dcdae054648678c500d446503261f",
-        "ev_d89f93ce9a45432cbeccd3df3a519e3b"
+        "ev_f5729b67b33f44ed839914ba2f060471",
+        "ev_7392f288592949efba8736c6ac5fd611",
+        "ev_5ed15d2f988745eca68d60b5dd686446",
+        "ev_6ac223e81d3341ff82f4471b7c31cd7f",
+        "ev_88ba19e3176141b2a0ed6b27c281cf16"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115829",
@@ -10466,7 +10138,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2e60ed2f56ec43b49b38cd55f2c686f4"
+        "ev_ecb0904b93394668b93555d3aeffacaa"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116338"
@@ -10527,7 +10199,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a79c6d7e6f9e4a3f8eaf5ee95d05d183"
+        "ev_b8e2e1e1ec304346a4811cfca70399b1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117407"
@@ -10588,7 +10260,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5959a56267f44943a7b5db9cbffc1734"
+        "ev_ea8d0bdd85194a7da5d151443a5399f0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117380"
@@ -10649,7 +10321,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b2db18326f3847648c26cd5c9bc471a2"
+        "ev_5ac965fcbc3447b59e5478141f6c9a55"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117398"
@@ -10716,8 +10388,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_6694af495b2c4fbdb9e7e1df86b21bdd",
-        "ev_c3b5cec5e8954e10af8021edf0d3bcae"
+        "ev_ff11ac2ae4c74d96b0cc6ae4e9722342",
+        "ev_f5fe50c34a3049a2b02dd2faa1741823"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116901"
@@ -10784,8 +10456,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_5d1fb173db9c4d19aed629f02831f66d",
-        "ev_5fae244e65404f44993277b8c489cb41"
+        "ev_6fad51f2875b4fd7892e4fa511be2798",
+        "ev_bfbc1a31a1dd42edb91d4513219a7bb6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115941"
@@ -10852,8 +10524,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_2325a1a7bbc74ca7875f7ad0bef4fd6a",
-        "ev_30d65b0e53c744298e58a74883a5d48d"
+        "ev_5e6ae8c7b040457fa9bbbc1e7aa5ec4e",
+        "ev_f7f462690f624080baa1f82cef8368bd"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115866"
@@ -10914,7 +10586,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0192413cf9bb44ddbaaf86e4601ddae8"
+        "ev_dda52e98ad8444f585758e59ac48fed5"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116624"
@@ -10975,7 +10647,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0e22ba57cd1547388b5badc87d7bdb50"
+        "ev_e1abd7f8589b48c7bf22065316ac6a61"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116593"
@@ -11036,7 +10708,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_23a4da5510a44f8d9b3b5e027a0133ec"
+        "ev_1cfcfc4d1c7c47eba7c9d1973bb41fc4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116737"
@@ -11097,7 +10769,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bb21a0ed7fd24dfd9a436ff11018ceb0"
+        "ev_55b5528fec424575ac2b7c3898cf6ca0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116761"
@@ -11158,7 +10830,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a1afb418080e45c28aa3ec2e11e2d39b"
+        "ev_d021fd20fb634994ba426c867a410674"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118475"
@@ -11225,8 +10897,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_95c0e9dc951a40718a33763c2dc6adf3",
-        "ev_ea56f573b1704261be245c6e79f0a72a"
+        "ev_6d8fab083ddd4683a09684cf0ac46ac5",
+        "ev_df548a328fc343e78ca8a5abe0ec7e30"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118436"
@@ -11293,8 +10965,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_5d37a53658a147418067041a355d74a9",
-        "ev_449847c77247484d8e4fcdb2c7e94b17"
+        "ev_699dbdf842b9455abb0b45c1780a93ae",
+        "ev_b86a8f19d2b04044bb3ac0cbe0eebdb8"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118314"
@@ -11361,8 +11033,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_3939ee61d0494d2aae4253ddd3db3689",
-        "ev_a87eb5f380e549f6b39eb09d5b3b8e7d"
+        "ev_7a61363b65a742b48502fee5f84892d6",
+        "ev_6ff4f5e7cb5d4262a2148f2849d43c9b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118443"
@@ -11429,8 +11101,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_9f97987c42634eac936bd643a62d6bd3",
-        "ev_a6d4925dceee444c8804a31ba1f11139"
+        "ev_3ffe1d967bfb4011a3e351ea46693990",
+        "ev_b5828aebd6504113b86e3859c502d839"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118643"
@@ -11497,8 +11169,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_7b9b89359148466285fe4e2305da6463",
-        "ev_eb5000a8c412480197e35b61d932e72e"
+        "ev_1536e18daf8847f0b76190fa311bbb1b",
+        "ev_21522ab409db4bd59f5ecde74316b5b2"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115840",
@@ -11560,7 +11232,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_808b554aa89e42dd81bbe2c638c305bb"
+        "ev_86211fb737934b0e858aa5e2ab752890"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115818"
@@ -11621,7 +11293,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fc55962880594ae99e943d2253d5f5fc"
+        "ev_8c18c5b33bee4fd382217380d89e23c0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116072"
@@ -11682,7 +11354,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4395d160da10465f8e7d2f3ffb0e46c1"
+        "ev_99049111d4d84284acd9e32ee81a067a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117088"
@@ -11743,7 +11415,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1eb56fc3bb8e48a2b5ad9434cc5972fe"
+        "ev_5573cf1eb83942f5ac9a29abe2d67297"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117391"
@@ -11804,7 +11476,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0523468c2b38469ea6d598b9589a625c"
+        "ev_d3c01a04980c4a02a2c547576eed08ef"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117370"
@@ -11865,7 +11537,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e223a1190fd1490ea4a6c13c8a02cfc2"
+        "ev_e71bad87e29f4632809a6877705bdbb6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117384"
@@ -11926,71 +11598,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_5ef22610313c4459bed5b7837384400e"
+        "ev_6d5bf69b467a4df588987dbb084bd385"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115827"
-      ],
-      "primary_event_date": "2026-06-01",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_bd0200fa0e6e3850",
-      "primary_parcel_id": "DX-RP-89861ACD11C1",
-      "display_address": "N/A DOC-202600116216",
-      "display_owner": "Unknown",
-      "display_score": 35,
-      "display_tier": "Low",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_JUDGMENT_LIEN",
-          "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_c24b7f86f2c44a4aba3eca6f5ede149b"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116216"
       ],
       "primary_event_date": "2026-06-01",
       "expected_sale_date": null,
@@ -12048,7 +11659,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7d02354471334b67bd4f634dd6858540"
+        "ev_17d6f36c8d204dff980a32ed0766aec4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116231"
@@ -12109,7 +11720,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9bafd13efabe4c20b9f9d0599926c76b"
+        "ev_88646ff1872948dca0d66b3ada46c87e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116374"
@@ -12170,73 +11781,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_0952f2b60a37466daad5f1d0bb329dc2"
+        "ev_9f67969ff3c2400eb518141ea7f0cfae"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116447"
       ],
       "primary_event_date": "2026-06-01",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_99be311686a0f957",
-      "primary_parcel_id": "DX-RP-93A443349ABE",
-      "display_address": "Subdivision - Name: LA PRADA 4 Lot: 9 Block: 1 Township: GARLAND",
-      "display_owner": "Unknown",
-      "display_score": 35,
-      "display_tier": "Low",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_MECHANICS_LIEN",
-          "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_d6faa9624f704d308597c5d1d86d256b"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118138"
-      ],
-      "primary_event_date": "2026-06-03",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -12292,7 +11842,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c6573f1c9d2641d1a54abd27f6df907e"
+        "ev_9b86a89fef5f4bfe9e06e48936146ae3"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115536"
@@ -12353,7 +11903,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b90a6786fcc1454db149e6c9443ba100"
+        "ev_0e3d8de1f3424d409bb8a960ba16bf5b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115872"
@@ -12414,7 +11964,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9ed554268b7147adb9562c43fe953e78"
+        "ev_32b791332de640498f788934289564be"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115897"
@@ -12475,7 +12025,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9ec6189d0a634491be04d281e00131b0"
+        "ev_1ba33bcda4b248388bd39db6acb64b00"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116642"
@@ -12536,7 +12086,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3df6e270446c4b47b276b8a854a60ce7"
+        "ev_34ad8f253afe4b8ea5bfd7bcea757031"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116702"
@@ -12597,7 +12147,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e89c8792681a49b5b405a18d558238b1"
+        "ev_25f74c821a4b4026bdfcf79927739fd8"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116650"
@@ -12658,7 +12208,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5ef335749dc14fb48e5beaf2f30426a3"
+        "ev_99af6d5ea9b64a55a67dd20fbd5dc154"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116723"
@@ -12725,8 +12275,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_0f61d172c90546728e2e67fe89014c4e",
-        "ev_b1392109103d44edbb6adcfb55c6f8e5"
+        "ev_cde1619d449c4cd1be08318716002f5f",
+        "ev_7e1cd635369e4a649d7c8a1083bd7973"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116611"
@@ -12795,9 +12345,9 @@
         }
       ],
       "evidence_ids": [
-        "ev_b386dbf4208a4921867480798eb1ac02",
-        "ev_dade184ab2144d1094d13256431170cc",
-        "ev_ae91de1c3b304d249f82fdad09005894"
+        "ev_d1bfbfd6dedd4281af511f436f340b7b",
+        "ev_8935af579e48464c9f932f5e64657a45",
+        "ev_b574368329814d3f88fe8199d1e5936e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116608",
@@ -12865,8 +12415,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_f370faf66a4e41a99f33a0c6c4d359ff",
-        "ev_38073e3724884d5eb6094e2c9ea0265a"
+        "ev_32625a4c9d00428c90ae182d1bfef1e3",
+        "ev_fad1b62632194218b88b58b5729dc85e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118445"
@@ -12927,7 +12477,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a463c958af504e01ac0529b34b28b283"
+        "ev_595d6b21f2244d7bb3ca6a4219abd1a1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118441"
@@ -12988,7 +12538,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fb681c8d41f446c3878468f8c09ec8d0"
+        "ev_3bd87b6691264dcc91bad65f32a8c4dc"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118449"
@@ -13055,8 +12605,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_6ddbe917374f4ca0ac0f08398466b3e0",
-        "ev_2ce37156af3341abbf5ef924c5afa3fd"
+        "ev_0edb465174984f7286848a46fa17f167",
+        "ev_7049767fcdee4d77b52e70a5f5487f89"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118655"
@@ -13123,8 +12673,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_14bb884d83a3419d8de0e059a970138f",
-        "ev_62dfd12302634319b43259d5ef90a979"
+        "ev_2c442480b55945c08cb3f4f1fc091919",
+        "ev_814bbed2afe140a394644d16d408da20"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600119049"
@@ -13185,7 +12735,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_60b07e44283e4192bfc5b3f1a6945f8b"
+        "ev_4c9f4c4b8c9043e3be38c6486f38fe21"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116446"
@@ -13252,72 +12802,11 @@
         }
       ],
       "evidence_ids": [
-        "ev_56626e2a529d45068b08127205ee91a9",
-        "ev_a5e58ba7d78b4e6bb4ab321030af55e5"
+        "ev_9ddfa7645f6e47eb8bc90482cdb9eeb9",
+        "ev_c1e45e367ea2401aa29447396e35c4aa"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115601"
-      ],
-      "primary_event_date": "2026-06-01",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_98d37be8b3833e7c",
-      "primary_parcel_id": "DX-RP-6AEB0333D562",
-      "display_address": "Lot: 2 Block: C Township: DALLAS",
-      "display_owner": "Unknown",
-      "display_score": 35,
-      "display_tier": "Low",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_MECHANICS_LIEN",
-          "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_27a73e2f7dff46239ec96f4613e9c496"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116423"
       ],
       "primary_event_date": "2026-06-01",
       "expected_sale_date": null,
@@ -13381,8 +12870,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_191d98b3b100488fab4513c545c84e32",
-        "ev_1f9df8a3d3b04478a012ef91f79368c6"
+        "ev_8e636ec756b04d15b7a7dc102dcd4603",
+        "ev_03022ded335f49b69e330debd7917308"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116578"
@@ -13451,9 +12940,9 @@
         }
       ],
       "evidence_ids": [
-        "ev_e924d208f44c4051a36a459ec874c9dd",
-        "ev_3366d9a21a7a4131b3f7f157748f48e1",
-        "ev_36cdbb2787d0487085f0e2e2ed87d3e4"
+        "ev_3acb7aa7b7dc434192187add1fd89452",
+        "ev_4b5373ce3253491dae5682efd0202d49",
+        "ev_74a5872e81f144269be4363b015e91e2"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116663",
@@ -13523,9 +13012,9 @@
         }
       ],
       "evidence_ids": [
-        "ev_dbafc4e914f04a05b7fa383d9ee03903",
-        "ev_bc7cec32e58b4fd4ad0ba394ef4a6356",
-        "ev_23dae8e3e5424853a480b6ea9f838855"
+        "ev_3a07908d671645e6992fb332ac970daa",
+        "ev_909968b695a44486bf815c1ca6012076",
+        "ev_9de301b6b8384f748a228aefd9db0fd2"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116377",
@@ -13593,8 +13082,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_c389a3a54b924a88b055af1934c9e9e5",
-        "ev_4ecc3c9212044c20926414856dfc7230"
+        "ev_b9dc14b9f4574197b95d8947783f0832",
+        "ev_4c984e3672df42eaa944a3b9d6c06bf6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116538"
@@ -13663,9 +13152,9 @@
         }
       ],
       "evidence_ids": [
-        "ev_c50b7598cc2941b28be42979c3cddd4a",
-        "ev_d60fa9831a674d6e9d4e416832b8dd5e",
-        "ev_4e362e3e9fef43d38ecc2c725fcc7fd6"
+        "ev_48578974913a495fbfafef4c0154340c",
+        "ev_b092907bbf6a4ea398132c8ce8d951ea",
+        "ev_8825b05fbf0b4a20a6c58544e7389e7a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116255",
@@ -13739,11 +13228,11 @@
         }
       ],
       "evidence_ids": [
-        "ev_b19a3bcb28d94a379b78ab709323a3b2",
-        "ev_7880108c86334553ab603b8863e1ac73",
-        "ev_96a6510b35d24e099b9f2eb665e65c18",
-        "ev_62a266cbf089443e97c293811e85b7fc",
-        "ev_69d6c20b5b5e48b6acf71403f9b5db0d"
+        "ev_24fc8dc9d0b94adbb6c0f524c47f5352",
+        "ev_b65bf374d62f4ac797b01e2434c47cfa",
+        "ev_a85cff3e6cca4ee88bb20d497141df75",
+        "ev_19866152088848e6b28759424a988f1a",
+        "ev_12681d9dc2524a538f484adf710938ea"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115775",
@@ -13813,8 +13302,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_4ec6e4fa2d8b45dfabcb5b51ea9155af",
-        "ev_9aa90f68d52e4ad6945ae37f261f98e4"
+        "ev_3f9a6f2b255149bdbe68c04e581d0bc5",
+        "ev_64e0cd867d1c4e60a1dc70f76feec497"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118236"
@@ -13881,8 +13370,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_03ff9cd6c56f475591368f464d02394c",
-        "ev_2e9f05bf59c04c98a050939f814bad9d"
+        "ev_a7b5c982588649eb8f221d8dd1b2396c",
+        "ev_a2ee957b4f4d4ec2a5e17560d71c52fa"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118256"
@@ -13943,7 +13432,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d9c33bc452c54e039e76d43ddf9e4423"
+        "ev_2adc6dbdda784bdea7205ea7efc95ca1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117396"
@@ -14004,7 +13493,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2fb51e8b6dd941cfb3b586f2e87bff47"
+        "ev_1586b95a400f4c5bb8b184141194d45b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600119050"
@@ -14065,7 +13554,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b01a91c7a5954f48b3329e664f30fa8e"
+        "ev_253e481b1a104011b4f79591ca40dae7"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116123"
@@ -14126,7 +13615,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3020d79f1d0d4fdf828b40629033bd22"
+        "ev_825c6783ab224ddb93a639dda8e35113"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118435"
@@ -14187,7 +13676,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8bfbc9ca06ff44679acd807c0be54661"
+        "ev_b6db675f834442c2bd18a5e8749bfbcd"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116612"
@@ -14248,7 +13737,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_eae9e6ec3957447ab4662b4fb376e276"
+        "ev_260561dd7ad34c36a8f2110f293bd055"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116731"
@@ -14309,7 +13798,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fbd57651630a48dea90390303b960b99"
+        "ev_6a52ea6125574e15a049c110e4b80eec"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116714"
@@ -14370,7 +13859,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e3c042f9f0154811acc9f50c9e2d5fe9"
+        "ev_71f23d1a59ad42b983840153829d26a8"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116944"
@@ -14431,7 +13920,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d89c567623734bf48ae945760cfeb77d"
+        "ev_65b1ff30adbd4c1fb83c5f7e5a60d301"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116949"
@@ -14498,8 +13987,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_1b0d818558e44e0292318b0dbca19556",
-        "ev_1db8b8ccec714cb988d2f6260df9f64e"
+        "ev_7b8ea387b0be43dd91bd0dd27db6208b",
+        "ev_83021fc26c6b477c9d93ad4d1fff1abf"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115766",
@@ -14561,7 +14050,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b9d3d8da1d73443db82be3de99087c2d"
+        "ev_45b0e8bdc778454c9884ceb233d2ae94"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115816"
@@ -14622,7 +14111,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_25db723aa04c4a538e10d8426c2f5c18"
+        "ev_2f9477a98785433f9282a139bccd37a0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115814"
@@ -14683,7 +14172,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e94da79e4c964ee9b23ca1db146f606a"
+        "ev_f83f861af7bc4c5ca4b93c3f50e05a8e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115865"
@@ -14744,7 +14233,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ffb455119eb0466ba78161bb378187dc"
+        "ev_5c627f50fc3d4d7b8ce89221143664d3"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116504"
@@ -14811,8 +14300,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_87388f8861434e0d8e1f0913e0e5608c",
-        "ev_6460acbb284b4035adb91db9fc7311c1"
+        "ev_7cf9c811db3e4201b49f94ed6f9fe39d",
+        "ev_8349ec9443a84233847198c6efeb65bd"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115830",
@@ -14874,7 +14363,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3fc2ba9246204f7a90313eb2414a2420"
+        "ev_571e9cc0ca994a15b68bada6f0d06bf9"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115811"
@@ -14935,7 +14424,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_12faf2066c9d44beb7ec72aaa6d0bade"
+        "ev_95e5feabe7e4470eac156ae5d792dbfe"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115835"
@@ -15002,8 +14491,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_7c138ff4847146b09581296bd7db5368",
-        "ev_5fe16a06b8c244c782b56780d598eca1"
+        "ev_0ce060ad8aa644bfa3e55456362b8ffc",
+        "ev_5cb6fe9b04c048779fb0be83ab7fc275"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118456"
@@ -15070,8 +14559,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_97bbde82d4ec4f2f92d6afd960441ee4",
-        "ev_e2da4819e98749dbaff8bb9c804386fb"
+        "ev_ad4fc223df594865b4479e0d2107c3fb",
+        "ev_27e29234a83a4ae7b5673858fa0caed5"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118428"
@@ -15138,8 +14627,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_071ae002cc9a474ab4202c3319eb37e8",
-        "ev_8c1c95800f5541ce96de909826d30754"
+        "ev_497219e635a546f7837308f726c4b974",
+        "ev_ce2d8e6a770648208d627758527cd558"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118437"
@@ -15206,8 +14695,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_3738c81ac3cd4c80921694716df9352a",
-        "ev_54f67ed6b9a54ae8bfc71a6c210dc4d5"
+        "ev_4787d5fea51d4f2694dedcbfba2d9d67",
+        "ev_3899f92ba8104beeb159f509e747f545"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118650"
@@ -15268,7 +14757,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dd6fd58ada66408c8aae31cc888c50eb"
+        "ev_17f84004a1014566ad0ac9001bf19e77"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116399"
@@ -15329,7 +14818,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_49a664d746cd4e36bdfe4843fa0e673f"
+        "ev_b991d2a5893240c19ad76ee0ab92edab"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116360"
@@ -15390,7 +14879,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5dd02c28ba384440893da31d7720e4c7"
+        "ev_10864d95747d440eac69aa7a22b3ae93"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117352"
@@ -15451,7 +14940,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_56554fc9d17f482ab13645cf50d59a0d"
+        "ev_ab3961fbbf4f46908235e37df39834aa"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117378"
@@ -15494,7 +14983,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1b60a5ae0da34776939053bc082da4c2"
+        "ev_a746a9cb40264e6680596b50d4e80898"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117183"
@@ -15557,7 +15046,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_593ea3d5ad6442d2855692e52ca45f2d"
+        "ev_50be8b7b80364577a420870ceaf583bf"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118664"
@@ -15618,7 +15107,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_942b8ed2489f4243b7c63f90789bebe3"
+        "ev_cc08a41096db4260a441c35d88700f18"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115794"
@@ -15679,7 +15168,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_58852525810a43fbbdb53d769145f9b9"
+        "ev_c81806fe822f4ef6831b9fa79c375766"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115847"
@@ -15740,7 +15229,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1011c3e4278b499e8dcc8e858d529273"
+        "ev_90c26561e70045c9ace0e0ee16890c73"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116758"
@@ -15807,8 +15296,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_2901f9aebe02473e88c3d4306ff8bd0a",
-        "ev_d29bc59adb3b4468981565487d3b06b0"
+        "ev_166ff042d4594054848ec18ef8b9022b",
+        "ev_187f9081868742b4bb8913289d727fdf"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116414"
@@ -15875,79 +15364,11 @@
         }
       ],
       "evidence_ids": [
-        "ev_b1cfb0e9586a4c52909e6683d0419953",
-        "ev_13447e5a955b48bb822b2817513fd8fe"
+        "ev_e9fcd4606b984dda837bf215122c5912",
+        "ev_1d1a6a6d7d774d5598b3ef7babe95c75"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116416"
-      ],
-      "primary_event_date": "2026-06-01",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_3529a7bb5f91abd6",
-      "primary_parcel_id": "DX-RP-19048C5A2F76",
-      "display_address": "Lot: 19 Block: 31 Township: DALLAS",
-      "display_owner": "Unknown",
-      "display_score": 47,
-      "display_tier": "Low",
-      "display_patterns": [
-        "lien",
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien",
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Multi-signal distress stack; standard wholesale flow."
-        }
-      ],
-      "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 2,
-      "score_reasons": [
-        {
-          "factor": "base_MECHANICS_LIEN",
-          "delta": 30
-        },
-        {
-          "factor": "stack_depth_2",
-          "delta": 12
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_457f6c46329c4f23a8132bb3f8764d64",
-        "ev_2edd4d6d74dc4fbe88aeeb493caa8df8"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116509"
       ],
       "primary_event_date": "2026-06-01",
       "expected_sale_date": null,
@@ -16011,8 +15432,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_659bf6b35550422096e656e548dc7daf",
-        "ev_f7da0dccaff5478d8e0092926c527830"
+        "ev_1528cabd48414453a41b56ad880cd9ee",
+        "ev_3464504fa5784670be7a1f34b13ac486"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116354"
@@ -16079,8 +15500,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_c717808e700741928d24f18e19ba60b3",
-        "ev_0a1e53415fe1488aacd531e9c0e149f7"
+        "ev_79b819ced886442f9aedddcda09e4440",
+        "ev_bd1b8c2dc2624d4c858e20ec0639dfd7"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116395"
@@ -16141,7 +15562,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dbae97978c4c46119cf87fd67b0a1361"
+        "ev_1d5260434f144f69beaec5790e37ec3e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117397"
@@ -16202,7 +15623,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0eff49ac2f9145acb13ed92bb441a654"
+        "ev_e3ba32c9f0e148098ff581a7e0c185c1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116367"
@@ -16263,7 +15684,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_50ff724e408243f1ab8e2fde64a0d028"
+        "ev_2c5ed85892604f8a82f03ba879bca67a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116285"
@@ -16324,7 +15745,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d2fe8b257b2a4797b03a21caa427ac43"
+        "ev_26a72801d27a41ba9e3cb7bf753d43ef"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117927"
@@ -16367,7 +15788,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1f6b23bf77ed49c2a0bd18403922a630"
+        "ev_1846a9f80f174971828a6007bb98d34f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118275"
@@ -16430,7 +15851,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fe21b4c99c3c4cfc99987436a1a8ae39"
+        "ev_64a66e49b3da49d192cecd7ede3b36e3"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118327"
@@ -16491,7 +15912,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a1d56704e57f4961a45407d4f49d203f"
+        "ev_e380b117c9c94b0eaa1ec15c5875924c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118455"
@@ -16552,7 +15973,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9aabaa3ce4f04aeb93fb87466da9f631"
+        "ev_9131bdae1a53427fb0d13c83373703af"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118448"
@@ -16613,7 +16034,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_deb964afc2864310baffd5a6709f81f4"
+        "ev_ba4775b808fa42a8b4eadee65927fabc"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118734"
@@ -16674,7 +16095,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2e3b13c95aa040aa81a988ef7f40e264"
+        "ev_92934f1159d94b8681ea988a36e4f5fc"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116756"
@@ -16735,7 +16156,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ba610a84da5443ed90fe89faa722c77f"
+        "ev_6a30ce2f5c9740cea1c397c98302b3d1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116747"
@@ -16778,7 +16199,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_81aa7b6acc2643faa0ebcbd49c153d7c"
+        "ev_c2d2d5d29fe6442c8c7e010bec229967"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117179"
@@ -16841,7 +16262,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c65a625ba6984e6e9323a9f3e70b24cf"
+        "ev_0c0099dfeede4b55a701692e75c51d0b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117368"
@@ -16902,7 +16323,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_81bd58b1c1894fbc822d9cfad21bd8c0"
+        "ev_a06a2260b9dd4076a43f243fed774ecd"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117406"
@@ -16963,7 +16384,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d4b9a1fcb37545dab05fbea2ca6c06f1"
+        "ev_4efd147de8124908ad2c190bf55490cb"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116118"
@@ -17024,7 +16445,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3aeda51195d1408cb8e2ed15d3de404f"
+        "ev_92c65c1de8d945cab71055da1eb4a9d1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115837"
@@ -17085,7 +16506,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d4dc484fedea41648b02cb86ea486465"
+        "ev_fd0aba7836f04c97ab6a3370c739622b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115908"
@@ -17152,8 +16573,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_f26b24ae049b466791be9efda9c2fae9",
-        "ev_231b0986edbe4facb27277b760522b63"
+        "ev_bbcea0d851cb422686b1dae5e566dacb",
+        "ev_bc1f0496e9de48abb297422d085b206e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115950",
@@ -17215,7 +16636,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_eb3e4e1f42484b2aa06a8f4219087783"
+        "ev_017fd6c3ce5a4c2db157cb2f958f35f4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115826"
@@ -17276,7 +16697,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_43a7f55810b64adf9e1200f9706950ff"
+        "ev_e5aed0813daf4a5e994a9c37a7f4cf74"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116121"
@@ -17337,7 +16758,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a50f3e397c4f493599d2c72b925dc6a9"
+        "ev_b30044b8ba644c0dbc09923eb77ec5be"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115834"
@@ -17398,7 +16819,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fece8dda3b6444dc9b1ad3527e1ed4fe"
+        "ev_2ec606572fda4918b98b80376d2cff41"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115878"
@@ -17465,8 +16886,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_9fa4be11d77f449580e587599782b82a",
-        "ev_fb57926021f34374abd716695cbaa043"
+        "ev_8035963890dc4c0b84f7fcba568b6794",
+        "ev_5281147add704d4693782403549bfd24"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118430"
@@ -17533,8 +16954,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_827f44ae1a304cd2abdbe7a3083fc25c",
-        "ev_45591d74004d49f194b302b4991efdaf"
+        "ev_a02c901169044b36ab571363b9d3f5bc",
+        "ev_1bf05e56c27b4e1796264ef410a52409"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118438"
@@ -17601,8 +17022,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_efb8a2d6111e42ac8efc9e6de2db4e9f",
-        "ev_80e366d7e3c6453fbac8c342c8c04bcc"
+        "ev_a093b31575b247f29c772674576f78c0",
+        "ev_3fc9aca8856847c7a98398d48271d19e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118375"
@@ -17673,10 +17094,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_6555c374865443019b7996f31025ad8f",
-        "ev_24b126c4b2e847e680116e8dfe89bcd7",
-        "ev_d28d9e1e5f454cecadfb1202ae29e0ca",
-        "ev_c2684f0fc54b4a948e4a7eac744f7840"
+        "ev_5ff6737f0c124a13812bbdf0ba43622d",
+        "ev_8d5b0378eb19455994c7610fd5b31603",
+        "ev_6b6f1f9fb68e42f6b83acb6615d35a72",
+        "ev_c97c371f2c8942739d2a1333383dde91"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116484",
@@ -17738,7 +17159,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a30af24f9d084e979fe087040e714e6b"
+        "ev_e06d1c0bfba24de593df405b6c07b28f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115861"
@@ -17799,7 +17220,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ddb65c2752e1472a84e4b946bc1cc18a"
+        "ev_83c028e3397f46d68b8a86f11be17591"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116709"
@@ -17860,7 +17281,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e2b79cee382e447c8e953f9d2dbdd7cb"
+        "ev_e8c9069942b6461881d5ba3f4200881d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116746"
@@ -17921,7 +17342,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bade825bab5d48869f30a991c7fdc545"
+        "ev_a49a78064c644d72bcaf4617a4870563"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116773"
@@ -17982,7 +17403,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1aac473542764cf18019626a47fdb973"
+        "ev_18bfdb9497f64f37a446afcdbac2023b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117385"
@@ -18043,7 +17464,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e781e230a7b34765ba03c8719bb9563b"
+        "ev_675b80197718482c96455ee99b5a357a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117425"
@@ -18104,7 +17525,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2e6bcbbd7ce4448d8596215d3e050e79"
+        "ev_2bfae8d91aea45ed9c44c8a276d06999"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117420"
@@ -18165,7 +17586,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cfdb3ffd79a04f0d9ef0098f528b28b9"
+        "ev_5b4aa935dea747318f267645fbc0be52"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117419"
@@ -18226,7 +17647,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_830445de32fc43529c90ca286c0b0279"
+        "ev_9c6ee90da15049d3a7e539fa32713b3b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117418"
@@ -18287,7 +17708,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f8cdf01cfdf949f2801c042da1c91b15"
+        "ev_2a08df0de21d4c7e986ddcca62f303b5"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118447"
@@ -18348,7 +17769,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_271238af608047539ce5a42665788375"
+        "ev_b430ef86c1674e43ba486cc2953b838a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118657"
@@ -18409,7 +17830,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7318b686974248999cf69d0a5aa50d2b"
+        "ev_52cc41d18c0b423f8c2ec02ea6c7ffc0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117660"
@@ -18470,7 +17891,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_94c59ca052b24050af4e8dd4ea424407"
+        "ev_babe8c75575a410d8a116ba0b0928c6c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117416"
@@ -18531,7 +17952,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_69c09e65386c424aa25c80f5f0ac8076"
+        "ev_4a4238a905234fe388f88a8516da6b59"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116352"
@@ -18592,7 +18013,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9e505dc42c374f9a86917e0dccd74b27"
+        "ev_580b5019f7414678823adc5f8826b617"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116261"
@@ -18653,7 +18074,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c40011f2e7744dc180a71f82148c1492"
+        "ev_e62683f5914d416293149ff23a0c3b06"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116379"
@@ -18714,7 +18135,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5cff29c0b7d54478aad2db0164b487fe"
+        "ev_9691efcf5ff94d6489b0d80aed2added"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116334"
@@ -18775,7 +18196,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3e35aa9f599140d39a4a4b3752190c38"
+        "ev_3f2b62a4d9cb4b249fc12b74a58f1735"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115765"
@@ -18836,7 +18257,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e91157a72b19469f8ba5ad3d21fbcfaa"
+        "ev_d79946e40bc24feda625c4a9304cc066"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115888"
@@ -18897,7 +18318,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_32e30141cc5c46b1a24fc3c9a81de470"
+        "ev_461572b6fbfe4986854666f55f1ba338"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117258"
@@ -18958,7 +18379,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0089b1c9834d42fe8ff266f141bfab89"
+        "ev_0fb8ddfd9254463492eb8f761f98efb1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117255"
@@ -19019,7 +18440,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_834474fcba164ffb8376a2345e9c03e5"
+        "ev_a7c39c28c543414e92a3298fe5cc4cdb"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117374"
@@ -19080,7 +18501,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_be006cf2e420458699159c177def561b"
+        "ev_76e800a7c7174b36932383514348917f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117252"
@@ -19141,7 +18562,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6eb21fa3b50e4ac886f16d20fd2aaafa"
+        "ev_d5018ace653c4e4bbe8aecd09ef45004"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115879"
@@ -19202,7 +18623,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ce6b4c3d79154e98aa3971d4b7313f70"
+        "ev_5c14c02400f84d29b4ddb771a98689c4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115785"
@@ -19263,7 +18684,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_adcad0608c66472eba0af10f33e048dc"
+        "ev_21fef2b5ab164371bd35d162427a143a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118148"
@@ -19324,7 +18745,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e1377ee704a54d0d9e54623ce4b58065"
+        "ev_38c8b75852a9477a8e96813e3db3a603"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118440"
@@ -19385,7 +18806,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bee4faca000e490980598f03f436b839"
+        "ev_d3a642da677f4c669e05adfc4b4cb491"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118411"
@@ -19446,7 +18867,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ed080ed4a00046c3ada76dca0e788139"
+        "ev_deeb6c367db843e5b9869c42e9ad461f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118492"
@@ -19507,7 +18928,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ba60dd63af6f42cfaaa977d7c7d9c2fa"
+        "ev_ddd7d63ea16448af9a5036b8bf59dbc4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118452"
@@ -19568,7 +18989,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b2558b49fbf74ccea54af04ee1619429"
+        "ev_6769cafb9cb641338d74684d8b4f78e7"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118434"
@@ -19629,7 +19050,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_45a70a62cc814df7990a0182b1f960ed"
+        "ev_fa4598daa2c442c4bedb0ff6dfe691be"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116653"
@@ -19690,7 +19111,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_717bdbda578847d795eacf9100ea11dc"
+        "ev_4ac73a82f13f48fda55567efe25c2b00"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116707"
@@ -19751,7 +19172,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_69dc7a3965ea47048d11fe27ee1eab9d"
+        "ev_871e3cf03726462aafc0dfd2f79c77be"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116757"
@@ -19812,7 +19233,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0168413623b348599f7b3b1cd4210e4b"
+        "ev_4f286f075f624b5c95382f4f97c96922"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116753"
@@ -19873,7 +19294,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8a898026f5b846148b5ca4a72a266e76"
+        "ev_f57be6e3408e4cbfb2cdc0c8ea591583"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116775"
@@ -19934,7 +19355,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9794f6571e1644fea680355704a0c145"
+        "ev_78d2c06d1aa34c9ebfd73640cd2fb9ca"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116918"
@@ -20001,8 +19422,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_a7fd86c4dc4545d1b24bd0f5998ccc58",
-        "ev_411034f748214a02941bce1510980333"
+        "ev_df6b7c8ec6fd423eafa7410406a9138c",
+        "ev_7ed8c98565ed436f8b48bc2e75338884"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117401"
@@ -20069,8 +19490,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_3e588ca822684eb2b8818e40e7fa4da3",
-        "ev_0c19156ea805475bb31cf08843e6703e"
+        "ev_f31b115ad9124771b2a37ccdf4193d49",
+        "ev_9e59b75d89eb4b5a8aa101458517cc7e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117249"
@@ -20137,8 +19558,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_5c46b5913ec84e998ce7ef8d0a0b4251",
-        "ev_ac6907c2efcf48e1897c96e052ba4346"
+        "ev_717dde63b6754ffd84cc66f7f6d63a5d",
+        "ev_d2830428052441218fcbad86e9b0334a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117369"
@@ -20199,7 +19620,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4bbe898322c440f7b659971b4bfc3a3a"
+        "ev_0282f5a909004ebeba1edeca0831e6f4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116336"
@@ -20260,7 +19681,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6407e0cb666c46df99ad9eeb7933a034"
+        "ev_c1863eef8159471e8c5f90f5ee4c53c7"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116615"
@@ -20321,7 +19742,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0aaa7f85c39f4eccb3b1e0f45ea3daeb"
+        "ev_cb86b7a5dbbb48839a9fb8e49fad810f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116647"
@@ -20388,8 +19809,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_985aac3ceeab49e7880585853efe7dab",
-        "ev_086c64ebf6e34f358b1dc7d32b012fb9"
+        "ev_f1a906cdfdff403daac3848b166538ec",
+        "ev_6eccf11e72f0411fa4a05bbf9b8c8cf8"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118282"
@@ -20456,8 +19877,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_c7e0f63a5fd94104815d2a1e80b64158",
-        "ev_f9804c26762b4e3fb06734291f468370"
+        "ev_77725682d35140d39d917db7b4e9124a",
+        "ev_cd21f81bf4234f5281d4e6a829daed79"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118350"
@@ -20518,7 +19939,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d7bbca8dbb2e4aa5bd6ea5ec74d15f4d"
+        "ev_9c6b51d9ed4e4cf1a67f245c9867b474"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118644"
@@ -20579,7 +20000,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_100c805854294d7e89a7ea8ecf425635"
+        "ev_6e5a9dc5b8a344edbedd06782fd0abf7"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118454"
@@ -20640,7 +20061,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_aa5ccb3cff9f4d03924998e6d9321f69"
+        "ev_226b6ff314344832bfb6111cd496fad1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118400"
@@ -20701,7 +20122,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fcf278f793734159bab8131a8188c50d"
+        "ev_614a22af37e74cb5950e86bfc3cdfb51"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117362"
@@ -20762,7 +20183,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b55141aed5b34a7e88b7a27ce153c80c"
+        "ev_9f73b7fb618b40fdacb4d57cb187027b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117400"
@@ -20823,7 +20244,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_67a79197787a4bf48013af396fadfe3b"
+        "ev_f57fc7be076742c9a2607a1e6fb75f5d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117364"
@@ -20884,7 +20305,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3d223d4e2e294f7986292d61947367a0"
+        "ev_6bcc446bf5d049fcb8e81787bb0237d0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117359"
@@ -20945,7 +20366,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ea5d561222074623b63ccc4ee8a756af"
+        "ev_84ee37fddadc4b25bb73c9fa87672ac5"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117411"
@@ -21006,7 +20427,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_601d58e18244497db02f9d478f3cdebc"
+        "ev_889261878a24406089e62b6f3db5d15e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117393"
@@ -21067,7 +20488,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a6f32f7b5cf94567ac8b2e975ec6cac4"
+        "ev_b9e8da95c2c44e8ca6520dee6bb7900a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117379"
@@ -21128,7 +20549,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_72747a7cb4a742a2926c40f0a20c8e3e"
+        "ev_a684cdf744c14af4bc4e0901f3e61dfe"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117653"
@@ -21189,7 +20610,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b4165c499d1444988a8e7fe090fba0cc"
+        "ev_38be561fca28449fb83f4a1ca0229c8c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117629"
@@ -21250,7 +20671,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f9a35ae949af4616bf014e678389131c"
+        "ev_d6d6c3d428f24510a5509671fec725b5"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116694"
@@ -21311,7 +20732,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bc2482765c734d718ee2090e96e147c1"
+        "ev_8957f9a7e7764255913a4e02201373bb"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117237"
@@ -21372,7 +20793,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ec0a6c775d6b48f8bf45bede2c572250"
+        "ev_6fe8c58d071f41779a6484557e06cb5e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116544"
@@ -21433,7 +20854,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c078082cfa5642958a4adc54a0a3e910"
+        "ev_c4d034e869bd43d987a76d8bf537721e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116532"
@@ -21494,7 +20915,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d160be9a062541698893c7c710f51b32"
+        "ev_4dc7e817e0de478bbeb5cadb8f27bfe6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115541"
@@ -21555,71 +20976,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_7844d26c1fab4ce7840428ca58285bfb"
+        "ev_68108e16bce94edaaef43d8a22a1b161"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115859"
-      ],
-      "primary_event_date": "2026-06-01",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_9d1391f147ae9206",
-      "primary_parcel_id": "DX-RP-0D93FA29B9BB",
-      "display_address": "Lot: 6 Block: 13 Township: DALLAS",
-      "display_owner": "Unknown",
-      "display_score": 35,
-      "display_tier": "Low",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_MECHANICS_LIEN",
-          "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_f08cc195874f44ad88726e053ce8d3a0"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115873"
       ],
       "primary_event_date": "2026-06-01",
       "expected_sale_date": null,
@@ -21683,8 +21043,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_a01b2196974c4ed4998ec4c41d0f0711",
-        "ev_67c0b63cf19c46bbb31b086c88528aa5"
+        "ev_b28639b1d0bc4e77b9a062e64d9efc7f",
+        "ev_b38a8d74b0f44a12b2503b5269480049"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118257"
@@ -21751,8 +21111,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_171179a7f4e0400cabddbe9eeceb6ef6",
-        "ev_cc286a30e5e2448392dbbbd99ae4e528"
+        "ev_ad55fb3cadf349a2825b9515baaa1a9c",
+        "ev_cf0e3e6d1e4248ab94a11ba5f662d26c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118451"
@@ -21819,8 +21179,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_5738c8948e6b46d79aded988eeabe23e",
-        "ev_1222414daae84ef2bfe1a17d53e67c7f"
+        "ev_55d00c7c4c104ed88b6580fbc9cd5a5e",
+        "ev_3544bd4c05ef4f998d3812c111f14c2d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118651"
@@ -21887,8 +21247,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_6cc017b886fd48dfa99d64a9366afe3c",
-        "ev_26919620c9b547a98bb250362965f681"
+        "ev_0e6e0a0a76534fd689135585d6208b0d",
+        "ev_89da951c0d234fcdb050293824531555"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118652"
@@ -21949,7 +21309,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f6a50a12742845ceaa7802af13f70cd5"
+        "ev_491e1f30f75e43af998dc882ea9d1df0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116923"
@@ -22010,7 +21370,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_35a4fa0d664f4a6a8fb41122e87eb02d"
+        "ev_1a74ec2b3e2d478a99c85f296eff360d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115820"
@@ -22071,7 +21431,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_090868658dd0440e987fea0cddc4c811"
+        "ev_be66b406fe9a487888141a45bef06b3f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115885"
@@ -22132,7 +21492,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8d1eb5d18243441589c6a7df53ec078e"
+        "ev_d6ec68343d4e4ff989b3c281bb800821"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115894"
@@ -22193,7 +21553,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c7211aec2c8446a4a3e03f103c94472f"
+        "ev_064854e847df47c8b9fb1f93c43bb9d7"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115845"
@@ -22254,7 +21614,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6fab243f2c56476a88b33d7fb5d624fc"
+        "ev_954fcff060f34927840b3ce37d986842"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116252"
@@ -22315,7 +21675,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a6c3db7a7df54468b4e17bc946659bf5"
+        "ev_615b0770613a4e4681321787ae0a7857"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115863"
@@ -22376,7 +21736,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a2b9f18e139b448bb3aa31fdc602480e"
+        "ev_5d4042b2a3984aff9f1bf69766d76390"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116639"
@@ -22437,7 +21797,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2ef9acc69af94288a53f2627977a3fe9"
+        "ev_aff91c0b07c74deaa4b6e0cce6c96d39"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117361"
@@ -22498,7 +21858,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c7f1091690434bff8ee1a146252b1289"
+        "ev_9c38de3ea20843869ac86752b8e33073"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117365"
@@ -22565,8 +21925,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_241b2036fa0241b99cc40ffbe8c9a496",
-        "ev_cd5d86f7009b4b8499608718919c7e40"
+        "ev_8f9b483590e746be86988af1b1fe9cfb",
+        "ev_08776c81e523435ab5d74e24700f936d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118429"
@@ -22627,7 +21987,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e716cadadc824cb0ba7e75998c52969c"
+        "ev_24f89120aa5c4a7aadba32ec89200574"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118397"
@@ -22694,8 +22054,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_5397ad7d29aa436dbc482e21c7a3e4d4",
-        "ev_8ce8dc7fbcc84f169d41f49b39fa4260"
+        "ev_e4533d3a05454d38a960469482ee6827",
+        "ev_31d8842577f64de9b86c174b2cc07777"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118552"
@@ -22756,7 +22116,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e3365779e0804291b288f2cb7a93709c"
+        "ev_24b5889125594024af60f0e08b0318e8"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118439"
@@ -22823,8 +22183,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_ae3b12d350a5424d97a06352fa7eac4a",
-        "ev_326de06dd1ee4eb488d31bdc67e209f5"
+        "ev_da37fe2cc20b49889423a7eb23f95547",
+        "ev_977ca05990b74077818f9d6e6d7d0291"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118401"
@@ -22885,7 +22245,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d91da5c9ead54fcb8f8eff321feef52f"
+        "ev_a63b3ad497a64baba7da173ac2e8bb52"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117690"
@@ -22928,8 +22288,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_54f1a2f5531444cd849448b0f303dd89",
-        "ev_2069c555b20144e2a492699c38a4c186"
+        "ev_817930d3d53a400292953674efe91e08",
+        "ev_e13f129b75b44bafb4eaf5245348aa31"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118412"
@@ -22998,8 +22358,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_feb67e5a1fc549f19a6dcb46927283ec",
-        "ev_0945e815fd38455a8a7f58f4af5d06c2"
+        "ev_e84c16af11b3441c8c7a760edbea8b3f",
+        "ev_76529166b6e645b0a054317c9f5e6ee7"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118661"
@@ -23066,8 +22426,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_0673e04c73b24855bb2a57730b2df04d",
-        "ev_01c31b38fd1d4ec8974f2c20f6ed7346"
+        "ev_0040cbe618654883862077a448fb632b",
+        "ev_a08dbf8b7eb24113b939456131e6a476"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115899"
@@ -23134,8 +22494,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_cc75106609aa4809b4d6652fec0d9071",
-        "ev_f7da2e2680ff4cefa43c2032ad551543"
+        "ev_8b39fc0c2cea4c5c890bacf12223eb15",
+        "ev_e2cebf2d98174f06805d0ef37108175d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115874"
@@ -23202,8 +22562,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_4f4d608a4f3d4e92a692b5fe6119ea01",
-        "ev_b3acfef25f9447528029cfa8a85cfd40"
+        "ev_6deb9bec933a4941868218dcba44747e",
+        "ev_d5addb1ca91949bda01a85e680417e82"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115856"
@@ -23270,8 +22630,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_dd03354feb2744db8a910b0fadde8346",
-        "ev_0c0a491525354bbd8d272e882832f498"
+        "ev_051db8e2fffe4e22a9a5b75ec7e5d1f2",
+        "ev_c9bd227eab7f4f8aa227b39cfbbb5834"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117363"
@@ -23338,8 +22698,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_4ede96ed0b844b82b6045e6df885da6e",
-        "ev_e30f9d1f8cf945039fbb356100e008f4"
+        "ev_b1c76865187746aa9ca1c86551c1ec56",
+        "ev_47ca2bb566e445f89933ca980163ff91"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117394"
@@ -23406,8 +22766,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_c7905dfc86a347fcb1e4f90b7a3e0fc1",
-        "ev_6a9d860ce3dd4e318b3de302b930c2c6"
+        "ev_41c9c0275c1a482389574b2fd6ab9c2b",
+        "ev_ff50a87088df4625bb56d9ae3e2c814c"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117271"
@@ -23468,7 +22828,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7ef39ef8811c4c1995d763f35d75430b"
+        "ev_7e988ecf328c406692ea818fe2d8a341"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117366"
@@ -23539,10 +22899,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_581eeed7077744dea401558f11034c2c",
-        "ev_e5dfb6bb26df4943a13f08fb9ced6392",
-        "ev_78039917046d49e6b6aeda82ecd3a7b6",
-        "ev_b885010890aa4e59a3cfd7b78b4b4d7e"
+        "ev_21a5f224df1a49f5b11fadfa4e01cd53",
+        "ev_9538fe0b9a6c41d19733650376e1460d",
+        "ev_b6978743603542fda8abeed45f92db42",
+        "ev_a2337ba0f17e450195e09588482e8e76"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116591",
@@ -23610,8 +22970,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_94dce5fa32c94d65b6cbfa42a31b7a89",
-        "ev_8c630349bcb74ec9b5a70fa3d8d88271"
+        "ev_5be1a2804cfb40c8bf9c7ae9ec931fa8",
+        "ev_47e57e27b2754a0ebacffcd5d80bd51d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116645"
@@ -23678,8 +23038,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_3d8817ab5d984486a593bc66571d1986",
-        "ev_5892ed4c9d3d45799dc1e7974e258c3e"
+        "ev_b867c6854a6f42b3a128900d199ecc4e",
+        "ev_24ac75b0e81b42df8cc67fe13a04eef6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116627"
@@ -23746,8 +23106,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_2d212b65c21342e1ba0dc27b5aa8a5c3",
-        "ev_3707b73b7f3c44f2ac289755ce1b21b7"
+        "ev_636914f8bdfd48f590b75948e7e673e2",
+        "ev_05da0e617d634600bb99c908b8e34bce"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116732"
@@ -23814,8 +23174,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_0c5795b560974188b1f79a1e93a5992d",
-        "ev_7399f009d3e941dc8b05da451a98802d"
+        "ev_a3761b517aa14890995864af5385fab1",
+        "ev_781f71abd3854f9d950da17fb4c38224"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117405"
@@ -23876,7 +23236,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5e509b8a39c1445db24b2a6acd2eddee"
+        "ev_308714ed3d3d498ca7741749dfe70ec4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117386"
@@ -23943,8 +23303,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_f01831840e264ae49f58a88a7e99c5da",
-        "ev_465333b559944bbdb0d9ef6c9fcc351c"
+        "ev_519de435d7104d46a51e4898c41f44d6",
+        "ev_4d6d9d657ff840ea84f62050e968da68"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116533"
@@ -24011,8 +23371,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_25555b780dfd4aa696f6bfa6bae2a6f9",
-        "ev_2b2cfd25f1ea4968a033899495704680"
+        "ev_ff1c6a29ae634c5bbc474bc799f73a7b",
+        "ev_f61b48b0d0804a8f8a27a8354fca0c2e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116870"
@@ -24079,8 +23439,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_b6a514f3ae1d414f89274843fbbc9a99",
-        "ev_d24b8c8c21a84e1882a31c0bbe1619c9"
+        "ev_f68c486d2ae346f18e8725df350b4def",
+        "ev_227171bd96d94108ae9fe4d110d79544"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116922"
@@ -24141,7 +23501,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5d121e6167994090b6959711141e5d4e"
+        "ev_cf29b4686c464081a488044ca06495bd"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116770"
@@ -24202,7 +23562,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3d1d6a9152ff4166b0d70bb468056c47"
+        "ev_0515f9dd39364792a2e64dffd34652d4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117131"
@@ -24263,71 +23623,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_b9b7779f4294400bb7a2e0756ac625aa"
+        "ev_17bea9d9651c464d8e3e9b8a12d8ba39"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116467"
-      ],
-      "primary_event_date": "2026-06-01",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_8caf57845ea396da",
-      "primary_parcel_id": "DX-RP-D154031EE20A",
-      "display_address": "Lot: 22 Block: 16 Township: DALLAS",
-      "display_owner": "Unknown",
-      "display_score": 35,
-      "display_tier": "Low",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_MECHANICS_LIEN",
-          "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_8c05266efae24074ae34be92cf251e56"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116412"
       ],
       "primary_event_date": "2026-06-01",
       "expected_sale_date": null,
@@ -24385,7 +23684,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_53071195991c454383ebd4418dc67310"
+        "ev_d8acb87f94034e278aa8dc5360cf4ef1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115854"
@@ -24446,7 +23745,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6e11083ec94d4e9da38613d11c2deff4"
+        "ev_e20d228f597f4cc693c65f093d382208"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115869"
@@ -24507,7 +23806,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_78d0aca74eaa4ee88c5f85d699cd78c8"
+        "ev_2e7d26b7e39a4a93adf1305aff91473a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115821"
@@ -24568,7 +23867,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fbee38c0ecb94d339503c90e84e1e888"
+        "ev_db351f8f9dfc4852b3938ef706ecc5e4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116330"
@@ -24629,7 +23928,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9a3d4121c07a42fcbff422886066f7f7"
+        "ev_db0a8b7ab4b74c8a8c01d930ec4cb0b0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116453"
@@ -24690,7 +23989,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f7d23f86d9694f93a94cc9559806609d"
+        "ev_99b6e59849874aef9d0958b127d585b2"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118646"
@@ -24751,78 +24050,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_5dc388d8bf1c4862acd660c6e901d586"
+        "ev_49ad0345b2234399b8e004dd7a9c6559"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118444"
-      ],
-      "primary_event_date": "2026-06-03",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_6260f32dd7c9846b",
-      "primary_parcel_id": "DX-RP-6D8729C41025",
-      "display_address": "N/A DOC-202600118359",
-      "display_owner": "Unknown",
-      "display_score": 47,
-      "display_tier": "Low",
-      "display_patterns": [
-        "lien",
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien",
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Multi-signal distress stack; standard wholesale flow."
-        }
-      ],
-      "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 2,
-      "score_reasons": [
-        {
-          "factor": "base_JUDGMENT_LIEN",
-          "delta": 30
-        },
-        {
-          "factor": "stack_depth_2",
-          "delta": 12
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_2e8ca8ee026d4aa9b65d05a78d341acb",
-        "ev_f918746a7b584e068320aa10fd59860b"
-      ],
-      "primary_source_urls": [
-        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118359"
       ],
       "primary_event_date": "2026-06-03",
       "expected_sale_date": null,
@@ -24886,8 +24117,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_ed4e8d44d5e74c679cb1da67c3dec21f",
-        "ev_f03434714c3e4958a62d80bdd61e975e"
+        "ev_84ccc2d552e245dfbac3202504edd651",
+        "ev_3d6607d0a18647ba9d97230f9a389870"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118668"
@@ -24948,7 +24179,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_651b50f540a441f882c416809b3bea07"
+        "ev_d45fe688ab6d4160a89463943d023c8b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118258"
@@ -25009,7 +24240,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_82e03d3614d54f4eb21e1b7ff8e1fb2d"
+        "ev_a00b7a8e6f7d4caabc9029596f0e90fc"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116371"
@@ -25070,7 +24301,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_63a5636445bb442a8d5e3908ed957159"
+        "ev_2e8ae52f8e034573b82cb297ad6e5ac8"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117257"
@@ -25131,7 +24362,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_75658a441f0f46379fa11d2b092fa8f7"
+        "ev_8b48951f04d94084883fa67b705451c3"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117376"
@@ -25192,7 +24423,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_af39b33fe9fe438095994d402f1318d7"
+        "ev_9bb5ecaa7ae44165bb37afc5968f103d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117371"
@@ -25261,9 +24492,9 @@
         }
       ],
       "evidence_ids": [
-        "ev_83d8e03927074c259fb29974761ed342",
-        "ev_a55e5e65c1fe432ba9068631a53b414c",
-        "ev_36d962932a344a4ebf4fb0ff9a32ee28"
+        "ev_3dd7ddb8f9354cd2a76832d7248d3f11",
+        "ev_f06756a046ca4842a41dda053eac1ea4",
+        "ev_5affdc2f8ee54a6ead61230f3efc232f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001167",
@@ -25326,7 +24557,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fca1e62b481949e09116945679b877c5"
+        "ev_6779c53658164ec2961190d12ac775a6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001166"
@@ -25369,24 +24600,24 @@
         }
       ],
       "evidence_ids": [
-        "ev_e4a49ce1b32a4bffa43421b34bc34cb5",
-        "ev_7f36e48b498c4f4481a82675993164d5",
-        "ev_6bac2401d6cb4ba9a8344b1b7fc26a32",
-        "ev_62e40d6037aa40c5bc84c2ff53ec992c",
-        "ev_734c182c66cb461fbc32ec2a71defeea",
-        "ev_dcd76788e0d3480aad53fbfa6f09e3e6",
-        "ev_16e575f01ae843caa1937f6eeb693ff7",
-        "ev_61faa5138f2149dc9bc7e9e05516b13b",
-        "ev_740a8f29ec62401a8de35ae9f963c9ef",
-        "ev_9922fd81d8e549c88939bfd52d080727",
-        "ev_eda77b9f6a4b4f36a6b99c40398a64be",
-        "ev_9abf97f80f6d46eebd3b416487f6e7d8",
-        "ev_f207c4a4ac58445cbdd0e056f2c57691",
-        "ev_87211c81dc3d4bdca5189e60e255236a",
-        "ev_0e84a9c4c11a401794d8b00eb9f2b98e",
-        "ev_6c7654f38fc143ef89cffc504b7449b8",
-        "ev_f879e2a5e4f14749b11e4dc4a89a47d7",
-        "ev_80a2d1bceb004d69a288d5cc9345ea56"
+        "ev_503a77b3b5c1479f8842a29e7c954012",
+        "ev_ed5b10f1820f416e8e8740cf3560ebeb",
+        "ev_a1be000593ff45b181f14f229b4623c1",
+        "ev_445918621f0748119f3a96a64e93a892",
+        "ev_c1547ac70cdb4b3d81bdd03ee294dea0",
+        "ev_b36c0d3b1c6545008a7c510e48b5c175",
+        "ev_82bd076d0a30441f8a8ab572d61ca719",
+        "ev_f0ef41dd455843028f994af57784721c",
+        "ev_4461af89714648038d40d205dad5bda4",
+        "ev_8bfb53a4be9142418ee893f109c0dbb1",
+        "ev_4b73cb04baf34e52b5e957c82de5deb6",
+        "ev_7200fa18aca14e1c97440e7322945581",
+        "ev_33d1d6ddcf5f4c57a4f70f130e4df05d",
+        "ev_8059216230614aaaaa25741a29986d9a",
+        "ev_ebeb765696c24fee9aaa16ebf615a53b",
+        "ev_0a0c3d40832948488d32a19ab579aaec",
+        "ev_94ce73a1a0a741d1b35065753f2a7b86",
+        "ev_1221f34dc65645df8b4aa44931ba9a19"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001168",
@@ -25466,7 +24697,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a31d8af27f144d88aa028b7899bdf290"
+        "ev_b49e197969df4e51a261f80003adb9c9"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001187"
@@ -25537,10 +24768,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_57ba48339b144429a09b34f41abad6f6",
-        "ev_4ecc504f545a40ba89542587bf37c19b",
-        "ev_51d338e3057c4f428e29429cf9a10d1a",
-        "ev_d2c0411e87014fac80c8d0abbcae6f39"
+        "ev_7052baed374e4272a6af3851456e9a6b",
+        "ev_045b44efcfa24e2abba10d2bd55fadde",
+        "ev_d31b093f8ba14a659b96fc80d22f03bb",
+        "ev_55aa5dc290ec40bdbdad72bac25e9d9d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001195",
@@ -25612,9 +24843,9 @@
         }
       ],
       "evidence_ids": [
-        "ev_a036930037d7481dad89b1a8f84c59b3",
-        "ev_eb3ee88df11c483cb2043f109c94a7e6",
-        "ev_1f99e385d39a4b5fb9618558dca42a10"
+        "ev_945788059e364f2c9d8ebb69710afd2c",
+        "ev_12df956c1d0d43d59f5984b35493640e",
+        "ev_ca2b33d70a61465998a085583476ecd4"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001196",
@@ -25677,7 +24908,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1e3463c06ebd4ca9ae2788eb5bc4b2d9"
+        "ev_4aa3a17f3ad94603a669beb11d394f60"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001216"
@@ -25738,7 +24969,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ee313998a09d4c9c9ccc2f48e707930e"
+        "ev_6ec0648305b240b69c60ae8a6738affd"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001217"
@@ -25799,7 +25030,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7a923f478f6945e5a45b106c7e49abf6"
+        "ev_19987a47dc6d4e83b084b84382cbad88"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001205"
@@ -25860,7 +25091,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_891aa7f6e5ca4b09b4755a1b6c324877"
+        "ev_b789d46510264d789651993f42fdec37"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001235"
@@ -25921,7 +25152,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_db2e086a6bf0497993c46a1a47bcce28"
+        "ev_b57b5a74c9e7458aa0783bf8adc1e6c0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001236"
@@ -25982,7 +25213,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_77cbfaa199844caf92338f64c6ae7a86"
+        "ev_33271888035347b892731c70550c6583"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001233"
@@ -26001,27 +25232,27 @@
   "pattern_counts": {
     "estate": 59,
     "foreclosure": 18,
-    "lien": 405,
+    "lien": 388,
     "tax": 74
   },
   "attribute_counts": {},
   "stack_depth_distribution": {
     "0": 8,
-    "1": 284,
-    "2": 99,
+    "1": 277,
+    "2": 94,
     "3": 11,
     "4": 5,
     "5": 3,
     "6": 1
   },
   "score_tier_distribution": {
-    "Archive": 65,
+    "Archive": 62,
     "Hot": 4,
-    "Low": 228,
+    "Low": 219,
     "Strong": 34,
     "Workable": 80
   },
   "deal_path_distribution": {
-    "wholesale": 403
+    "wholesale": 391
   }
 }

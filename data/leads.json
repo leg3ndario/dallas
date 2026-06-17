@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T17:26:36Z",
+  "generated_at": "2026-06-17T13:48:38Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Dallas",
@@ -17,12 +17,12 @@
     "last_known_good_commit": "",
     "last_known_good_dashboard_at": ""
   },
-  "total_signals_suppressed": 0,
+  "total_signals_suppressed": 1,
   "quality_metrics": {
     "source_verification_rate": 1.0,
-    "field_completeness_rate": 0.9929,
-    "match_confidence_avg": 2.9867256637168142,
-    "parser_confidence_avg": 97.72123893805309,
+    "field_completeness_rate": 0.993,
+    "match_confidence_avg": 4.461538461538462,
+    "parser_confidence_avg": 97.73626373626374,
     "source_url_coverage": 1.0,
     "dedupe_ran": true,
     "unsupported_claim_count": 0,
@@ -30,8 +30,1002 @@
     "live_verification_passed": false
   },
   "build_label_reason": "",
-  "lead_total": 41,
+  "lead_total": 56,
   "records": [
+    {
+      "lead_id": "lead_0c1d001c44d1baca",
+      "primary_parcel_id": "00000249301000000",
+      "display_address": "715 N MARSALIS AVE, Dallas",
+      "display_owner": "Kuteyi Rasaq",
+      "display_score": 38,
+      "display_tier": "Low",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_MECHANICS_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_1cc4ff6aef9c4603871be7f57686bdff"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115848"
+      ],
+      "primary_event_date": "2026-06-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000249301000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_90f46d50b4f0a1e3",
+      "primary_parcel_id": "00000221719000000",
+      "display_address": "2533 LOWERY ST, Dallas",
+      "display_owner": "Manjang Nora & Henry",
+      "display_score": 38,
+      "display_tier": "Low",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_MECHANICS_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_843658c5bc09461fbe8a8853836fa099"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116519"
+      ],
+      "primary_event_date": "2026-06-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000221719000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_0f1831f7a8f54aa9",
+      "primary_parcel_id": "00000617842000000",
+      "display_address": "535 SOUTHPORT DR, Dallas",
+      "display_owner": "Ruvalcava Jose Jesus",
+      "display_score": 50,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "lien",
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien",
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "high",
+          "rationale": "Multi-signal distress + investor-friendly attribute set."
+        }
+      ],
+      "display_title_complexity_tier": "Light curative",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 2,
+      "score_reasons": [
+        {
+          "factor": "base_MECHANICS_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "stack_depth_2",
+          "delta": 12
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_f83ebe21bf104bd3903779dd95870ed7",
+        "ev_5ec4b2e623cb4a86995056ee3eef5c19"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116739"
+      ],
+      "primary_event_date": "2026-06-02",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000617842000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_59b865503530a6e3",
+      "primary_parcel_id": "DX-RP-237D040839F8",
+      "display_address": "6002 OVERLOOK DR",
+      "display_owner": "Unknown",
+      "display_score": 30,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_HOSPITAL_LIEN",
+          "delta": 25
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_5a8b5ab2a2f949f396139963ac6371c3"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116113"
+      ],
+      "primary_event_date": "2026-06-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_3ede9710ba92035c",
+      "primary_parcel_id": "DX-RP-8DF8F6BB41FE",
+      "display_address": "4655 BAYSTONE DR",
+      "display_owner": "Unknown",
+      "display_score": 30,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_HOSPITAL_LIEN",
+          "delta": 25
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_26156d1588234129bc74f3cb191f7124"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117372"
+      ],
+      "primary_event_date": "2026-06-02",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_ae0f12ffc3714cc5",
+      "primary_parcel_id": "DX-RP-F3BE11CAA95D",
+      "display_address": "2314 HOMEWAY CIR",
+      "display_owner": "Unknown",
+      "display_score": 30,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_HOSPITAL_LIEN",
+          "delta": 25
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_95460e21e06043c5989b61b5f94c1a01"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600117410"
+      ],
+      "primary_event_date": "2026-06-02",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_d1165ed0b719ae1b",
+      "primary_parcel_id": "DX-RP-B94708B56CB3",
+      "display_address": "5964 FOX HILL LN",
+      "display_owner": "Unknown",
+      "display_score": 35,
+      "display_tier": "Low",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_JUDGMENT_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_87baba577515457e97dd2b30a8f5e699"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116216"
+      ],
+      "primary_event_date": "2026-06-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_37e5c11608041a64",
+      "primary_parcel_id": "26309000010090000",
+      "display_address": "5125 PRESIDIO DR, Garland",
+      "display_owner": "Mowatt Patricia L Est Of",
+      "display_score": 50,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "lien",
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "lien",
+        "estate"
+      ],
+      "display_pattern_set": [
+        "lien",
+        "estate"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "high",
+          "rationale": "Multi-signal distress + investor-friendly attribute set."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 2,
+      "score_reasons": [
+        {
+          "factor": "base_MECHANICS_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "stack_depth_2",
+          "delta": 12
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_b27b759a91fc4197b8a7f46059626c22",
+        "ev_56fc51bf1e594e18b14258b381d1a0c7"
+      ],
+      "primary_source_urls": [
+        "about:owner-name/parcel_master/26309000010090000#estate",
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118138"
+      ],
+      "primary_event_date": "2026-06-03",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "26309000010090000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_2893b1f12a484f9c",
+      "primary_parcel_id": "007609000C0020100",
+      "display_address": "2525 MOTOR CITY BLVD, Dallas",
+      "display_owner": "Levine Investments Lp",
+      "display_score": 40,
+      "display_tier": "Low",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [
+        "absentee",
+        "entity_owned"
+      ],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 60,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_MECHANICS_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_e866bc48fbd14d6eb314e65036b3b425"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116423"
+      ],
+      "primary_event_date": "2026-06-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "multi_parcel_address",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city_multi",
+      "candidate_parcel_ids": [
+        "007609000C0020100",
+        "007609000C0020200",
+        "007609000C0020300"
+      ],
+      "review_flags": [
+        "multi_parcel_address"
+      ]
+    },
+    {
+      "lead_id": "lead_25e1934565758277",
+      "primary_parcel_id": "00000148153000000",
+      "display_address": "3212 LATIMER ST, Dallas",
+      "display_owner": "Siebels Amanda",
+      "display_score": 50,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "lien",
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien",
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [
+        "absentee"
+      ],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "high",
+          "rationale": "Multi-signal distress + investor-friendly attribute set."
+        }
+      ],
+      "display_title_complexity_tier": "Light curative",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 2,
+      "score_reasons": [
+        {
+          "factor": "base_MECHANICS_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "stack_depth_2",
+          "delta": 12
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 3
+        }
+      ],
+      "evidence_ids": [
+        "ev_492d6a44d5e64264a6e4e6a44670e11a",
+        "ev_0352de8c4e494534a817b57965bc8ca8"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116509"
+      ],
+      "primary_event_date": "2026-06-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000148153000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_b80b2e8fde79baa6",
+      "primary_parcel_id": "DX-RP-00BC0351D7DE",
+      "display_address": "917 E BERKELEY DR",
+      "display_owner": "Unknown",
+      "display_score": 35,
+      "display_tier": "Low",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_MECHANICS_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_c3a937a41d8a49fc8a031b0be60949a1"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116363"
+      ],
+      "primary_event_date": "2026-06-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_8458159bfa2e34c6",
+      "primary_parcel_id": "28147610130250000",
+      "display_address": "1319 SE 4TH ST, Grand Prairie",
+      "display_owner": "Johnson Lillian Living Trust",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "transfer"
+      ],
+      "stack_contrib_patterns": [
+        "transfer"
+      ],
+      "display_pattern_set": [
+        "transfer"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "low",
+          "rationale": "Single-pattern transfer signal; weak wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 95,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LIVING_TRUST_OWNER_NAME_PATTERN",
+          "delta": 25
+        }
+      ],
+      "evidence_ids": [
+        "ev_849fb0659f844ff0b2595439b7413c57"
+      ],
+      "primary_source_urls": [
+        "about:owner-name/parcel_master/28147610130250000#trust"
+      ],
+      "primary_event_date": null,
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "derived_owner_name",
+      "candidate_parcel_ids": [],
+      "review_flags": []
+    },
+    {
+      "lead_id": "lead_a0842d8f8e5ef2d8",
+      "primary_parcel_id": "00000679504000000",
+      "display_address": "3221 PUGET ST, Dallas",
+      "display_owner": "Leffelman Bernice",
+      "display_score": 35,
+      "display_tier": "Low",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_MECHANICS_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_b655e8e9d8ce4cee9bf2dd4949698474"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600115873"
+      ],
+      "primary_event_date": "2026-06-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000679504000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_7b76e8897ffd2484",
+      "primary_parcel_id": "00000472198000000",
+      "display_address": "1032 HOKE SMITH DR, Dallas",
+      "display_owner": "Panditi Vamshi Krishna",
+      "display_score": 35,
+      "display_tier": "Low",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 75,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_MECHANICS_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_3375918b042440bcad8e45b814e73be1"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600116412"
+      ],
+      "primary_event_date": "2026-06-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "matched_bcad_uncertain",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "housenum_root_city",
+      "candidate_parcel_ids": [
+        "00000472198000000"
+      ],
+      "review_flags": [
+        "address_match_uncertain"
+      ]
+    },
+    {
+      "lead_id": "lead_6caec61d723e66d2",
+      "primary_parcel_id": "DX-RP-8BCCAB930449",
+      "display_address": "11326 DINSDALE DR",
+      "display_owner": "Unknown",
+      "display_score": 47,
+      "display_tier": "Low",
+      "display_patterns": [
+        "lien",
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien",
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Multi-signal distress stack; standard wholesale flow."
+        }
+      ],
+      "display_title_complexity_tier": "Light curative",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 2,
+      "score_reasons": [
+        {
+          "factor": "base_JUDGMENT_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "stack_depth_2",
+          "delta": 12
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_86b51935f6a44ef3bd1daef22745cb3d",
+        "ev_ea8218a2780744ab95e008b111f45328"
+      ],
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/results?department=RP&recordedDateRange=20260601%2C20260606&searchType=advancedSearch#doc202600118359"
+      ],
+      "primary_event_date": "2026-06-03",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
     {
       "lead_id": "lead_cad6f3145864e593",
       "primary_parcel_id": "DX-FC-8963FF35D03C",
@@ -78,7 +1072,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d6b1fb4e5e994c659f86d98b40de15d3"
+        "ev_cbe3ee4d956e48b9a0d2a9cd4aac6c0a"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001165"
@@ -139,7 +1133,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4b5bc7801a214d6fad6d8d9a12c5e690"
+        "ev_15b3e6e14b26476c8414da636cbc0e8b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001164"
@@ -212,7 +1206,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d6f290b38138455a99c6d395c0a51bb4"
+        "ev_55ddd400e37c4b009adc0765121ed1bd"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001163"
@@ -275,7 +1269,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1f1a05675eb443c9a49e0fcf6bad30fb"
+        "ev_6ad52eba149448088b3ce7515b176ecf"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001162"
@@ -336,7 +1330,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8b8789b6f1a44638bec668e68dd53558"
+        "ev_3acc30ecd59846929e60d63ad7226557"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001188"
@@ -409,7 +1403,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5507c27ea0484d8c95fa653ea3b9659b"
+        "ev_975faada892842379b0a507fd0c09cc6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001209"
@@ -472,7 +1466,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_70c8dff0072e4578821b501a8dd2743f"
+        "ev_36444bfd7c89473b8945755e2c0bcb5e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001199"
@@ -533,7 +1527,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_11c1fa6790614db0a141e7aaa08c7845"
+        "ev_2937ce5360e24455b987780aef0ec533"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001208"
@@ -600,8 +1594,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_f23c4f4340fc4de8bd39c5f272601290",
-        "ev_ad23596b42dc4e1faf0658eb7a0d4482"
+        "ev_85ae24b243784bfeb468757a26e0791f",
+        "ev_a656cf0c16b04450aa99fef6cebb466f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001210",
@@ -663,7 +1657,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2b127714e80b49fa9fa92513c661076f"
+        "ev_eefe649d55584483ae1227f85b657c59"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001189"
@@ -724,7 +1718,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7cab4bcf45cc401c8900a59ce326e1a0"
+        "ev_d5e1b49ac5fc469ca3a6add502cdf351"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001186"
@@ -785,7 +1779,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2f33f23dfd9f43f9b7004e0b898e90c1"
+        "ev_40354c04e9da4ec6b150f511f5c7f34e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001219"
@@ -860,7 +1854,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0b9b61850ccc427ba335f25204c14d01"
+        "ev_b3c08d3d1ae44133a08bbab54f7214e6"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001206"
@@ -923,7 +1917,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_91863118e6304e8f80e985a498d983ed"
+        "ev_db3a7e200913456b8a435fd6ae55f07f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001193"
@@ -986,7 +1980,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9a1e437005844902b1e4b63c1260a230"
+        "ev_fc9c15ff62ab410089064e7cb6ae56b8"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001203"
@@ -1047,7 +2041,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_08e70d18c161428eafc8909203e9a960"
+        "ev_ee0893ac9eb54afab340058c29e20857"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001192"
@@ -1120,7 +2114,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4fb55b05b0a2430c953ac9513ad91344"
+        "ev_f10b976c90fe451da612355bcf1f34a3"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001202"
@@ -1183,7 +2177,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e479c21a14f447a2b800d9f114a36421"
+        "ev_04a305fd3a404a2c86a6aa4dbe93ffbe"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001204"
@@ -1260,7 +2254,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_921ee846c09d46bc80418e9e54f8aa1e"
+        "ev_01c5247d03194502b773d43621ac098b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001207"
@@ -1323,7 +2317,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_42515ec7c9774779bace5366dd39394d"
+        "ev_71216ba6d8f34be3bc34e3c06be23817"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001211"
@@ -1396,7 +2390,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b6bb5788d8c44ef383472a0e4f81a4ec"
+        "ev_dd8ffe96217f4e9c9632a52a9beebe46"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001191"
@@ -1459,7 +2453,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ad8bd58139fa411780c1ee3a0c147df6"
+        "ev_c9f1d94caa3e4f228bd6d4aabddbf0ec"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001194"
@@ -1520,7 +2514,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3977df6c2b824caba9fa227f67c5a755"
+        "ev_3a124cc9bf6f4e5daddc620d68b3c9ea"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001218"
@@ -1581,7 +2575,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f1f07b5e904d4bb0b95a4d38ab7ca8df"
+        "ev_3235d2ad07654d8fa16245cdd8d2a68f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001201"
@@ -1642,7 +2636,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bca862867d59445bb04bfcb84c3f5282"
+        "ev_0a6a2cba328b4df8b2d26f341f3f4ef1"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001200"
@@ -1705,7 +2699,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_255a0dcada0a4f5c858915c97ead3c62"
+        "ev_499fecda67ae4336b0de300a9fa73e2d"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001190"
@@ -1766,7 +2760,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ce0dcb2bc1c44df6a5a3d7c3156f3a86"
+        "ev_1f7985eb9d7943f28a8d499ea31b7189"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001231"
@@ -1829,7 +2823,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_99d389e02e7e420cb629876f4d6c516f"
+        "ev_da7b0bc54f524c4b8c00e6234313926e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001221"
@@ -1904,7 +2898,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1762f42c5544470da66e9668f6fad13c"
+        "ev_863be3e3f9044c148e0589e81e2fea66"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001223"
@@ -1967,7 +2961,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_85942265735940e2be800fc68bddc459"
+        "ev_0eae761c50da42308cf2f8ad34d138f0"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001222"
@@ -2040,7 +3034,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5a7b2cb77642411ca6aaa9f0b723e2b1"
+        "ev_b5cd68fc99bf484ead91a5d7944ca150"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001232"
@@ -2103,7 +3097,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5bae05255aea4c05a4baf27b5c747193"
+        "ev_d8dc44f76cdf4e9fb24c2f863ade5b5e"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001228"
@@ -2166,7 +3160,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b99e935a927f4b5680b46168b07acaf5"
+        "ev_e7ff7ffec4ee426d93da54c93363f58f"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001229"
@@ -2227,7 +3221,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_48e3cc2cb24c4954a071890934793e3f"
+        "ev_bf84e430a72e4d88984f95f1c3cd9219"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001226"
@@ -2300,7 +3294,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cf7d1ffbabeb4e2f86aba5f0441b6dcc"
+        "ev_101e202a5e9f413cb3da097338f12530"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001225"
@@ -2370,8 +3364,8 @@
         }
       ],
       "evidence_ids": [
-        "ev_430ad6e3d521402dbce392c180fe0945",
-        "ev_629fb1051626459fbba8a650a509e90d"
+        "ev_44bbcd5edcdf43d999db28c071f93ef5",
+        "ev_67460e293f98407c813034d089592442"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/325595400A0380000#estate",
@@ -2435,7 +3429,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6500cc2d68da4c79ab45ed6654966090"
+        "ev_ecd2f65031484b26b0b4aff63f936e0b"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001224"
@@ -2496,7 +3490,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fb99dda92fda4c5b88d837d4984a6493"
+        "ev_16cff258a52641638bd47ce0b97b09b5"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001220"
@@ -2557,7 +3551,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_127d35d7e15f4d9cb0a6909dc2149b89"
+        "ev_511a1d8d43a54123922eb7c444190cfd"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001230"
@@ -2618,7 +3612,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b6bd489a89d34868982c9c30a0d684f2"
+        "ev_fdd62613f8134b7bb74737838525d481"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001239"
@@ -2681,7 +3675,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_03a5ee084a184063b026a0974340b341"
+        "ev_dc7fe9371f1f4e858b23dab0cb4a12b2"
       ],
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/results?department=FC&recordedDateRange=20260530%2C20260606&searchType=advancedSearch#doc202600001238"
@@ -2700,23 +3694,28 @@
     }
   ],
   "pattern_counts": {
-    "estate": 1,
-    "foreclosure": 42
+    "estate": 2,
+    "foreclosure": 42,
+    "lien": 17,
+    "transfer": 1
   },
   "attribute_counts": {
-    "absentee": 9,
-    "entity_owned": 2,
+    "absentee": 15,
+    "entity_owned": 3,
     "multiple_properties": 2
   },
   "stack_depth_distribution": {
-    "1": 39,
-    "2": 2
+    "1": 50,
+    "2": 6
   },
   "score_tier_distribution": {
-    "Strong": 41
+    "Archive": 4,
+    "Low": 8,
+    "Strong": 41,
+    "Workable": 3
   },
   "deal_path_distribution": {
     "sub_to": 9,
-    "wholesale": 41
+    "wholesale": 56
   }
 }
