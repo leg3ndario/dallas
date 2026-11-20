@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:01:10Z",
+  "generated_at": "2026-11-20T19:26:20Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Dallas",
@@ -16,7 +16,7 @@
   "quality_metrics": {
     "source_verification_rate": 1.0,
     "field_completeness_rate": 1.0,
-    "match_confidence_avg": 81.30270485282418,
+    "match_confidence_avg": 97.43144424131627,
     "parser_confidence_avg": 100.0,
     "source_url_coverage": 1.0,
     "dedupe_ran": true,
@@ -80,7 +80,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f64df94b04014919ba0ab8e3deae42ae"
+        "ev_91a9b794169040f8be3d18e1ebbd0932"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010647535/"
@@ -176,7 +176,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_fc62248efaa2472fbbff42798269add6"
+        "ev_e8fb3f85178646a2a48c2d58e6ed7127"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010781293/"
@@ -273,7 +273,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_42e28eeeac6c414695c45c0d9070bd0a"
+        "ev_2458a9e118d6496a8026c0cbc9b3bb99"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011011148/"
@@ -370,7 +370,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3db2b3aee1c74594802d7df55d77754b"
+        "ev_845dfb34b3624899a02c55145f6e7c69"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010748578/"
@@ -467,7 +467,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0e56875c9ce94a8cbc19001caeaa6300"
+        "ev_effb4a4913e248d29230a5b7b9622043"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009899270/"
@@ -563,7 +563,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3797869ccc144ad3bef6b69894d68d3e"
+        "ev_28418bf530b8479a91b1533f94e87cdb"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010545678/"
@@ -657,7 +657,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7bc1e0b373984229aef090ba68f71eeb"
+        "ev_60ff3ea9689c4eb98dc18d78aa7173f2"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010470967/"
@@ -745,7 +745,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_62f57d872ce44f3d976a93cad4c2a92f"
+        "ev_6d47bb82fa944396b91de71f555ac9f0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009533229/"
@@ -839,7 +839,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_51621d1a4e244d41853e42272a316284"
+        "ev_5b4e9254efb14cac9886da3225c0885f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010012436/"
@@ -929,7 +929,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_14a774664df1435cb05f866c684cbf3c"
+        "ev_94503fa5b89e42b7a3ad1fbc51f58748"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011144849/"
@@ -1025,7 +1025,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_51f5b3ffa2da4829b68cecf963f4baf0"
+        "ev_becad82302bd4fbea69641d2fb9c75cf"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011292998/"
@@ -1121,7 +1121,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_79611a072ce2493fa3fef870024a9185"
+        "ev_0c133a2ccd9f4230b08c764e117b6ca8"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011418575/"
@@ -1218,7 +1218,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_15dda48904eb4ad7bcac156ec342b29c"
+        "ev_bd030585abe444e19e8db1ae4169eb20"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011422521/"
@@ -1315,7 +1315,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2232d1713d064fe9b4e2d313d8f6355e"
+        "ev_e8a44387097047e5b3c3f808ef40f51a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011422523/"
@@ -1412,7 +1412,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5ab87a0bd45d474f9139e81879fe04f6"
+        "ev_515ec3bf9c35420c868fc02c9a3a0687"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011422525/"
@@ -1508,7 +1508,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_22f027d238a642bf9fe60acf5f09cccc"
+        "ev_6d185ceba86845ffb3b1c1d18ba7f1b6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011556634/"
@@ -1604,7 +1604,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_514d4b499e8e41f2b834eef4ec255467"
+        "ev_dbdbf24ea0ae4a1890b1204dc1d74cf6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010408472/"
@@ -1701,7 +1701,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d704922f9286491dbfebfd81653cdbd9"
+        "ev_6fd2f5d2a2f9474aa13e5551d9c99940"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011451785/"
@@ -1797,7 +1797,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3544c17031fe41e9b81a91d20a4f49d0"
+        "ev_1b612b3cb74c4047baf669c6878f9310"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010499730/"
@@ -1891,7 +1891,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ed325671a2304062a37e859f599b22a6"
+        "ev_08457784196a4a12a81efbb7b044bf90"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010612656/"
@@ -1989,7 +1989,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b36fc52d29004b8c942cc1c308feb980"
+        "ev_919a106bc1ab4027b451f93fcf752b55"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010740868/"
@@ -2086,7 +2086,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5287d9ea59be4e76b70c1d1acb3c04d0"
+        "ev_ba57962015f641d182cabd13a8cb177b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010740872/"
@@ -2183,7 +2183,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c2d0145379bb4f009d8bd1cf5f62011c"
+        "ev_ef56782186b74665abaf862135bae020"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010741598/"
@@ -2280,7 +2280,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2193e9c9623b4ed38d61940b1be08f1e"
+        "ev_a62bb87a64e349279461521712694ff2"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010742164/"
@@ -2377,7 +2377,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_405b981c29274a2fb253a9c8b6a01b72"
+        "ev_197023f58d8c4721bfbd20f71e89f2e2"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010742171/"
@@ -2471,7 +2471,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0a703993f6864551a39a36d230c2a6ac"
+        "ev_7c12842eb3ff4bc0ab8e8e2fae6d5021"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010564015/"
@@ -2561,7 +2561,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0a13933fb50848fe98789280dd57d118"
+        "ev_855da95f9a85469e87feeb8f570ec675"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010754531/"
@@ -2657,7 +2657,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_09f90d43b1af44138bfef1163e9bfacb"
+        "ev_eda86216cc5043f884c04213bf4227dc"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010991815/"
@@ -2754,7 +2754,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7c6ab194ac04468e9d924bf7a699cd29"
+        "ev_3e4adaceb71c48b5bea1cc8379a8531a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011143813/"
@@ -2848,7 +2848,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9f078568161b44b1830c03b5ed81d7e1"
+        "ev_fa297259bca54776acd859d5bc510928"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011297526/"
@@ -2944,7 +2944,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5725e23975c0486589d2f34c4c0befd9"
+        "ev_0bcf0b167d0949eab9308b39f159a4d0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009357071/"
@@ -3034,7 +3034,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b4843ba4c46e4fa887aec277f5da891c"
+        "ev_8427dd1277144a46ad057886145d3062"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009519837/"
@@ -3119,7 +3119,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_86ed0b11fa9d4c2bba026a25091f5e13"
+        "ev_76614d1e6ef145baa06c2e74eee40673"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010138647/"
@@ -3210,7 +3210,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_73710e6fb55a4faf9bbcfbb0fa21dd51"
+        "ev_be31ab8fc2734359ab9cd065fbd8f9ba"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011580465/"
@@ -3299,7 +3299,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_20e6c14eaa184885a21055967d33528c"
+        "ev_881fcbc67f914facb1ab5a707f4f495d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010629376/"
@@ -3384,7 +3384,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2a7d478588774762864b019e819bc340"
+        "ev_089dc6c90c2f40278cc9daaed7999854"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010630123/"
@@ -3480,7 +3480,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_fc16ea4988a149d59f7720b784122245"
+        "ev_bd20f3c0c4f543839bffbb2f374cf807"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010633664/"
@@ -3576,7 +3576,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d7f0adf9ae9948e6b57ca0cb911c2dde"
+        "ev_b30f99a629344deabf005ca929b52e99"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010643168/"
@@ -3670,7 +3670,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8037cc6f50944be088ab6824d74a5ec1"
+        "ev_6fdc82aaac6546ce82bb4213e82d62dd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010643172/"
@@ -3765,7 +3765,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_24c36830383b4f06a3c23cd2b4c7c3de"
+        "ev_74c248c8cb094cc6b27bd83589c6f836"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010644128/"
@@ -3859,7 +3859,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_672867c98c094364b256ee16eb2c3d6f"
+        "ev_9faf33aec6c54cb09d5658f0b3c2a71b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010647796/"
@@ -3955,7 +3955,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c9012df332dd418b94aaf56986421376"
+        "ev_2a7f90675ea94d47845a166f19c00cce"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011057543/"
@@ -4050,7 +4050,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b74e332cb5a544caa3a6e1d45f3d1bbf"
+        "ev_7d98fa303fc546129f549e38e7f49880"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011057546/"
@@ -4146,7 +4146,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5504e750238d40428ae204340165ce07"
+        "ev_f4db1f9dac9a43c28c0b73c3359bb9f1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011057654/"
@@ -4240,7 +4240,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_43fc8a0c4ea942fb8850b9401a5f6bf4"
+        "ev_1167e43b12984cfa96d4c66910cbb4bc"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011433748/"
@@ -4334,7 +4334,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7ffa3873752c41ba98fe15f457b744d5"
+        "ev_3b5793a650c542dd81c80078b2068537"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011453075/"
@@ -4431,7 +4431,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0368aa6751b44646ad81619e9152933a"
+        "ev_e5a0014731794a08956bcfe85df9daf9"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010661655/"
@@ -4528,7 +4528,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f4efde1ee8114547be406679b2816e94"
+        "ev_ce50c956a85f453bbe877b0fe6e1d4da"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010661657/"
@@ -4625,7 +4625,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0072b925a0d641d3ab56d5c1b402684c"
+        "ev_3144829dfa7b4a06945b53500e27a2be"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011454585/"
@@ -4719,7 +4719,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_44b665ebfa1a4fb59d2625af9fe822c8"
+        "ev_95e1849aa59844a0ad6c88d77adb3afe"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011456188/"
@@ -4807,7 +4807,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_26d7451045f649e78d28272fbe07ac41"
+        "ev_a6734e65b4ab4a0c8f52e0f2f1e8b7c9"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011456360/"
@@ -4901,7 +4901,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3e9c16bfd2ed453699eec6160a662167"
+        "ev_9728454dc4824f80b63e0f433655676d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011459184/"
@@ -4997,7 +4997,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_187d49d43b2e44158f3f72b62ff2b998"
+        "ev_3808a58b88c54988b40319a45e3a60f2"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009873776/"
@@ -5093,7 +5093,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4c2aefc8763d4e53807ce99e7542aa53"
+        "ev_4f9af9c064904cf49d4c11601c593713"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009906694/"
@@ -5188,7 +5188,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7ba826506e1949c6a5727865a7eba587"
+        "ev_b0f2e07e1d364f18bffcb7de83ed6004"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010593110/"
@@ -5285,7 +5285,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_97af3fa4f3df4d4ea5f7a8cece42be27"
+        "ev_dcd0682a9e22404da473f3cd49f8e184"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010434572/"
@@ -5380,7 +5380,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_133ad6f8428c4acfa3dfacb46e5c405c"
+        "ev_3b32cc1a6a7d4d8fa8af1c6e623b9d16"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010434574/"
@@ -5474,7 +5474,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1808776aa9c94f458b29556fec36b209"
+        "ev_47c6fd4abc08466abdb74e2c9d24cbe3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010968386/"
@@ -5568,7 +5568,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_075893a56db2428f94c3db18f5e9c4ec"
+        "ev_e0c164737bfa44919d994354094d6e71"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011119207/"
@@ -5663,7 +5663,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_af30d2f98ef7458d97bc2f84979c03a3"
+        "ev_a09f0753d4dd4fb488bb9afe66085a12"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011130381/"
@@ -5759,7 +5759,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4a9a46dfb9bb45adb0a1ea7112b19065"
+        "ev_55674e714c7e4984ba8011687ae81079"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011264612/"
@@ -5864,8 +5864,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d4d539cddad44f04b87a8bf3f4fae2ff",
-        "ev_4b489fb5216a4a898d49fe1c250ddc3d"
+        "ev_916fe454472648dab25b9372dd3f71eb",
+        "ev_59d6c82b0ad2461a8a49cda08c15d3cb"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/65067253510040000#trust",
@@ -5961,7 +5961,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_442165ad9fd341cab4995efbd2662634"
+        "ev_262a894b32db4e60bc3bb2e74dca4a83"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010794671/"
@@ -6057,7 +6057,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_96376cbfc2e24f8cbce64ce8316c91d5"
+        "ev_555a1a1b5f4e475f981549539515be14"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010797893/"
@@ -6147,7 +6147,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e489c615c82a4aa98808dc65e59e39c4"
+        "ev_d9ddea75a9f349229f92f29c17afc135"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011003416/"
@@ -6232,7 +6232,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9119963698b74cae84741992ca6fea55"
+        "ev_b547fa7b1f894c48904f312fadf16f70"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011003564/"
@@ -6328,7 +6328,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_564d520aac494c5996e2c3665aa0ff8c"
+        "ev_23b151b99b544a36b0b8657746d3b675"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010482674/"
@@ -6416,7 +6416,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_bfd456c2f81b4e04a51aadc7ac0f022f"
+        "ev_3f4c22027bea48f4b5391d5e669c9054"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011003848/"
@@ -6510,7 +6510,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8204574b97df421f9bc3553f5b4d0e63"
+        "ev_79e0546279514584a42a443fb20370a7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011017687/"
@@ -6606,7 +6606,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f96c3fb80ac6475883cd6c9767b6c0d4"
+        "ev_b8cce0bf015645149c5da1ac97b62133"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011021591/"
@@ -6702,7 +6702,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f453a81afbca4d7eb719d826197cbe62"
+        "ev_5c99c29be0e544809da8829279b3f4e8"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011024604/"
@@ -6799,7 +6799,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_11c924e4e11c41b9876a1b1908e21e13"
+        "ev_147dc91d59784320ac212be7f03ebe6b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010897215/"
@@ -6906,8 +6906,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ffd4b8d44abb44239f5841b77a760325",
-        "ev_c5e403719e504976819132a2560e1c4f"
+        "ev_c678c41662c843f098046f691cb2a808",
+        "ev_8e264c4b0790426783bf178b2b1d6bde"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/65159052510020000#trust",
@@ -7007,8 +7007,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_dc38ac343bc2418fb874b659752c0929",
-        "ev_53895c6f385b4ab3867453dea7297d0e"
+        "ev_8d9956d107a5431586c0246218acb58f",
+        "ev_cbc971ba72fb4d74a7e9579edc743bf9"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000144976000000#estate",
@@ -7100,7 +7100,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_98b47f28fd1149ceb558eb7fb54a2034"
+        "ev_494e8baac69c4940b29ea0861da555c3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010161321/"
@@ -7196,7 +7196,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6885d2fe55d147f6b0e850561334c481"
+        "ev_d0c45681f60b4c25ab41d1e7923b458b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010735252/"
@@ -7293,7 +7293,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0f524d574c6041e0923400366e2a026e"
+        "ev_33db4dab0f1542319cfbabd92b528170"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010638645/"
@@ -7389,7 +7389,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_34377f91b3f44d92beb838927a637242"
+        "ev_37b3cf9a69d946248b956239d9c2058f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011307119/"
@@ -7485,7 +7485,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2d966df72f364e6e8bd5fb8af17352ef"
+        "ev_6e2ce85a3d144a7f967618da21b43dbd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011456196/"
@@ -7573,7 +7573,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1e3eb62572a04d4eb90fee77cddfa0e7"
+        "ev_a37b07a5d27e4715af28eab25152e1b7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011456198/"
@@ -7667,7 +7667,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6676e39b88fe42a4a5e06614a340dfcd"
+        "ev_6faacafd2d9a46e6b617cd0688f02a73"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011456344/"
@@ -7761,7 +7761,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d102db89517b4d51a0c023235f2b985f"
+        "ev_c344601b08ce48e3b3ce188874206a44"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011454583/"
@@ -7855,7 +7855,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8514adbb076645ef92256243622cc460"
+        "ev_91d26ba83b9c4b38b1883ceb3493b61f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010636069/"
@@ -7952,7 +7952,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_78247f522ffb4f6892e4b380fa9d7805"
+        "ev_7f26c5e8132447e08f5fed6a4cc8c4bf"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011130216/"
@@ -8047,7 +8047,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2b79e2d352da449c84fd0cdcde6f8621"
+        "ev_46297db9cc5646a3ba0411b05407f16a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011130379/"
@@ -8141,7 +8141,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_01294aa1a3de43168e17dc80c76fedf7"
+        "ev_b62250a6aedd48af9b67f4088aa4b299"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010637982/"
@@ -8235,7 +8235,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_96deae5815a64a2aa4432b12f769f114"
+        "ev_7d662c57375d4989885dffa79a97c1e7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011265778/"
@@ -8325,7 +8325,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_fcc269d0df7b4b65b4224be81f1db01b"
+        "ev_e11090a7dfe04ae292cb06de4a3fe769"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009247852/"
@@ -8422,7 +8422,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_20d8420e3e3045a7b0574090845c509d"
+        "ev_e9d7c4297de646298e49a318ecd15cb7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010893079/"
@@ -8519,7 +8519,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3154bb2fbc0047fba5533cba2ef8c460"
+        "ev_25b8e1b0387d4b13b86a6bb6c1cde1d3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010760542/"
@@ -8615,7 +8615,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0593b001c19f4cc9b62b709b537ee481"
+        "ev_e539d712d514405082685f653641301e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011429632/"
@@ -8712,7 +8712,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b73390f77a4b4de1b9f1973c22afd5cc"
+        "ev_ea93d9e1955b451dade135b2e8e44cbf"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011459038/"
@@ -8806,7 +8806,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1021b1cf0084408696548890a45863b7"
+        "ev_66b281485f904693902e31dc7861b9df"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010629679/"
@@ -8894,7 +8894,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1eca7998fc2a4d6bbd64ab7009233104"
+        "ev_147f26dc896c41948014e9f8e7c36e66"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011133875/"
@@ -9001,8 +9001,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_76e1455236e14dfd865d659c0f60e691",
-        "ev_414080d29aed4c5e9350aaccbd4f435c"
+        "ev_9dac6fd856cd46ceac90b56e02e97c86",
+        "ev_d9b1a1d7bd7f47dbaa23636a927b27d1"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000226876000000#estate",
@@ -9100,7 +9100,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4b6954d942d34655b536e513db19a2a6"
+        "ev_ce0544dc69e449a9a55ca4c73c8de08b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010994323/"
@@ -9196,7 +9196,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8147fca6ba964154b9e70fb17607087e"
+        "ev_a8fe4332bf5d47a7a5a7cd0586a2a426"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010467303/"
@@ -9292,7 +9292,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1c9201543b7441e5ace666cf252e0a5b"
+        "ev_775bded9a89840218036148edb2aede4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010601543/"
@@ -9389,7 +9389,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_302114d4e6774d758c44520249ac7e56"
+        "ev_a185d0daee034686b4a0376c7c7e2096"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010632281/"
@@ -9477,7 +9477,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_155971bbfe7244f38d376c607d901c50"
+        "ev_2459181b49ea4676b6d518b2a9d88f86"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010361948/"
@@ -9572,7 +9572,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e2575825525b4eab877cc9c2789f664f"
+        "ev_78d1ea79bba34b8c807c9d61bc98e452"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011332857/"
@@ -9668,7 +9668,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8972191eadfb4a4f8eadaf63aa8a7a82"
+        "ev_a0a40e7070214135b1bedf0e67417f94"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011267766/"
@@ -9767,8 +9767,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8238625ff5f0413ca3a036798c56fee1",
-        "ev_50087af080d04beb9e417877006a0023"
+        "ev_06cdd3edc59f43e3ad8598f301457952",
+        "ev_e30adc2049574544a77e1f68f8c25102"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000686707000000#estate",
@@ -9864,7 +9864,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e7bd49e6f5d54a3f9519444cb4da334e"
+        "ev_98a7e5b7278b44c59f90b26e44b7c642"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011408042/"
@@ -9952,7 +9952,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e8a9762262a34557850bb4f30e82dfba"
+        "ev_a572302844564a0382eaccae22df9918"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011454587/"
@@ -10040,7 +10040,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_871f973216a14687a8dd405ed113df42"
+        "ev_58485db7c0314de9894fe333aa9618e6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010892602/"
@@ -10128,7 +10128,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_31c11ed411da42caaf19f1577103d05d"
+        "ev_a9c93984449942fdb65cc46dedbe8608"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011003710/"
@@ -10216,7 +10216,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3ff622cd4edf46a0bcfc6bfc3cdf4dc2"
+        "ev_fcb15f9cf55e4c57b99b8172d3dd46a0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011024492/"
@@ -10304,7 +10304,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3fd554c5b99d4efc96e2dc437260ec2f"
+        "ev_ade85619dde94eeb8413e04bbda57fd3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010704817/"
@@ -10399,7 +10399,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_059f343c23b740cdb7c95acee472d232"
+        "ev_32fddf5790b94a26ae785b6caddda0a3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009356525/"
@@ -10494,7 +10494,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1902f5df44da42f29083a1ad14209ab3"
+        "ev_4050e1e3271c4b038e8f5c582d8f3e51"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009701468/"
@@ -10582,7 +10582,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c4c8175a96e54c7c845a3e602f868833"
+        "ev_ca2503df133c4b45b4b4e20049746906"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009715117/"
@@ -10677,7 +10677,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_efff55269c4f495eafdf02f357989b1e"
+        "ev_19331b12d54f4a548b6c565bcca3ce37"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010352556/"
@@ -10767,7 +10767,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_cdefa512c9af4772b7e5237dd449afbe"
+        "ev_7698581aa3354e2693e0bc838f0bba20"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011019455/"
@@ -10863,7 +10863,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ddb13f39a9d94096a54dbd4668d4ca6a"
+        "ev_0cbac0466a37459b9402c3ca484edb91"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011189173/"
@@ -10952,7 +10952,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_383a7c2460dc495ca8cc221c4a1bb14a"
+        "ev_56a4f07ce8314f8dbaceb6162991cff6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011272681/"
@@ -11052,8 +11052,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e2c181f5443f4d37b77d1296864f0e03",
-        "ev_70c85c1f0eb74c4f85acb27b246616a7"
+        "ev_7128192d93614a0584f7ddcec436b221",
+        "ev_ff6fcbfa751b47678212f5a2c28d1c40"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000179956000000#estate",
@@ -11144,7 +11144,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e08bcf38ba3843e3a5cc982a70c676b7"
+        "ev_d0af83695a414901ad34091e3f63bfdd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011292027/"
@@ -11251,8 +11251,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b953ad39e4ef418d91c1240e76b91bf1",
-        "ev_b77ed5bf1f4646fb9c808102db806551"
+        "ev_d399c20cc0b448f986898ef8a0fb26a6",
+        "ev_45604fdf5f454afaa33f193766082f43"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000675220000000#trust",
@@ -11347,7 +11347,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d4613345123542009968246213d00650"
+        "ev_07d760e469ad4f23a380d959ddbef802"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011319155/"
@@ -11441,7 +11441,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_47c26e89a3ae42e2a7a234e33d2ab267"
+        "ev_ea575899be09444dbe4173228914303c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011319295/"
@@ -11536,7 +11536,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1f6db88b53484ebba4df745b35e69bd6"
+        "ev_97cda1261751416aa2457fc7cd70be02"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011348233/"
@@ -11630,7 +11630,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0c3cd4bd718a4f4f8894ce7d65f223c6"
+        "ev_8a46e8d50929487d87510fd0a99f4932"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011391438/"
@@ -11719,7 +11719,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0d8e9b54aa3e4d9aa2a988347746e948"
+        "ev_a4ff9d3139c1494f92127794e5794577"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011391964/"
@@ -11815,7 +11815,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_76f2ccebf80a48589c109fd2a68be74e"
+        "ev_173a8927d01445af84372017a939cd07"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011003008/"
@@ -11903,7 +11903,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3dee91f10d264e2fb4013129755157de"
+        "ev_b232569d9ce242a2a31178abb50cbb47"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011004453/"
@@ -11997,7 +11997,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_329387b6aefc422d9b7845f97cc26550"
+        "ev_dc12d83310984e45b4ae145258688b0e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011131729/"
@@ -12087,7 +12087,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_67a4a1086c2441078f7be489a668a112"
+        "ev_52c041fac497409ebffd23881a52170c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011155034/"
@@ -12182,7 +12182,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_86c186bf889548b584969446bffdc3a9"
+        "ev_fd68fb8f3ca14824b318da14712591d9"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011162290/"
@@ -12270,7 +12270,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8734f410976e4248b30051e162d045ca"
+        "ev_0ea34e7892b74e4e9cf357dc14f7d224"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011170581/"
@@ -12365,7 +12365,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6b83daf534e742df8ab05e38185ee5ca"
+        "ev_f71f06d1d58446b7bbaab32b22543574"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011171688/"
@@ -12460,7 +12460,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8378612ff485455595278736b153a3f5"
+        "ev_1ad44cc6a7484a5f880987ec52ec539a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011174323/"
@@ -12556,7 +12556,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4de2f86edd6f49d29e71e2e68ed6f52f"
+        "ev_c930ba4f8bec43dea066d74b33011f9a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010747605/"
@@ -12652,7 +12652,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0d421aa53f8f4cbd83110ba5c66c9629"
+        "ev_3fafadfa272c468396dfac8d4e4beb87"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010789012/"
@@ -12740,7 +12740,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_fe520da6541f44afb52d895c4d6a01ca"
+        "ev_b95b6a7bd8e644c6b969b2fbe2a4693a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011423710/"
@@ -12835,7 +12835,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_991777d834e44b8ba604cf759eab905c"
+        "ev_178901289aa84a718a2f8070fa4a5fb7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011528869/"
@@ -12923,7 +12923,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d5dafa13b52b42a9a94386b8418e30f8"
+        "ev_91515c22ac8b4cc89fe674e3bacc4d4f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011529530/"
@@ -13018,7 +13018,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_bac263b1016b4ccd83089da06151055f"
+        "ev_0525dc2f0e7d4d37831039290b4f3d05"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011531577/"
@@ -13112,7 +13112,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_23e1f301c0ab4dc9857be6c0a877ab4e"
+        "ev_d72c99caa0784ad6a6cc617c3a5a3d8a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011548819/"
@@ -13200,7 +13200,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ef5bb5d956fd425086a58b83db71d9b5"
+        "ev_44764e670ea94cf7b35edebdd2bfa146"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011594026/"
@@ -13296,7 +13296,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_044127f35df4424cb9a8e1f101bafe53"
+        "ev_be61dba7060c4bed9368b59b427ac0a8"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010457030/"
@@ -13384,7 +13384,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9bdadb7719484f658972949a86426a4b"
+        "ev_6ba8b2c18eae44a9a3899583ef925471"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010484179/"
@@ -13479,7 +13479,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3c3e0e8b3f244d4a83d712c6f05f72fe"
+        "ev_f7fa6520b5dc4172ba86a057b3b634b5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010486841/"
@@ -13568,7 +13568,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a0d4d4bddf524096ad12d4105c4c846c"
+        "ev_38c69259d37f4b4091cf1811edabaa61"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010489599/"
@@ -13657,7 +13657,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_91b326549f3d4c80ad0e7ac1c509b1d3"
+        "ev_5b24ef59c552414482df4c88d44959a4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010497160/"
@@ -13753,7 +13753,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a36ff9e193ab4dcf8fccf6ab2559d106"
+        "ev_7980734c62754a449ce55aadaa8ab97b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010498602/"
@@ -13847,7 +13847,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_66cd28bc5a0b446bb4207491da531cff"
+        "ev_0ee5c139387640089630726535c143dd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010517016/"
@@ -13941,7 +13941,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_11b6b3dbc7a54c529cbce64d8ab60a2d"
+        "ev_990951db22a34a9f8b91158b0d14a5d0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010527073/"
@@ -14029,7 +14029,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5930727de7ce4d3c9dd4097b1ed5698a"
+        "ev_b393243f2e3e43148c00a5f9c1b9e9c4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010597228/"
@@ -14117,7 +14117,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5d7911cae65f477eb334f4fdd8082f79"
+        "ev_e8a9a72c357e4f18b74e316af7174e77"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010615606/"
@@ -14205,7 +14205,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_fab658a853124839a7d806c4d055b8c9"
+        "ev_6c7f0025c58646acb618d4230e4e4d4b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010617548/"
@@ -14301,7 +14301,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6c715eba1239403eb2b876a2a2b2586f"
+        "ev_125703db83bc4abcbf5a6ff709c0bdc5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010617904/"
@@ -14391,7 +14391,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_29a07fedc4d44956896020571c65817b"
+        "ev_01bf3b875d634f70b3b8cd73e101d1b5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010620802/"
@@ -14479,7 +14479,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_76d83227a33a403fba9adbe69b3aef6d"
+        "ev_2d424645c38e456faeeb591c3825778f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010621306/"
@@ -14575,7 +14575,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_769c214eec26411aa5198af858a59863"
+        "ev_5782b7746c244768abec72649bd48ed5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010621678/"
@@ -14671,7 +14671,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a4cea212bebc47dcb8828e266cf819f3"
+        "ev_06450f86432d4bcc8112b6537e0ae72e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010621689/"
@@ -14765,7 +14765,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f51d9f3590a24c0594bdc99ac2ce6890"
+        "ev_31d0b73b517b43aca921e0e1a0b053ff"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010625501/"
@@ -14853,7 +14853,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_779e36176d7e428caad5bb236413e0dd"
+        "ev_75c22bc1ee414822b28cbeb02e652f76"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010626238/"
@@ -14942,7 +14942,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9c31ae06d70448cbb5f98f10d9938681"
+        "ev_c0d3bdcd8a944383b03566d0cdd9982d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010652658/"
@@ -15031,7 +15031,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ea5b29d7a3d64552b4924bc2aea92ae7"
+        "ev_09ff62cf38174c85af07e5cd0090a3f1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010154036/"
@@ -15126,7 +15126,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_dc5c8d731e034bd0ab3dce8d36ca3df3"
+        "ev_61eaf657b0d64ff6bec41432dcc0068b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010156116/"
@@ -15215,7 +15215,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b73e08ff3aa242d7ad1a4ca971c29f91"
+        "ev_9a8e819dce994a1a937d42b3f13e9e2b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010358243/"
@@ -15304,7 +15304,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_fc7647537f67482aa60f16501294242d"
+        "ev_8b3189d023ab4c85a7d7e7b50461cd53"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010362827/"
@@ -15401,7 +15401,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0616f11629a540b2abea9e0c3383a4fa"
+        "ev_53b75cb56a6e493d9f659eed2aa6a85e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010365582/"
@@ -15496,7 +15496,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5d0df7661f0547bcbc3c5168e4b6f90b"
+        "ev_1fc95ec0dcde4a86a84141bc51c46eed"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010385884/"
@@ -15584,7 +15584,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1d9b5e9fa6cf42cea987bbefd151ddc9"
+        "ev_cf5f76b0da9c4865a6dc4cde9d05519b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010386166/"
@@ -15673,7 +15673,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8bab9d6896a240599e7257da4659a8c6"
+        "ev_059a34602dcc493b8a435269686a103c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010387197/"
@@ -15767,7 +15767,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_22689f5a071443c0b58e17dd7834e134"
+        "ev_0d460ac52fdb44ea9b8986af2a864234"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010398091/"
@@ -15855,7 +15855,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7d9a2015c5014e08ad99359b5125d6d9"
+        "ev_7f47ed0173d9488fb1ed9fd139358336"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009177692/"
@@ -15953,7 +15953,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6b67faf9a0fd4deca73c207f708555b2"
+        "ev_edd42e950d35427ca004ebf2c5bc48fd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010429662/"
@@ -16042,7 +16042,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5409c825c3ad4cd69a3b428f0c21e38c"
+        "ev_19f2793750ba497e9a4b6fe6c34a3036"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011368440/"
@@ -16137,7 +16137,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_01b579bef18d480cad33f68696540ef2"
+        "ev_9c47f44bcd9043e7a59320e6db063b7e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011454702/"
@@ -16231,7 +16231,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6fbcda0599134ee79168e11ec9ce6a40"
+        "ev_45629d5c948047c3a389e54da86e39d1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011128162/"
@@ -16325,7 +16325,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b79f0503ce074615a8a12df01c6dd023"
+        "ev_09b3f22ca37b4f6b99a081307d2212da"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010629972/"
@@ -16419,7 +16419,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a49c10441b2948a09b5a91cfd8a14b12"
+        "ev_74c9210902b44033bb290e616c7f6bb2"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010648670/"
@@ -16524,8 +16524,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c495549dc5ef4b1fa16c74416187f049",
-        "ev_594a93808fa24da8beb9a0e51f305200"
+        "ev_d39b96aa5f87479e81e07f383cd942c7",
+        "ev_dee69a5ee43a4c61b71c092a737e6565"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/60247500070100000#estate",
@@ -16568,23 +16568,20 @@
       "last_seen": "2026-11-20"
     },
     {
-      "lead_id": "lead_4ac83a943c82f229",
+      "lead_id": "lead_0c3110b7d730afa6",
       "primary_parcel_id": "00000270220000000",
       "display_address": "1202 S EWING AVE, DALLAS, TX 75216",
       "display_owner": "WEST ARTRALLIA ALLEN",
-      "display_score": 87,
-      "display_tier": "Hot",
+      "display_score": 63,
+      "display_tier": "Workable",
       "display_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "stack_contrib_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_pattern_set": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_attributes": [
         "absentee"
@@ -16595,8 +16592,8 @@
       "display_deal_path_details": [
         {
           "path": "wholesale",
-          "confidence": "high",
-          "rationale": "Multi-signal distress + investor-friendly attribute set."
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
         }
       ],
       "display_title_complexity_tier": "None",
@@ -16606,19 +16603,11 @@
       "display_last_sale_date": null,
       "display_year_built": null,
       "display_match_confidence": 100,
-      "stack_depth": 2,
+      "stack_depth": 1,
       "score_reasons": [
         {
           "factor": "base_TAX_FORECLOSURE_NOTICE",
           "delta": 55
-        },
-        {
-          "factor": "secondary_CODE_VIOLATION_NOTICE",
-          "delta": 12
-        },
-        {
-          "factor": "stack_patterns_2",
-          "delta": 15
         },
         {
           "factor": "recent_filing_within_30_days",
@@ -16629,16 +16618,12 @@
           "delta": 3
         }
       ],
-      "display_violations": [
-        "Repeat code complaints (7 in 12 months)"
-      ],
+      "display_violations": [],
       "evidence_ids": [
-        "ev_b806f012f9d542698c4995eb6cbc6294",
-        "ev_de968ee555384126b611c61de185c78e"
+        "ev_043dd3b9078f4885a9cf11d00bc1e55d"
       ],
       "primary_source_urls": [
-        "https://taxsales.lgbs.com/api/property_sales/1010771396/",
-        "https://www.dallasopendata.com/d/d7e7-envw#DAL311-b9205b7c78"
+        "https://taxsales.lgbs.com/api/property_sales/1010771396/"
       ],
       "primary_event_date": "2026-11-20",
       "expected_sale_date": null,
@@ -16656,27 +16641,19 @@
             "t": "Tax Sale List",
             "u": "https://taxsales.lgbs.com/api/property_sales/1010771396/",
             "d": "2026-11-20"
-          },
-          {
-            "t": "Code: Repeat code complaints (7 in 12 months)",
-            "u": "https://www.dallasopendata.com/d/d7e7-envw#DAL311-b9205b7c78",
-            "d": "2026-09-30"
           }
         ],
         "tags": [
-          "Code: Repeat code complaints (7 in 12 months)",
           "Tax Sale List"
         ],
         "src": "https://taxsales.lgbs.com/api/property_sales/1010771396/",
         "srcs": [
-          "code_enforcement_dallas",
           "dallas_tax_sales_lgbs"
         ],
         "minimum_bid": 61734.76,
         "cur": 61734.76,
         "joins": [
-          "account",
-          "situs"
+          "account"
         ],
         "use": "SFR - Vacant Lots/Tracts",
         "apn": "00000270220000000"
@@ -16739,7 +16716,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_91593497c61a4221aaca627b842e809d"
+        "ev_dd642b1a8d5b4b76a20d9f3faab64a11"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010860755/"
@@ -16834,7 +16811,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_24fa1d30a7b141f888f36f9d0a9af9ea"
+        "ev_296ce6159398403f90d244898e4ab69c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011409291/"
@@ -16928,7 +16905,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ca86fe96ffa74d6eac9d45a0f669c2de"
+        "ev_860c5cca642d4cea8805324d66898b30"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010643602/"
@@ -17024,7 +17001,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d0e22c0f501642d497ba68ed32fb6d76"
+        "ev_2ee49c90228c467a97e14646eca7c6d1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011296347/"
@@ -17132,8 +17109,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ff56298ea79643da98606a25bbca5b95",
-        "ev_a12db750fb3349638184d9d364e9ff12"
+        "ev_f878bfd2464144d9a6d5da0a0931383b",
+        "ev_ee9aa145a82c4c59b2175f042a5f60cf"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000507886000000#trust",
@@ -17223,7 +17200,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_063bc822db5149d8af08508f407a86d0"
+        "ev_89b9aca358a645ea86652a8408bf00aa"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009906664/"
@@ -17317,7 +17294,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b2810d7fe808451e82506d4cd8593ec1"
+        "ev_d932c1ce814441feaa90ab3639bd96ae"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011284670/"
@@ -17412,7 +17389,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9de23e3e3c0941d8bdecfd53f2220d26"
+        "ev_f78ab0afc2dd444dbf540c5846707d94"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010474882/"
@@ -17507,7 +17484,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0fcd7ec4cfc146fc8029bdb628f842fe"
+        "ev_70af577d13e04999ad6a1b7871601818"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011419704/"
@@ -17603,7 +17580,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d53c1a66b43d4a3885e6fd94a8dc35a3"
+        "ev_fe0d0319645d4f81a8401711d74abb55"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010394446/"
@@ -17697,7 +17674,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_776cec3a4d4c40a69a5511ada6ca5ce5"
+        "ev_731d0971eff14ca1b2e5d236f4dd2c60"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010617362/"
@@ -17794,7 +17771,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6c5cda68a4074926ab717e5682c1fe83"
+        "ev_48da1ead72b04e60922344433d437e48"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011280628/"
@@ -17889,7 +17866,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_248fe8559d39441d82f56c5b07680a96"
+        "ev_3032b1990ab94ddd8c0252a605e184ed"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011406858/"
@@ -17984,7 +17961,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7c10e39098474828a17dfb6b21f04191"
+        "ev_b3218c3b489648e3af9601b19ed6a1c6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011406860/"
@@ -18073,7 +18050,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_86c16487fc3c4d1ca3e615483b92be75"
+        "ev_994eb6a63874423aaa9dd1fa4254e0b5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010992658/"
@@ -18169,7 +18146,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b5a97b352f314ba2aa8d371867d06d35"
+        "ev_f645b4d050a2457ca758e512e214689d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011024890/"
@@ -18257,7 +18234,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c091253d109b4f709c0526b8dfdecad4"
+        "ev_f8e8e38188874508aef9dc559a3c6268"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011122617/"
@@ -18351,7 +18328,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d299afe29eab4eed84a79e9faa781549"
+        "ev_ab405f779b3545e795e06b070fbaefa3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010737676/"
@@ -18439,7 +18416,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f3e15e48e1794c3e969c8954298337ac"
+        "ev_020346da940b446e9065920b99c8ea83"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010793795/"
@@ -18522,7 +18499,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_16626a268a424ad48c22125751d8ce2a"
+        "ev_1ec3e49734eb471db69eaf1a005fd4c7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010706098/"
@@ -18617,7 +18594,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_62cb9e10e11b41cba50d870d136db127"
+        "ev_ddd6989bc643421685a99a7d9c2d9751"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010779682/"
@@ -18662,11 +18639,11 @@
       "last_seen": "2026-11-20"
     },
     {
-      "lead_id": "lead_c75b075ae441848b",
+      "lead_id": "lead_5d8b9fe20c41ffe9",
       "primary_parcel_id": "00000757228000000",
       "display_address": "8617 HONEYSUCKLE LN, DALLAS, TX 75241",
       "display_owner": "D REALTY INVESTMENTS INC",
-      "display_score": 67,
+      "display_score": 65,
       "display_tier": "Strong",
       "display_patterns": [
         "tax"
@@ -18679,8 +18656,7 @@
       ],
       "display_attributes": [
         "absentee",
-        "entity_owned",
-        "multiple_properties"
+        "entity_owned"
       ],
       "display_deal_paths": [
         "wholesale"
@@ -18711,12 +18687,12 @@
         },
         {
           "factor": "attribute_bonus",
-          "delta": 7
+          "delta": 5
         }
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d10afe4d9b92467c9b50abab4a4f1e49"
+        "ev_3ddf4ed3aad24cc6b9334706022b93e0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010479079/"
@@ -18804,7 +18780,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d66c9b59b1ba41f5b6a8e2c588062c50"
+        "ev_fb18687d9ba34a6f9a42a2a5829a9ba9"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010587868/"
@@ -18904,8 +18880,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_de8ba56b390f4313b506ada82745c87b",
-        "ev_8a4d090253bb478fbdf48751d550fae2"
+        "ev_53c0a1697d8949f59885d7b383da462a",
+        "ev_c7b14314dce54c8f8a73fb9ef341c967"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/60156500060330000#estate",
@@ -18996,7 +18972,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0bac1730f3a94a77bb9c71cbd8e4d176"
+        "ev_ccfd82aa9d0d4a9598ffe4a5fcd9e06b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010306815/"
@@ -19093,7 +19069,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_59e09a83fe094023acda49af0e01ec85"
+        "ev_87015372722b4071893efee066dc6147"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010398368/"
@@ -19192,8 +19168,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b7f40335c8044b8abd988b68bd2e6dea",
-        "ev_837a3216e4804bf481d9ac6e4647b500"
+        "ev_b95534a5953b4552aa67fbe82385f689",
+        "ev_8abd414093784ff29073c5c12528e058"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000899828400000#estate",
@@ -19289,7 +19265,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_87c707c60eeb4a53b76b7ca2db914421"
+        "ev_90d317d15da94fc2abd025403be3c389"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011452022/"
@@ -19383,7 +19359,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a2cb4a857ca349779ae3ddf432f0e7e5"
+        "ev_e32d555f053041759b176abe710effab"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011118927/"
@@ -19480,7 +19456,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1109763a57f9421fb457d7acb9037d07"
+        "ev_b93da78ca93740bab2c0f30441002ba3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011120934/"
@@ -19568,7 +19544,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ee3d4ceefd4a48d58d44aaafd41d9276"
+        "ev_bbf8ee937d2347669a0dbbd27a80e237"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010637541/"
@@ -19658,7 +19634,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6021739a08164267a7027b766cd408c0"
+        "ev_8b2b419b0ed04bd49eb1a73bdb299888"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010754529/"
@@ -19748,7 +19724,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_19ac6a93b25a4d5497e72fadf4d04a23"
+        "ev_6a80c8c0dca54008848f8c0ed212b742"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010794246/"
@@ -19844,7 +19820,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1de0014e99d74814adfe84a4aaa951a5"
+        "ev_6bd1c79fbedd4134a3f8a34c54fab083"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010466449/"
@@ -19938,7 +19914,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b37e519e55ff4478908f4745a3cf281b"
+        "ev_19ca16d7c27f44b1956590ef96c233f4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010482972/"
@@ -20034,7 +20010,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ad0a0fda0b3d4ba1a94ea960b12990a5"
+        "ev_d19428f80b4d4e0a849505204e657f88"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010485728/"
@@ -20131,7 +20107,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_095b2b3c175a4476be4253bbb78eb85d"
+        "ev_002f91d4583a4894bdb215e28758793b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009908186/"
@@ -20219,7 +20195,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4d4841fd122947e29c2240ffad5a7626"
+        "ev_bb0e248b4e8b4c889fb2e027549e7268"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010120317/"
@@ -20308,7 +20284,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_04b514b198534777b46191a64ee279b3"
+        "ev_5f77825a014f46ca9be55e64ec5b41c3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011526304/"
@@ -20404,7 +20380,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_76f599b8312c4371b2feaa38bd6d2a60"
+        "ev_c8a780f1ced74452b8d1b09356f69614"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011551129/"
@@ -20434,7 +20410,6 @@
         "srcs": [
           "dallas_tax_sales_lgbs"
         ],
-        "tax_sale": "2026-12-01",
         "minimum_bid": 44163.49,
         "cur": 44163.49,
         "joins": [
@@ -20501,7 +20476,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a4ebcf29bbda4e8f8304c7b38ba50639"
+        "ev_b16c5fa2d6694a72adc996f83bd8c0f4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010981576/"
@@ -20595,7 +20570,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0a7624282d784df49ed0f8ac94253988"
+        "ev_b1cfd50a72e84384beaacc21bf89f5ae"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010637983/"
@@ -20690,7 +20665,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_917a37c23e804a258b140620c25aaf08"
+        "ev_154df8dcba894f8ea5d98e1ac9d4aa64"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010796401/"
@@ -20786,7 +20761,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_28860b3efc7e404dae9f8a5c5ccd535f"
+        "ev_d01589e46d504196b32b3e59719e0c89"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010629671/"
@@ -20883,7 +20858,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c4dd9512c7cb44c29a8948e8d6f76e89"
+        "ev_30722bb445484ce9a379a002f97f132e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010634911/"
@@ -20973,7 +20948,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0d310114dfa24c7b8a51436b308f7bb5"
+        "ev_d8486dcb49fa4a5fa3e41d493968358a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011173776/"
@@ -21064,7 +21039,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6f0d2693c58f43f7b4b046e7a5a52f86"
+        "ev_9b96619e1c844217834cdc6d850f8e7c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011178189/"
@@ -21161,7 +21136,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6d7f588afd214c38b6da3a51149929f2"
+        "ev_cc45a1f98cc34d42b08b646714221006"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011168570/"
@@ -21255,7 +21230,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e3a08dfa89d54fee8e71feb66038d76e"
+        "ev_ae6d00d5b8844b57a34341392a3401e1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011277405/"
@@ -21343,7 +21318,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4e6c993aa2854ace9adabad47169760d"
+        "ev_89c0bc8e38a44739a099b86990a540fb"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011316421/"
@@ -21434,7 +21409,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e1c1e3b3fcc942b888f67d2f8f7bd68d"
+        "ev_434e695e88ea478dae7e7599c768e3b0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011420992/"
@@ -21530,7 +21505,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d80f7603426a40c69dd9c8208720bea4"
+        "ev_eeb0d8d8775a4e809f71c167bbe998a3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011440523/"
@@ -21626,7 +21601,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c9ba1f588b874906a838a3a596e092af"
+        "ev_9e5271dd7107430d9aefc6cf0b5db557"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011449770/"
@@ -21715,7 +21690,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5a5f54ab774541a18374f7533afb392d"
+        "ev_146523383e4f4d75854246da2c4a1525"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011454704/"
@@ -21804,7 +21779,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c80d9b56e568479b89b79335f8d3b16c"
+        "ev_faed7c98008c4f76bad0c50602c1133e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011562967/"
@@ -21898,7 +21873,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_49411d84ba4a4da2bbcb4d37e332bfa4"
+        "ev_f11cc4289d034680aeec23e2a12bccee"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011567634/"
@@ -21995,7 +21970,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ecd2ef8eadd340b9bcd8bd5b946c384a"
+        "ev_fc28bb930dbc423199d2e87127f747cd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011594702/"
@@ -22090,7 +22065,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a8ced361d2044c829e82ff07f76542b6"
+        "ev_d1928c567cc04cc7ad98a30873ae05b4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011649715/"
@@ -22196,8 +22171,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_605cfa20cd224c8eb87ecbbed52eca29",
-        "ev_e5e426c7fc754414ab65f1c038934498"
+        "ev_323f05432db646c1b8e8c7102581fa94",
+        "ev_d1701fdd02914c4382301ffbf96c44da"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/65035566010030200#trust",
@@ -22294,7 +22269,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e2769a1cbecf45f0ba86ef8b17a6fced"
+        "ev_05707f9c47ff44c89b4e31becd3f4153"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011134699/"
@@ -22389,7 +22364,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_dac5ea8686854c6d82b4faee2a64bd59"
+        "ev_d684120ea1eb474ea3e8841a35963c25"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011144498/"
@@ -22486,7 +22461,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_77227a9edfa049c7bda3f17a2fc60e30"
+        "ev_d0b6bea5d27649219681ad7756a737fd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011162118/"
@@ -22583,7 +22558,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d2692e1a23b3406a9e3800286c72f127"
+        "ev_54fc3b60bf534220b0213607e2559906"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011270806/"
@@ -22679,7 +22654,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a3fce8a735794c8d8cb607b433224f86"
+        "ev_3e91a140953148a4adc631812f66dd2e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010761034/"
@@ -22775,7 +22750,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f337a61ceb4e466a81aeece5d8b8992a"
+        "ev_8fe3fc7125404deaad5274826717ac21"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010784912/"
@@ -22872,7 +22847,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5d2f1ad4c00945aaaec72546f88aa181"
+        "ev_79df8e811565475bb1a2698833b29464"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010788867/"
@@ -22969,7 +22944,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_333284ff58e342ec904c22d09d1a18e4"
+        "ev_b20ce59106754adc82c4fdfc04aa412c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010796260/"
@@ -23059,7 +23034,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_98716514ea9f43ca94e6fbf223aac8a2"
+        "ev_31668df033ec47aeb9835c8d00698aac"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010850340/"
@@ -23159,8 +23134,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a64c8f93df4e4b128a9c6ea32ec016d9",
-        "ev_c3ebcce8ed7f477d8d2f89d5142739ff"
+        "ev_83fa3d0f2158441a9b128da2e21ec035",
+        "ev_dec7dbed78c543e8be3322a949ca8b96"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/28052501380010000#estate",
@@ -23257,7 +23232,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_88b1e3754fb4405cb9b4f17a88cd53da"
+        "ev_5c42f1910f80418ebfc6e04c611513b7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011023846/"
@@ -23353,7 +23328,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_813f3d5298844fcf87e199ad981b63f1"
+        "ev_624a66cb7bd940938ccead741335fccb"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011024752/"
@@ -23447,7 +23422,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3a4d1e906d054a34a7546367b239c06e"
+        "ev_742a6973a5894b3a8ce5bdc317a216ea"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011026384/"
@@ -23537,7 +23512,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a2b95a87f092445a80be2e5428632831"
+        "ev_47747b5c657c48fab33afdba83c495f5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011053778/"
@@ -23628,7 +23603,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_051cdae28c6c43aaae271409d96ee37d"
+        "ev_b0a87d5e56d34be6836ae4051b61b112"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011055653/"
@@ -23717,7 +23692,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c0f2924a0f98494393d827a28ab1c443"
+        "ev_3b64b230330845fe9da687ed038e4f2c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010608577/"
@@ -23812,7 +23787,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_dc2766b52ec04ac48a68742878122d2a"
+        "ev_754318cf932a45e98924f58142ee8834"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010617739/"
@@ -23909,7 +23884,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9c76bd2cfbc0421a97ae26eefdaf9b2d"
+        "ev_b19690343f5940e6bcbab57f9127711e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010638775/"
@@ -23999,7 +23974,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_08cc01f1dc054c4e8f7aed4d1d46dfc4"
+        "ev_bef9f7063bbf4b6bae470f76f27cee7c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010743607/"
@@ -24105,8 +24080,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1ac50e91691647f4870b02af0476d10a",
-        "ev_1bb610373b8b4bbb97f1921b08a5bcaf"
+        "ev_8064234bc88042c0beae340d74ee1443",
+        "ev_e6484e08653f4d30825b0bf2938076d6"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000483346000000#estate",
@@ -24202,7 +24177,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_41ea09f200734b1c857a40686995f81f"
+        "ev_3e5be3c0f49c47498dccbe0d22944572"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010434983/"
@@ -24297,7 +24272,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6d789ed382cd4b1b8adbef00148352d4"
+        "ev_195f87f4d5254340a5226a433c27dd1e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010510492/"
@@ -24393,7 +24368,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6d710fdf1cdb45369354af94caec5205"
+        "ev_fd84acd5aaa540b1b6176358cf06d835"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010189857/"
@@ -24489,7 +24464,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ef5bf0686edf4d8f92440dd4990baadf"
+        "ev_d700fe58593349d08c5db1ad436a3ce4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010249226/"
@@ -24594,8 +24569,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b5babb1b203e4fed8595be61eb9d5148",
-        "ev_31be1ed5d8ea46e8a0c07bda9bd75e12"
+        "ev_5018d577854c4936ba27de3286ed549f",
+        "ev_77324edecf97497fb60ed55d5f1c5e44"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000506536000000#estate",
@@ -24692,7 +24667,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4d88835145c14ffc871412d7ab489c9f"
+        "ev_b69fb9ef937a45779b645b7102e4d71d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010352561/"
@@ -24789,7 +24764,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b75da369862342028ae3ca08823f70e0"
+        "ev_397ea0f9f28b4dbda1a1f5fa6517b437"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010033908/"
@@ -24883,7 +24858,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d7a3c633d3284676af28ff52be60f9d7"
+        "ev_f34dc5bbfa5a44caa43f5b9be077d092"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010098964/"
@@ -24973,7 +24948,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_eea5250b9f0541b1ba425a3eb04ea322"
+        "ev_4781b665d8444c6c85f6115cc7815159"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009358698/"
@@ -25071,7 +25046,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5d2e5bde1240491f88dc9de0f2b99f69"
+        "ev_cd9c45b5e59644a494cb01d784334ea9"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009443052/"
@@ -25159,7 +25134,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_754b26011eb24bc2b244ff645c012201"
+        "ev_1b868b6599ed4d7b915edc45e185c792"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009145344/"
@@ -25248,7 +25223,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9980f12d08874088a218ca43bb1df8d3"
+        "ev_dbdc5fb5e5ee4d10b4d828d3bd1473d9"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010504167/"
@@ -25354,8 +25329,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_92e8bd6e196445c0a79028c3923b315d",
-        "ev_3bd4ee7d5b194e49811bc5171a42aa12"
+        "ev_2e8900a232094a5fb7a96a1054984d4b",
+        "ev_59e5c6bc783a427bb92c931fe3095070"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/65118382510050012#estate",
@@ -25445,7 +25420,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1f6412764f0445c092ffa908ec1ac04c"
+        "ev_873d7184a06e4fef909bdefbd402114f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011351612/"
@@ -25533,7 +25508,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a3308cba0d5942aba8b657d6fc082384"
+        "ev_d303b982ccfe440490f50ebc1460bc2a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011431584/"
@@ -25576,23 +25551,20 @@
       "last_seen": "2026-11-20"
     },
     {
-      "lead_id": "lead_8f795c88005c17ed",
+      "lead_id": "lead_f728142fa81d8004",
       "primary_parcel_id": "00000252205000400",
       "display_address": "1031 NOAH ST, DALLAS, TX 75203",
       "display_owner": "STERLING OASIS COMMUNITY & ECONOMIC DEVELOPMENT CORP",
-      "display_score": 89,
-      "display_tier": "Hot",
+      "display_score": 67,
+      "display_tier": "Strong",
       "display_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "stack_contrib_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_pattern_set": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_attributes": [
         "absentee",
@@ -25605,8 +25577,8 @@
       "display_deal_path_details": [
         {
           "path": "wholesale",
-          "confidence": "high",
-          "rationale": "Multi-signal distress + investor-friendly attribute set."
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
         }
       ],
       "display_title_complexity_tier": "None",
@@ -25616,19 +25588,11 @@
       "display_last_sale_date": null,
       "display_year_built": null,
       "display_match_confidence": 100,
-      "stack_depth": 2,
+      "stack_depth": 1,
       "score_reasons": [
         {
           "factor": "base_TAX_FORECLOSURE_NOTICE",
           "delta": 55
-        },
-        {
-          "factor": "secondary_CODE_VIOLATION_NOTICE",
-          "delta": 12
-        },
-        {
-          "factor": "stack_patterns_2",
-          "delta": 15
         },
         {
           "factor": "recent_filing_within_30_days",
@@ -25639,16 +25603,12 @@
           "delta": 7
         }
       ],
-      "display_violations": [
-        "Repeat code complaints (12 in 12 months)"
-      ],
+      "display_violations": [],
       "evidence_ids": [
-        "ev_fe8caa4382df4453ac453002b9daed8e",
-        "ev_0c44028c4bf84c6c8f5c11c602ed1b96"
+        "ev_e91147ed4516475faea49317652b0d5c"
       ],
       "primary_source_urls": [
-        "https://taxsales.lgbs.com/api/property_sales/1010689085/",
-        "https://www.dallasopendata.com/d/d7e7-envw#DAL311-ad1e84bdd7"
+        "https://taxsales.lgbs.com/api/property_sales/1010689085/"
       ],
       "primary_event_date": "2026-11-20",
       "expected_sale_date": null,
@@ -25666,20 +25626,13 @@
             "t": "Tax Sale List",
             "u": "https://taxsales.lgbs.com/api/property_sales/1010689085/",
             "d": "2026-11-20"
-          },
-          {
-            "t": "Code: Repeat code complaints (12 in 12 months)",
-            "u": "https://www.dallasopendata.com/d/d7e7-envw#DAL311-ad1e84bdd7",
-            "d": "2026-11-16"
           }
         ],
         "tags": [
-          "Code: Repeat code complaints (12 in 12 months)",
           "Tax Sale List"
         ],
         "src": "https://taxsales.lgbs.com/api/property_sales/1010689085/",
         "srcs": [
-          "code_enforcement_dallas",
           "dallas_tax_sales_lgbs"
         ],
         "joins": [
@@ -25746,7 +25699,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c42141d2a1774f2ca99198de47958251"
+        "ev_f8e8c4552dd142e6898d290d04b4dcb2"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010689091/"
@@ -25789,12 +25742,12 @@
       "last_seen": "2026-11-20"
     },
     {
-      "lead_id": "lead_ac5541fa1940f4a6",
+      "lead_id": "lead_13d1fada1a19121d",
       "primary_parcel_id": "38141500730040000",
       "display_address": "1115 RICHARD ST, MESQUITE, TX 75149",
       "display_owner": "CITY & COUNTRY HOMES OF AMERICA",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 63,
+      "display_tier": "Workable",
       "display_patterns": [
         "tax"
       ],
@@ -25805,8 +25758,7 @@
         "tax"
       ],
       "display_attributes": [
-        "absentee",
-        "multiple_properties"
+        "absentee"
       ],
       "display_deal_paths": [
         "wholesale"
@@ -25837,12 +25789,12 @@
         },
         {
           "factor": "attribute_bonus",
-          "delta": 5
+          "delta": 3
         }
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8c807a8ed21c4798b828fc0b223af111"
+        "ev_2be8bcc4c6324cfc9b3bea3f53959cc9"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011008918/"
@@ -25887,23 +25839,20 @@
       "last_seen": "2026-11-20"
     },
     {
-      "lead_id": "lead_96fab16d054f73cc",
+      "lead_id": "lead_dd5527700d5193e6",
       "primary_parcel_id": "00000762100000000",
       "display_address": "508 N MOORE ST, DALLAS, TX 75203",
       "display_owner": "MOY CONSTRUCTION INC",
-      "display_score": 88,
-      "display_tier": "Hot",
+      "display_score": 65,
+      "display_tier": "Strong",
       "display_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "stack_contrib_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_pattern_set": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_attributes": [
         "absentee",
@@ -25915,30 +25864,22 @@
       "display_deal_path_details": [
         {
           "path": "wholesale",
-          "confidence": "high",
-          "rationale": "Multi-signal distress + investor-friendly attribute set."
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
         }
       ],
       "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
+      "display_lead_status": "APPROVED_FOR_DASHBOARD",
       "display_assessed_value": 80750,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
       "display_year_built": null,
       "display_match_confidence": 100,
-      "stack_depth": 2,
+      "stack_depth": 1,
       "score_reasons": [
         {
           "factor": "base_TAX_FORECLOSURE_NOTICE",
           "delta": 55
-        },
-        {
-          "factor": "secondary_CODE_VIOLATION_NOTICE",
-          "delta": 12
-        },
-        {
-          "factor": "stack_patterns_2",
-          "delta": 15
         },
         {
           "factor": "recent_filing_within_30_days",
@@ -25949,16 +25890,12 @@
           "delta": 5
         }
       ],
-      "display_violations": [
-        "Repeat code complaints (12 in 12 months)"
-      ],
+      "display_violations": [],
       "evidence_ids": [
-        "ev_9fa248ea233b415185c84aaf3f663d56",
-        "ev_85224b89bde544248cf778c6c576afc1"
+        "ev_409c6fb2705b4bd697a4ad2e8c02aac2"
       ],
       "primary_source_urls": [
-        "https://taxsales.lgbs.com/api/property_sales/1010498044/",
-        "https://www.dallasopendata.com/d/d7e7-envw#DAL311-7ca6430690"
+        "https://taxsales.lgbs.com/api/property_sales/1010498044/"
       ],
       "primary_event_date": "2026-11-20",
       "expected_sale_date": null,
@@ -25966,9 +25903,7 @@
       "parcel_master_status_note": "",
       "parcel_master_match_method": "tms_direct",
       "candidate_parcel_ids": [],
-      "review_flags": [
-        "address_match_uncertain"
-      ],
+      "review_flags": [],
       "display_stages": {
         "tax": "sale_pending"
       },
@@ -25978,20 +25913,13 @@
             "t": "Tax Sale List",
             "u": "https://taxsales.lgbs.com/api/property_sales/1010498044/",
             "d": "2026-11-20"
-          },
-          {
-            "t": "Code: Repeat code complaints (12 in 12 months)",
-            "u": "https://www.dallasopendata.com/d/d7e7-envw#DAL311-7ca6430690",
-            "d": "2026-10-12"
           }
         ],
         "tags": [
-          "Code: Repeat code complaints (12 in 12 months)",
           "Tax Sale List"
         ],
         "src": "https://taxsales.lgbs.com/api/property_sales/1010498044/",
         "srcs": [
-          "code_enforcement_dallas",
           "dallas_tax_sales_lgbs"
         ],
         "joins": [
@@ -26060,7 +25988,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_45b0be5b31df4f039304c27d4afdb7c9"
+        "ev_1a4bd3eacf9f4acf9d4426ec92a9886d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010196778/"
@@ -26159,8 +26087,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3eeb29ad99594dceb0867be6e6d9fa82",
-        "ev_aae3fc68aa0345d79b9dd5b8e88d8d21"
+        "ev_572cb86bb76b4c57bb4044d956293861",
+        "ev_604b3ee5cd414d7bb753ee6555c5a624"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000505195000000#estate",
@@ -26257,7 +26185,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b98405454f5646d2abb790120f1e4822"
+        "ev_0f4a6a7a24b44e2086b7e21568af898e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011317280/"
@@ -26353,7 +26281,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3cb90b44a75a4d7fa17d3407a1fe79c6"
+        "ev_c30ea9fa5d4d4d598502711bb1b731e4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011000119/"
@@ -26449,7 +26377,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1336c6a738cf4f2b84a06182eac137d9"
+        "ev_874bf66405a74b04a4e9ebeddf8e08b0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010636071/"
@@ -26554,8 +26482,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4a436faeb70a4914ae89a1514764ae51",
-        "ev_4f274c8a4475435ab31651c681e69247"
+        "ev_00afd252877b4c3899316477b8e2f2e8",
+        "ev_1e70ef1faa544240a25388b50cd7991d"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/36027500090140000#estate",
@@ -26644,7 +26572,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ad82f46f7d9b477488572f13da65e1a4"
+        "ev_1783ded6655649858948fe1ed4f07fc7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010780886/"
@@ -26738,7 +26666,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_284c2b917cc44826acba2991490b2550"
+        "ev_691f660044674a78b5d6844238a7dc08"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011136870/"
@@ -26835,7 +26763,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_93911d19eec54ae986043e8f1be7e9c2"
+        "ev_0733c84a028841d6bbf2fa4a6c8a8da1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010357690/"
@@ -26932,7 +26860,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c58e26b33bf945a38dd71d091ce1dc00"
+        "ev_058ef841dc72451eb78f69287c651c67"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011419525/"
@@ -27029,7 +26957,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7c29f52764354e8eba41aa99d33fbbdb"
+        "ev_a34e56f0288f4d539a6404f59803d832"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010351550/"
@@ -27126,7 +27054,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_55d2edc4e41049eea8c6309d751dd403"
+        "ev_b06d8bb8c06b449e9b6cadc91ea3e623"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010351552/"
@@ -27216,7 +27144,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ef17d85f04f44cac98b7e3bd1ab319cf"
+        "ev_658516e50cc044489bf9440bd2d43b86"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010351709/"
@@ -27313,7 +27241,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9d94e6c1ae084662a63e99c4ad36b641"
+        "ev_1ca45c6489fe40ff97cc51f0149fa96a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010351711/"
@@ -27403,7 +27331,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_cf5b51b0bba547eeb1c321aecfb80cd5"
+        "ev_1166a576ea214532b5dd52bbfccd77d9"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011444510/"
@@ -27493,7 +27421,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7984e8ae299146889fc308b3f7201248"
+        "ev_931ade4015564a83a254520334107bf0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010649500/"
@@ -27589,7 +27517,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_483407528bc747c7bce1dcdc4acc6325"
+        "ev_bf4b258457614eb085c2e8ef0410c4fb"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010587865/"
@@ -27688,7 +27616,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ddc8186c707540deb8bc521a4010189b"
+        "ev_6f3d0d44386049f88e6f07044b1bc987"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011332871/"
@@ -27784,7 +27712,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c75b554032e7463782a01640ac6f152a"
+        "ev_2cf2749012fe4c5aa4597b8a1fdc22bc"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009996849/"
@@ -27880,7 +27808,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1889b47deb8543f7b7135df9ebef25ff"
+        "ev_72c55de18ee746408bc66d3b7a28eb9d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009150245/"
@@ -27976,7 +27904,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c687157e698d400199fdabc4872a2172"
+        "ev_ff394106b75e4248987fbf0beca7a1bf"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009199539/"
@@ -28073,7 +28001,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_110cc388ffa14835ba2fe10a056183d1"
+        "ev_4544df09b7f846f89d72030a2b75a390"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011163073/"
@@ -28163,7 +28091,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_94c0af0f6d80401ab2854e0d061d0913"
+        "ev_d6c9be31cc614f568f26ebf431628083"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010698844/"
@@ -28254,7 +28182,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1ecbc7d6f1374050ae53284c80683469"
+        "ev_86b2c04c9709421da072fa6829439123"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010611002/"
@@ -28351,7 +28279,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0e234e251fde4822aa7190e99f6f87c8"
+        "ev_f41df95aa1d144b2a27d62b3fd1b1200"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011286646/"
@@ -28448,7 +28376,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5c97145a07b54ce6aacf1ec834330f3a"
+        "ev_2f873ec224444fd9aae7bf6ad4a14b0b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010181583/"
@@ -28544,7 +28472,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7ffa0d3c54bc4b28aa361c8c8c284b97"
+        "ev_9e802a006936471a921d7e9fa7b136d3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011459326/"
@@ -28640,7 +28568,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_876566440bfa463ea54b3f56d39416c4"
+        "ev_2aaa5e4896ba4880a72ec56d02b90cd1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011586511/"
@@ -28736,7 +28664,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b05a1b6cc8e14295b0939848c8c94657"
+        "ev_fe0d3bc9c81643e2abaad4f7513032ea"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011162186/"
@@ -28833,7 +28761,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9410fb5cd4ea4f759f4826317e84f83c"
+        "ev_fb2d1e491343448284a6554317fad353"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011200175/"
@@ -28934,8 +28862,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f7dd0ad6aa9d4a60a044df1398e17709",
-        "ev_2a21c650556743b2bd12ca3335e61951"
+        "ev_f906eb633e6748b0a07e1e58fc9015a1",
+        "ev_9f81d541025b4efc9873333467a8f753"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000815185000000#estate",
@@ -29033,7 +28961,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9e54f5e8430442c8a4ad454004bc209c"
+        "ev_993a0c5ea9864673ae80423efc1cbbbf"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010791820/"
@@ -29130,7 +29058,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1298208a80bc4c39b9b19fe815e34e58"
+        "ev_a7c8057994ab4032881bcac92ac9f957"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011016330/"
@@ -29226,7 +29154,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_bc4a2c50688f4d189a21525a4c5c921f"
+        "ev_72209880c8b643f991af0f13828b3a79"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011553816/"
@@ -29316,7 +29244,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_88fae80c0faf43b7a85e012ddbeb5746"
+        "ev_e5610aadc49a4b4ca07a8be50e28528f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010779011/"
@@ -29401,7 +29329,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_bf236f365b2a440ebef79c4b45e81ffd"
+        "ev_851d49b2a1ef4bdda1bccad5724d6704"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010117579/"
@@ -29500,7 +29428,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0978b89a35fe40e8b3df651db3786e32"
+        "ev_94b679e0a0b040e0ae721f98ebc92485"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010379083/"
@@ -29590,7 +29518,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_be0890bf5cb24f6d8848dfe56ddcb964"
+        "ev_6d4fd2a72ce747f5ac91c47389d3bdd0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010385163/"
@@ -29686,7 +29614,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_39f02ed25b0045c19986837cb99f695a"
+        "ev_b4609601930c45018e3f7a728de95d4f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011164810/"
@@ -29782,7 +29710,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4872b9251267425f8e04eb9f8bfa5e8d"
+        "ev_e3162c5a5fe64f958deebec2c1508cd8"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011556466/"
@@ -29878,7 +29806,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2cfa30782e32496faa0fdda9199a1ce0"
+        "ev_ba69e91528944322be671a66b283ee1d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009960045/"
@@ -29968,7 +29896,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b92a174652f34fe1b018341457e5dca0"
+        "ev_db53e44c2716457db866fa95a756a005"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011004434/"
@@ -30064,7 +29992,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2b79ac65f0f3402d96d30f1143c14a02"
+        "ev_b2b5a2fb2f5c47379dbb9f4c1667abd2"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011178905/"
@@ -30154,7 +30082,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8dfb7245b0a24b31884055cd52f4a715"
+        "ev_90498922a6854aacab190cfb767e8c4a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011297353/"
@@ -30250,7 +30178,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8e8a6cf5790d409c8e6aed8274155302"
+        "ev_1d5dc01e836248eeb1f56fc990fbe557"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011004436/"
@@ -30340,7 +30268,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ab7cf2d9de8340e49bbb31c130714855"
+        "ev_3ecfe70345c946e4b1ea164d2a56e7be"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010787767/"
@@ -30430,7 +30358,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e90fa7946b464dcea9b909fa73c1dc92"
+        "ev_ef08f596446e444a9ddada97e765ae1d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011421385/"
@@ -30528,7 +30456,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8d72ba63219848efb563e3bf58acc693"
+        "ev_bfb49dcc05004e0d8cdb971c653657d6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011057660/"
@@ -30625,7 +30553,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3087e148652a42729dd70ca8f6a6e469"
+        "ev_28c06194253d4ab09d7136548264b8e0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010374438/"
@@ -30722,7 +30650,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e7bfd608175841adaa67028db19ca4f1"
+        "ev_9bf1e1f91e034ccb8d514c6ad02606d1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010374851/"
@@ -30819,7 +30747,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_114ac878b6b3481eb6399e4997929d31"
+        "ev_84f3041767b541ebb616c1d553829928"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011428110/"
@@ -30915,7 +30843,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1a610a9a84724885870ffcf89f5c54ea"
+        "ev_5a6989467a2942e1ae449049adc9eb51"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011553965/"
@@ -31011,7 +30939,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_35905f6960334a9cbe574aeb4323ec11"
+        "ev_3ffbdcb2ac004c9781a6b0e5834cda59"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010399319/"
@@ -31107,7 +31035,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_fee697cbef16429fb48ef3d8dbf44652"
+        "ev_c32292ec317e4e7eb25cfb07519181e3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011278157/"
@@ -31203,7 +31131,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_bceae92b34e249d8b21d532c83730629"
+        "ev_a7bbc57803914d5e872155da6dc065e7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010303340/"
@@ -31300,7 +31228,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_04691c63f0354ec487e581db351f4c8e"
+        "ev_474b3c9194aa48bcbb0576564dd8ade6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010767022/"
@@ -31397,7 +31325,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_171e1407ee9843f4ae5446cf8c4ae7b3"
+        "ev_36b383653c1f4c2a841a05bcf0cb814d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009197083/"
@@ -31495,7 +31423,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_65f7ddde6683414ea7275036a222d3fe"
+        "ev_753e4268f93448d3825edfd7a95f713e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010527226/"
@@ -31591,7 +31519,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3d112deeacea4e4fb5de87b0042828fa"
+        "ev_99e8a56012ab4ae5b56367d771ed1ccf"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010791574/"
@@ -31688,7 +31616,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_58d00d3011bb4304823d7d853d5a6ba0"
+        "ev_56fe4924b72c423e89c88dfcbc482e89"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010313298/"
@@ -31784,7 +31712,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_31c2580f0431497b98aaa215844aae34"
+        "ev_c9462ba566b14546a8da816f7a996449"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011363619/"
@@ -31874,7 +31802,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a30bd5c06684456b907726f33109b0ad"
+        "ev_f306966409ca41c3942e870ed0e06249"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011003275/"
@@ -31965,7 +31893,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_10436124de0d4d89879f86b7f939ea30"
+        "ev_ac9a3aac8ec741f4bd54b8f23c585022"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011010116/"
@@ -32062,7 +31990,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7796e0bb1eda4454aabea71cd617db6f"
+        "ev_18bc63a6ca934e59ae56af8cb97724af"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011597460/"
@@ -32159,7 +32087,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_02328d3745c041798893eed921554e75"
+        "ev_55dd7cd7dc004490870fce0f66329440"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010796397/"
@@ -32256,7 +32184,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d1223d25b725487db350238024049cb9"
+        "ev_26c1149d35d241e9a5c3678bf92e78bd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010026169/"
@@ -32352,7 +32280,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e90b6b56de33432faa3ab7d571effba6"
+        "ev_cb74ed8c679c46ab81ebaf4d68b4f2a9"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011467599/"
@@ -32446,7 +32374,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2ee3cec5c06e49db8610e0252210dc3a"
+        "ev_87df9ef60a2e4d52bc52a8025051c062"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011179489/"
@@ -32536,7 +32464,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_83950afd32a549babf565b69c7486ed0"
+        "ev_e8377e54418e4e5f8314c2c493d6be10"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010990806/"
@@ -32634,7 +32562,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c88f62bc6c0a41268ec3fe0399e11a4c"
+        "ev_029d4949d50942a2ad666f97d0e87389"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011330875/"
@@ -32730,7 +32658,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4bef35e12ab64b5cbe32ee9d100b29d6"
+        "ev_6bf5405557b548bbb6993088701ad7e5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010646801/"
@@ -32826,7 +32754,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_87bba94d6e78469ab53c47b7509eab9f"
+        "ev_5248668b2d9149ba81feb2716770a4c1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010821868/"
@@ -32923,7 +32851,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4ec1b690b3a443b99735b40750c475df"
+        "ev_b879365c79bc4adfb59b39313b129a04"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011332926/"
@@ -33020,7 +32948,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e64941bdfe534889b752f6e4825de261"
+        "ev_a3daa92b20a549f5a62b8214dc9c604a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010637491/"
@@ -33110,7 +33038,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6803a646c90c4f3b983c602c088e3e3b"
+        "ev_46909cc7720f489c80b18d3c30d3aeec"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010009764/"
@@ -33206,7 +33134,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_18261a940dc9426188e7a888ba6b99c3"
+        "ev_464171497f0d4e43bba13ab9d44fd276"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011562285/"
@@ -33302,7 +33230,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8c4e259c89dd4a51aefc0608aedd2b46"
+        "ev_9e264c0e906c4ca0a38b2dbc5021a093"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011144672/"
@@ -33398,7 +33326,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e0b2b8f2af1342408d5148e98df303f2"
+        "ev_39c5d252c4e64255aaca7b30a2eea23b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011541612/"
@@ -33504,8 +33432,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a7a30f2f0ceb48ada3bc0a1667ca1f31",
-        "ev_886bd769ec6f4c4e98f7253ac75cc6be"
+        "ev_8238357045dc4181924b11edcee7ccf0",
+        "ev_5e3975e137f54445a8c080f38d1414ca"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/65055362110230000#estate",
@@ -33603,7 +33531,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e7bac32e4e86494ea2fde21d3a1d5782"
+        "ev_d62b202007b543359b4b0fc5bec7bceb"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010362477/"
@@ -33700,7 +33628,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c51b2d70f3ab4175bfac377cc23d47df"
+        "ev_3bb0d3cd6780417fa866c1ae1c70889d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010361087/"
@@ -33796,7 +33724,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a32030d819f14c12a6d30fc55935b9bf"
+        "ev_49a70694b7484328b6ec1a35881dabd5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010740478/"
@@ -33893,7 +33821,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ce0f84edb7a04e9cb964904d8c2b60e1"
+        "ev_c2bf3b03abf9432c9110783688cfc260"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011547825/"
@@ -33983,7 +33911,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2b1a29c8baf146a7babb21f2539151cb"
+        "ev_a85fba07cc3a4eae953eaa7ed49ef2c1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011308437/"
@@ -34079,7 +34007,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3c251bb1db0841288fcf34d442965827"
+        "ev_f4f6e5e9617946368d828048723a3c86"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011429630/"
@@ -34176,7 +34104,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_93fed3777368409e9ad7851ad7125241"
+        "ev_f36670a901184f479a77534ce2980214"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011417338/"
@@ -34273,7 +34201,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_34c5cb5b23514d388bd491fd36de3214"
+        "ev_fe127ef23d31446f8cccb88a251d6fb7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010491566/"
@@ -34369,7 +34297,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3746daaa948d4bf38d3a96180730588f"
+        "ev_96d76089283148e9b83a3a0ee0492125"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011148677/"
@@ -34466,7 +34394,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b6e43dcb15974baf92c6a3ec671a0e58"
+        "ev_b5cbd03e56b247ec9df1a242536d6a29"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009181986/"
@@ -34563,7 +34491,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6e0e740e479447f29858c1fc96d83519"
+        "ev_159d14aab8774c67ad867f9e4b0f6e25"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010359556/"
@@ -34659,7 +34587,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0f085b7f652742d18e9ff3ea7fe12e34"
+        "ev_0ddf37f1ab1a4fca86df34db2caecf78"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011145392/"
@@ -34749,7 +34677,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_122ef7102ee84176aad608ae6f80150c"
+        "ev_3fe2f6d8aba44517a37f8998fc046103"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011192673/"
@@ -34840,7 +34768,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7cb96a2fd1b64db3b013aa5549802b9f"
+        "ev_039e545bec584e5b9611b3b0d5216089"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011584770/"
@@ -34931,7 +34859,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_bd7f74f2ceda477c9a2a558d875554ab"
+        "ev_d54d28e506a645eb82c9815d0a0ad3af"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010182084/"
@@ -35027,7 +34955,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b48f8bb4ef6041ea9d3b299a2c996e77"
+        "ev_d4a373af9b714df0b6ee30a2995f22f4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010497516/"
@@ -35123,7 +35051,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_459253e40bad4a2aa35847102e961828"
+        "ev_e751743c4b844333a51d1c93930c65c7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010644000/"
@@ -35220,7 +35148,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4c8a547e25a24f1cb3a0b0f95bc6c4ee"
+        "ev_180bed3134ea4ad3a2033e917a607c3e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010662850/"
@@ -35317,7 +35245,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4496532e6a1a418d984c9dae57caa161"
+        "ev_176dc356045745e480f6ae8c2833df8a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010909548/"
@@ -35412,7 +35340,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4223ca27d40c4bedb8ada041fbcbc544"
+        "ev_d906d15ef8f34cbdaf41f9dc724c6dca"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011127308/"
@@ -35502,7 +35430,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_76ae38751dbb4ed68328ab3e450b9bfa"
+        "ev_bdf28b7591654f8c800c82fc58e51608"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011141434/"
@@ -35598,7 +35526,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d6cd036f003c4f489bd476a1cadfa7d9"
+        "ev_f62dd7b989324c44aceb75136a20a02a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009970212/"
@@ -35694,7 +35622,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3e7c7bf0d42e412b9ee451fbcba5f6c9"
+        "ev_36d582017cb94fc68ed808a1449fe858"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011614509/"
@@ -35790,7 +35718,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6d9a5c3e1cb740cea1dc4d5677e02cf9"
+        "ev_84b20ef1540547d69f7d2d95e3008e94"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011178732/"
@@ -35888,7 +35816,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ab97b01c373943c5b8dedaa57f6698cb"
+        "ev_47cc4b49dd49409daf22300eafdf97ac"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010496149/"
@@ -35984,7 +35912,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b8b1364c3bd54c2c8bce03d6feced429"
+        "ev_3d05fc8664164d40add5b951f97aa92a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010351214/"
@@ -36080,7 +36008,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0ccdd25187dd49f89be3f4f27cc818fa"
+        "ev_0d835c2988b745179162292d04cfca82"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010753839/"
@@ -36176,7 +36104,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6f7305a4f5414525aec17916a3880976"
+        "ev_f882f4bc354e456d84b5ff46d9100114"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010352563/"
@@ -36273,7 +36201,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8d531f27b6364090a98e2c2444588a35"
+        "ev_afda2bde550d4cfba8015950cdcea27c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010821971/"
@@ -36369,7 +36297,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b18907d00dc740b4b9d49ac75a4eb846"
+        "ev_00330adb6605471ba928649321fd30bd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010621718/"
@@ -36465,7 +36393,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f1c6e89a2a5a402b8b64a3d58f2bd8c1"
+        "ev_74421547cdea4d3396443dc3ebd596b4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010475178/"
@@ -36556,7 +36484,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_21f7f6a067ce4481a654cd410e3c58e9"
+        "ev_ab7f5f4f8830436ea856e1045e101f31"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010980636/"
@@ -36588,7 +36516,6 @@
         "srcs": [
           "dallas_tax_sales_lgbs"
         ],
-        "tax_sale": "2026-12-01",
         "minimum_bid": 121167.45,
         "cur": 121167.45
       },
@@ -36649,7 +36576,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_42dd1218882849d6b1e1f8395c839559"
+        "ev_49ac931225f349d298d34ae5c523d2c2"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1013334774/"
@@ -36746,7 +36673,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_339c0c22d28a4148a23fbedae383d603"
+        "ev_8f2eccc1eb434636b37b72e9b5548b78"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010746579/"
@@ -36841,7 +36768,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_fe700454e23c48f2a7b6fd787ac016b1"
+        "ev_336327b87e6449168347f68521a9102a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010813727/"
@@ -36938,7 +36865,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_861395afd290457b8dd012f6d6851c82"
+        "ev_cafd40fb679a436e870f7ad14f8c4891"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010986248/"
@@ -37035,7 +36962,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1a517e0fe09f4bd4b0e9572df7d44784"
+        "ev_13570f4e27da4f568d7ddefc767db31e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011158950/"
@@ -37132,7 +37059,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a5472680678342f58d807ad8860f7e65"
+        "ev_984a0ab5fb29490195b9fc6160f3b1cc"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1013821813/"
@@ -37223,7 +37150,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d100cd37e37c4b29a01796bd3f4152ca"
+        "ev_51f2f32c2cc0434fb55e3bb6806504c4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011298298/"
@@ -37319,7 +37246,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_41db2a7c469a4d37a5e318aff706c247"
+        "ev_8d8eb6c617174474988545d459fdb341"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011573629/"
@@ -37415,7 +37342,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ce044f1d7611468dabb8b4be6d4fe656"
+        "ev_76c7ee42e2a14edf93e2421c73ce1f11"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011444369/"
@@ -37512,7 +37439,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f1597efce64d495db9ea2cb459f4d040"
+        "ev_339500d49d0d4c5d91845b78f43a2cb7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011562971/"
@@ -37609,7 +37536,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2ef5d4382c6d4d46af789d5311e6f5b1"
+        "ev_e87b08be88ca4c3eaf9458a73dea49a6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010637892/"
@@ -37706,7 +37633,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f86fe4949cfc4011ab69cdeb331d29ee"
+        "ev_a07aa3b4e3db4165a72930217fb7518a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010250478/"
@@ -37813,8 +37740,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f5b82b7b90434738bf3a8dd84dd10db1",
-        "ev_c1cf1edf56b3407fa94f4211a1d13069"
+        "ev_31321018d91c4b80ac4b010efc20065e",
+        "ev_9a95d606c58f415b9d16745c05d44d6a"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000285973000000#estate",
@@ -37905,7 +37832,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d218bdec0e4b445cbdf65e4eb6603846"
+        "ev_ff8c075dc543499e9f16f0a34ee79c25"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010750411/"
@@ -37935,7 +37862,6 @@
         "srcs": [
           "dallas_tax_sales_lgbs"
         ],
-        "tax_sale": "2026-12-01",
         "minimum_bid": 110221.38,
         "cur": 110221.38,
         "joins": [
@@ -37997,7 +37923,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1694f74975814e4797d77be8b6587e87"
+        "ev_86487005bf444357bf8a40f353aa8f63"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011408497/"
@@ -38095,7 +38021,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_63740bd8513441ff900e304f269e4cc2"
+        "ev_2e29106705cb44d3883caa142aab0cc2"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010980138/"
@@ -38191,7 +38117,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5e8cf28103144ad7bf2d1626d9f7e71f"
+        "ev_dcbceb38af7646fbbfbddfe0eb217959"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011274514/"
@@ -38288,7 +38214,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8311300c7a4d48afb3f55eb585cec0ec"
+        "ev_5bc8917cd27346b789e7d503d44e323a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010964449/"
@@ -38332,23 +38258,20 @@
       "last_seen": "2026-11-20"
     },
     {
-      "lead_id": "lead_efee4848d0c96ba4",
+      "lead_id": "lead_8d22fbdc9948c287",
       "primary_parcel_id": "00000626266000000",
       "display_address": "2010 N ST AUGUSTINE RD, DALLAS, TX 75217",
       "display_owner": "ZUNIGA JOSE LUIS & ANDREA",
-      "display_score": 87,
-      "display_tier": "Hot",
+      "display_score": 63,
+      "display_tier": "Workable",
       "display_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "stack_contrib_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_pattern_set": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_attributes": [
         "absentee"
@@ -38359,30 +38282,22 @@
       "display_deal_path_details": [
         {
           "path": "wholesale",
-          "confidence": "high",
-          "rationale": "Multi-signal distress + investor-friendly attribute set."
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
         }
       ],
       "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
+      "display_lead_status": "APPROVED_FOR_DASHBOARD",
       "display_assessed_value": 352120,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
       "display_year_built": 2003,
       "display_match_confidence": 100,
-      "stack_depth": 2,
+      "stack_depth": 1,
       "score_reasons": [
         {
           "factor": "base_TAX_FORECLOSURE_NOTICE",
           "delta": 55
-        },
-        {
-          "factor": "secondary_CODE_VIOLATION_NOTICE",
-          "delta": 12
-        },
-        {
-          "factor": "stack_patterns_2",
-          "delta": 15
         },
         {
           "factor": "recent_filing_within_30_days",
@@ -38393,16 +38308,12 @@
           "delta": 3
         }
       ],
-      "display_violations": [
-        "Repeat code complaints (7 in 12 months)"
-      ],
+      "display_violations": [],
       "evidence_ids": [
-        "ev_6746dc406b164319b7cff12f07cab38c",
-        "ev_01114f1ea0dc4c80a12176b6b834566f"
+        "ev_022de292d926429dbaa0b59d2380cde9"
       ],
       "primary_source_urls": [
-        "https://taxsales.lgbs.com/api/property_sales/1011289918/",
-        "https://www.dallasopendata.com/d/d7e7-envw#DAL311-d1297b1a36"
+        "https://taxsales.lgbs.com/api/property_sales/1011289918/"
       ],
       "primary_event_date": "2026-11-20",
       "expected_sale_date": null,
@@ -38410,9 +38321,7 @@
       "parcel_master_status_note": "",
       "parcel_master_match_method": "tms_direct",
       "candidate_parcel_ids": [],
-      "review_flags": [
-        "address_match_uncertain"
-      ],
+      "review_flags": [],
       "display_stages": {
         "tax": "sale_pending"
       },
@@ -38422,20 +38331,13 @@
             "t": "Tax Sale List",
             "u": "https://taxsales.lgbs.com/api/property_sales/1011289918/",
             "d": "2026-11-20"
-          },
-          {
-            "t": "Code: Repeat code complaints (7 in 12 months)",
-            "u": "https://www.dallasopendata.com/d/d7e7-envw#DAL311-d1297b1a36",
-            "d": "2026-10-30"
           }
         ],
         "tags": [
-          "Code: Repeat code complaints (7 in 12 months)",
           "Tax Sale List"
         ],
         "src": "https://taxsales.lgbs.com/api/property_sales/1011289918/",
         "srcs": [
-          "code_enforcement_dallas",
           "dallas_tax_sales_lgbs"
         ],
         "minimum_bid": 3128.65,
@@ -38505,7 +38407,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1ce7c1ef8f594fc482876eee0fa0c63d"
+        "ev_c27caa13bc23475bad4901b7f96ff4a1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010791572/"
@@ -38601,7 +38503,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_222fa45365bc4fa69815859bc84320f4"
+        "ev_3a77a4252c2a458ebd6881cbd101c8e3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010479264/"
@@ -38698,7 +38600,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3d6ceb18ea8742b0bd0b95c91716d335"
+        "ev_46a96aaad2544939920462d4cabd68e1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011206760/"
@@ -38795,7 +38697,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_54e59121d2034614a273303bb4f073ea"
+        "ev_faabc31cb5d147f6991f0921ce6ecadb"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010367775/"
@@ -38892,7 +38794,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_40687d5683e1438db7e06413c932df7d"
+        "ev_4b09b29f5bff4f8e9a73477287e2b3e0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010367857/"
@@ -38936,23 +38838,20 @@
       "last_seen": "2026-11-20"
     },
     {
-      "lead_id": "lead_75c06571cb505fdf",
+      "lead_id": "lead_f778802a33cdd8a5",
       "primary_parcel_id": "00000511504000000",
       "display_address": "3742 ARMOR DR, DALLAS, TX 75216",
       "display_owner": "DALLAS CITY OF",
-      "display_score": 88,
-      "display_tier": "Hot",
+      "display_score": 65,
+      "display_tier": "Strong",
       "display_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "stack_contrib_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_pattern_set": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_attributes": [
         "absentee",
@@ -38964,8 +38863,8 @@
       "display_deal_path_details": [
         {
           "path": "wholesale",
-          "confidence": "high",
-          "rationale": "Multi-signal distress + investor-friendly attribute set."
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
         }
       ],
       "display_title_complexity_tier": "None",
@@ -38975,19 +38874,11 @@
       "display_last_sale_date": null,
       "display_year_built": null,
       "display_match_confidence": 100,
-      "stack_depth": 2,
+      "stack_depth": 1,
       "score_reasons": [
         {
           "factor": "base_TAX_FORECLOSURE_NOTICE",
           "delta": 55
-        },
-        {
-          "factor": "secondary_CODE_VIOLATION_NOTICE",
-          "delta": 12
-        },
-        {
-          "factor": "stack_patterns_2",
-          "delta": 15
         },
         {
           "factor": "recent_filing_within_30_days",
@@ -38998,16 +38889,12 @@
           "delta": 5
         }
       ],
-      "display_violations": [
-        "Repeat code complaints (6 in 12 months)"
-      ],
+      "display_violations": [],
       "evidence_ids": [
-        "ev_eb2cf2880cd44eb0afed85ded282d9e7",
-        "ev_f9624aa5291e4eba9203d1e47e6a1e9e"
+        "ev_26666d8022ff4ee08072f90219ff1d6d"
       ],
       "primary_source_urls": [
-        "https://taxsales.lgbs.com/api/property_sales/1010367858/",
-        "https://www.dallasopendata.com/d/d7e7-envw#DAL311-9326664f8f"
+        "https://taxsales.lgbs.com/api/property_sales/1010367858/"
       ],
       "primary_event_date": "2026-11-20",
       "expected_sale_date": null,
@@ -39025,27 +38912,19 @@
             "t": "Struck Off - Tax Resale",
             "u": "https://taxsales.lgbs.com/api/property_sales/1010367858/",
             "d": "2026-11-20"
-          },
-          {
-            "t": "Code: Repeat code complaints (6 in 12 months)",
-            "u": "https://www.dallasopendata.com/d/d7e7-envw#DAL311-9326664f8f",
-            "d": "2026-11-19"
           }
         ],
         "tags": [
-          "Code: Repeat code complaints (6 in 12 months)",
           "Struck Off - Tax Resale"
         ],
         "src": "https://taxsales.lgbs.com/api/property_sales/1010367858/",
         "srcs": [
-          "code_enforcement_dallas",
           "dallas_tax_sales_lgbs"
         ],
         "minimum_bid": 49034.68,
         "cur": 49034.68,
         "joins": [
-          "account",
-          "situs"
+          "account"
         ],
         "use": "SFR - Vacant Lots/Tracts",
         "apn": "00000511504000000"
@@ -39109,7 +38988,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f0cf44edddba4cc0b4398c1d47496763"
+        "ev_df70b9be85bf4cf7b9ead0ad056b03d8"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010367859/"
@@ -39205,7 +39084,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_92cd898b9376461a8569d11fb86725c9"
+        "ev_7e04c23ce4d04032aba605a25cb84b19"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010497513/"
@@ -39301,7 +39180,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_19c431da9b7d44b9991f6f5313197d14"
+        "ev_28bc4871961143e98f3347fea1fbe60f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010416028/"
@@ -39399,7 +39278,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ab9ebda30f954c6183517fd3960e2075"
+        "ev_fba1176b847c49188d66328f6f1901c6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010848312/"
@@ -39496,7 +39375,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_839144d8b71b41e8ab56aa28a70604c4"
+        "ev_437787ff7b1d4cf4b53cf28a447211bf"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010621720/"
@@ -39593,7 +39472,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_eea0702c33af4f139511c459da7b9fd8"
+        "ev_824821ed8a6f4565879387d534b053f9"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010621723/"
@@ -39690,7 +39569,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2491767f54bf4e408da0d97e844c4dd1"
+        "ev_e209a1b1e88f48a499236639b84c89cb"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011556624/"
@@ -39787,7 +39666,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_96e4a5cd4bb646d4b5005ee98091e349"
+        "ev_887080a0ce534d0d88d5aae873728283"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010382894/"
@@ -39884,7 +39763,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_36e29964f1504607b9162bfb1b6091a9"
+        "ev_4f60b03ce5784283841908145425e013"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011317144/"
@@ -39980,7 +39859,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b9d5b8f42a52465d88aaaa24ff76d05c"
+        "ev_eec3ceb4a06a407c8eefb38ebda86d2c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011144675/"
@@ -40077,7 +39956,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_06212e6fb19847b0b650f62e98c416de"
+        "ev_a6f59a1c1aef4d36883c3b58f848dc55"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011554971/"
@@ -40167,7 +40046,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c4b71eb388c04df7ab6d48ea48897bd6"
+        "ev_173aff4a37c44f70999bd2a85adffc0c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010980464/"
@@ -40252,7 +40131,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ff20b4477cb34ebdb5013beab2a43604"
+        "ev_70503a07c5904f74a047d79e4794bfe4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010390924/"
@@ -40350,7 +40229,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_aca2a9eab2b7459cbcbc9d48529f124c"
+        "ev_b1478cd69e5c4ae0ae176058c4ed02e2"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011278378/"
@@ -40440,7 +40319,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8e39e20ac48344f19c3e5a7977fa5cbc"
+        "ev_0bba1faafb1e4478b7205375a3e5ebd5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010234134/"
@@ -40538,7 +40417,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_602cd56873604980a003f222e002ea0a"
+        "ev_95d21e3b15c14e8aa3700318744397dc"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009904005/"
@@ -40635,7 +40514,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_678125d842ee49298e8642b94465bb36"
+        "ev_1c001b3be77f4b589f0c59dd9b1070c6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009904804/"
@@ -40732,7 +40611,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_150482354a854e14a1045cef6877a446"
+        "ev_6355b0d06b1e42349fc3e94214c6219e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009904870/"
@@ -40829,7 +40708,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_36ca53461f76490bb3ae3df383d4c4a9"
+        "ev_f3d4cd5c588f45b9a9cf8123aab88753"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010329178/"
@@ -40926,7 +40805,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0e5cae0f4ee341efb574fd3d8bc445e4"
+        "ev_a64a5f1adda94d62bce99e56602a511b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010329181/"
@@ -41022,7 +40901,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_adad27fd8ffc48b98eb6d25f00e38603"
+        "ev_1ae1afc7a62c4a83959c3d9f4b0a4f95"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010330226/"
@@ -41119,7 +40998,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a45d16dc0cea4ed7b0cd29407f09182f"
+        "ev_6fbbde0b64f84d67a7ba873c70bd55b6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009904795/"
@@ -41216,7 +41095,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_df3014cf1b734dc3a4fc0d3281270f29"
+        "ev_2111f5d86e40494b9ed3478ef0e2307e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009904831/"
@@ -41323,8 +41202,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_afda09177d094678bc67e9d0f5375d97",
-        "ev_664c4a2a82c7460ca9d46012b6aafd1b"
+        "ev_74a3578d2fd44d01b145aa63e997fe8b",
+        "ev_6ad87084866d4d6da690e99c0d441613"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000772078000000#estate",
@@ -41420,7 +41299,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b73430d2ad3948fca1e3432866b19adf"
+        "ev_a7c72772583a44eebe1120cd2f001225"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011452020/"
@@ -41516,7 +41395,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0780f57e59ba4771b93f083597fbf434"
+        "ev_b04afa69cabe41b499a606697ac1ec32"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011419359/"
@@ -41613,7 +41492,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_03c05b78fe074301b579a391afd4bac7"
+        "ev_21bc5bc4db2c4527b3393db7c3e790b7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010413240/"
@@ -41703,7 +41582,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1e76a5ec4f364dc7b27c422f8b789171"
+        "ev_a46a94ff1f784c05a4f50755007505a4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011165099/"
@@ -41805,8 +41684,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6f3d8c50ab484b46893603e78c28779b",
-        "ev_f225522c0cba40c7820878f2e474c2ed"
+        "ev_f7b10866c7dd4c438d23c0ef021f6666",
+        "ev_4ebac87423b34a7f825697d8812dba32"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000333145000000#estate",
@@ -41905,7 +41784,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ada73955f74d4509b6a3887b88c5cce6"
+        "ev_859c576b823c4e0f939c1c03c263e30d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011161264/"
@@ -42003,7 +41882,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_71a6348c12434d60b302050cc635efcf"
+        "ev_c30e8061cb5f4ad79e99bdbadecae4af"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011296297/"
@@ -42099,7 +41978,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0d3e3e24fecf4b2abc6088763ada9368"
+        "ev_bd4a6df13aba403099d95ddca4e6d9ad"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1013886881/"
@@ -42197,7 +42076,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_aa71abf5acb3425f8987b2399f3c21b7"
+        "ev_204be41674f642379a20d96dc3a2d4ea"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010563679/"
@@ -42298,8 +42177,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d328a5a6f9ef4730b57ce39549ac920d",
-        "ev_01ab3d4a645546f79e8197379be6651c"
+        "ev_7f82f3aa3cae450ba834661be99a3bc7",
+        "ev_452cac1826504ca7ac13274c0c286196"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000420976000000#trust",
@@ -42398,7 +42277,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f1eaee35206d474b949d544365b9db36"
+        "ev_f0de3918b9f2411aaf435901a5150775"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011418734/"
@@ -42499,8 +42378,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4d4962f04672481f994c1dfb9e0dcb6a",
-        "ev_eaade81d1a2e4cd58671910a0efee305"
+        "ev_79384006c05744abaf6ffae85479dea4",
+        "ev_0797a7c781254c6cafe8c98d2866fdb2"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000693700000000#estate",
@@ -42591,7 +42470,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_450ce168d7b24919892bae8fc30404dd"
+        "ev_dec77c99e0fe43e986a1b719e49362dd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010301119/"
@@ -42687,7 +42566,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1f3b508450e145b2825d488a4d743836"
+        "ev_608d704a24e84684a81bf2c86688e716"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009340674/"
@@ -42785,7 +42664,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6f4c3bf2250b4525bc98b16ba87aca8b"
+        "ev_9002060f4ad84716aef4db8631918d39"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011144668/"
@@ -42892,8 +42771,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d40ee683d33243cfb81a127be38903d5",
-        "ev_c21a4dc686fa43f5bc142cd5ee77e067"
+        "ev_8b33116d08584825a7d0c549031e1a60",
+        "ev_747c949cf3114fabaa7983c1005d58aa"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000728890000000#estate",
@@ -42984,7 +42863,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1073c5cf638f46389d284facad1a890b"
+        "ev_b77073466e8e47489647685c979692df"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011182638/"
@@ -43074,7 +42953,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e8ed7f399d78456983c2a14049028165"
+        "ev_1a5e6569274e45deb93e5f58f75719f8"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010884507/"
@@ -43182,8 +43061,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3bc47395941541ee9c411f53b5568c3b",
-        "ev_236b7a8f38a34b90a22e57009942e8b6"
+        "ev_61f73d80ce4f4029a61e95db79de3b76",
+        "ev_7914d6af2a2041b1a07153f99f7d29a6"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000304711000000#estate",
@@ -43274,7 +43153,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_344eb013ec0846f5beac59d004361788"
+        "ev_fd0a12323f724b69bf4246d835e778b7"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010789157/"
@@ -43364,7 +43243,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_46380fd696d24f7794b8111d0bffada5"
+        "ev_7e679fcbe38b4203a7caadeefb6a8757"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010378364/"
@@ -43455,7 +43334,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_71b37a92bf17442d9c600c2c97d33ea4"
+        "ev_0ed264de0aac4bf09c32a5294c3ebf43"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1013807802/"
@@ -43552,7 +43431,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0cfe6ab1a5d847e5bbe7f1def00283c4"
+        "ev_eb7b9f53cf9d4615bc4c48cb492e1574"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011264763/"
@@ -43648,7 +43527,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a7e5784330744c99acb8f7a6e6dd953c"
+        "ev_d235e226c96e4af0b32817bda44555dd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011143097/"
@@ -43745,7 +43624,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1d9f0925688546e8988edaf30923e3db"
+        "ev_484113615cc7441da39f4507efa6687e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010740497/"
@@ -43841,7 +43720,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b27505b9220041b180991a6f6599b57b"
+        "ev_7fe68f95b8de440da2142fc665aebc81"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011438886/"
@@ -43938,7 +43817,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e05ca978caef4e8aafa368f08106c071"
+        "ev_840d75675aac4a8cb97796eb1d11b8fb"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010350722/"
@@ -44036,7 +43915,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_cfdf5c62369d4e57a3845b10e28eef83"
+        "ev_c7f26ee75cd34fdba8cc1ae8b30d4b7a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010496151/"
@@ -44132,7 +44011,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0b17d6ad9c724b819c86f7078965fda5"
+        "ev_e585303c252b4b65a8990f7d4085de06"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011162321/"
@@ -44228,7 +44107,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_07e7df0264a74fbf855c3d9d5aa21b43"
+        "ev_0dfbde6749a14f74b6d8e6f52e09ba49"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011532742/"
@@ -44324,7 +44203,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d1a37f2c66f844978ba7cf60182539d1"
+        "ev_446f41422c264c02bb5a18304ec88bf1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011263939/"
@@ -44420,7 +44299,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a9e8f7bf864e456ba698bbc4dc4ab7de"
+        "ev_6d24616703184b50916623bfee8ab5be"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011005753/"
@@ -44521,8 +44400,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e18073d37a2e4a3f93a0c4cc209921c4",
-        "ev_3269c12b8a8f4e5780132ea59d3c4624"
+        "ev_fcc8cff7fc0645e08342b1b8057151cb",
+        "ev_9f92017ede8f41549cd35d0e0c3d6a54"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/381574200Q0540000#estate",
@@ -44621,7 +44500,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f31e477fc9354ab2a075736a51292ea9"
+        "ev_07d243a0cf5c4e8ea58fa909089a11d6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010476051/"
@@ -44718,7 +44597,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a5d09ac1be9d4fff8062ef88f5887879"
+        "ev_c68e13c633e14858ae37328525f66021"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011277422/"
@@ -44762,23 +44641,20 @@
       "last_seen": "2026-11-20"
     },
     {
-      "lead_id": "lead_162db313dcff3302",
+      "lead_id": "lead_93d82edf32231751",
       "primary_parcel_id": "00000679504000000",
       "display_address": "3221 PUGET ST, DALLAS, TX 75212",
       "display_owner": "VACANT LEFFELMAN BERNICE",
-      "display_score": 85,
-      "display_tier": "Hot",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "stack_contrib_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_pattern_set": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_attributes": [],
       "display_deal_paths": [
@@ -44788,7 +44664,7 @@
         {
           "path": "wholesale",
           "confidence": "moderate",
-          "rationale": "Multi-signal distress stack; standard wholesale flow."
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
         }
       ],
       "display_title_complexity_tier": "None",
@@ -44798,35 +44674,23 @@
       "display_last_sale_date": null,
       "display_year_built": null,
       "display_match_confidence": 100,
-      "stack_depth": 2,
+      "stack_depth": 1,
       "score_reasons": [
         {
           "factor": "base_TAX_FORECLOSURE_NOTICE",
           "delta": 55
         },
         {
-          "factor": "secondary_CODE_VIOLATION_NOTICE",
-          "delta": 12
-        },
-        {
-          "factor": "stack_patterns_2",
-          "delta": 15
-        },
-        {
           "factor": "recent_filing_within_30_days",
           "delta": 5
         }
       ],
-      "display_violations": [
-        "Repeat code complaints (43 in 12 months)"
-      ],
+      "display_violations": [],
       "evidence_ids": [
-        "ev_fdb7817ba7774dc380ce5be3fcc9bc09",
-        "ev_a652c3aba0ad4c28a4b6e0a4754cfe9b"
+        "ev_44c78e193b9246cb846e948d5c5583f8"
       ],
       "primary_source_urls": [
-        "https://taxsales.lgbs.com/api/property_sales/1010138718/",
-        "https://www.dallasopendata.com/d/d7e7-envw#DAL311-6a9642c9af"
+        "https://taxsales.lgbs.com/api/property_sales/1010138718/"
       ],
       "primary_event_date": "2026-11-20",
       "expected_sale_date": null,
@@ -44844,27 +44708,19 @@
             "t": "Struck Off - Tax Resale",
             "u": "https://taxsales.lgbs.com/api/property_sales/1010138718/",
             "d": "2026-11-20"
-          },
-          {
-            "t": "Code: Repeat code complaints (43 in 12 months)",
-            "u": "https://www.dallasopendata.com/d/d7e7-envw#DAL311-6a9642c9af",
-            "d": "2026-11-18"
           }
         ],
         "tags": [
-          "Code: Repeat code complaints (43 in 12 months)",
           "Struck Off - Tax Resale"
         ],
         "src": "https://taxsales.lgbs.com/api/property_sales/1010138718/",
         "srcs": [
-          "code_enforcement_dallas",
           "dallas_tax_sales_lgbs"
         ],
         "minimum_bid": 99384.99,
         "cur": 99384.99,
         "joins": [
-          "account",
-          "situs"
+          "account"
         ],
         "use": "Commercial - Vacant Plotted Lots/Tracts",
         "apn": "00000679504000000"
@@ -44921,7 +44777,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e1ce9ec6a5dc423b84db9b9ded442d18"
+        "ev_b5c7845fd76b4d898cdd05ff73456856"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010603669/"
@@ -45028,9 +44884,9 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_06166d8167f94899a5b475bd1b637e8c",
-        "ev_1ddbbbbefd8648bd8f6385ef20209c2b",
-        "ev_be4d0cb045ff40128beb1b538049fcf6"
+        "ev_dc274dec35e1456b9ac60c6c63cd4649",
+        "ev_46d464f047594fcf90fc99ad316fa763",
+        "ev_c615bdecefe644598ac8da7470a37bc2"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000223069000001#estate",
@@ -45141,8 +44997,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_66d98a38ee0b4276a208b6a0fa301e5d",
-        "ev_046c3cd192ad41978c89a637fa5b9c64"
+        "ev_9c022c3d949e4c1db8d35b0394173468",
+        "ev_ade9d562148548258dc3500020078d8e"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000446632000000#estate",
@@ -45251,8 +45107,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8433ba78b6984104975705e7fd396a33",
-        "ev_0b174dbb366e4627b7a77a90e3d6d6b9"
+        "ev_3237c749869a4baf82e42bf543df428a",
+        "ev_bd564dfe3bc440018b0a3b87b7773fad"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000640837000000#estate",
@@ -45350,7 +45206,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_cbd1b8ed76ee4ea29a7cca2bd0e177ac"
+        "ev_d0a467efd765437f8743945d78c88edb"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010649493/"
@@ -45446,7 +45302,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_13361c0c89274f0396c1c0df1baea66a"
+        "ev_406477e7cb5a419fb8066603a1835c3a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009963929/"
@@ -45544,7 +45400,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_06c30ab4525445778c36737b7abf791e"
+        "ev_9b8e0f9b42be4da9897954077a598da5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011261912/"
@@ -45640,7 +45496,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_46b3c78887cb465eb30e30393247d696"
+        "ev_d1da701df8bf48e49808570b096ea5f6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009895104/"
@@ -45684,25 +45540,22 @@
       "last_seen": "2026-11-20"
     },
     {
-      "lead_id": "lead_78e2bb351e31bd3c",
+      "lead_id": "lead_eed25f4857b681d3",
       "primary_parcel_id": "00000624145000000",
       "display_address": "1146 LUFKIN ST, DALLAS, TX 75217",
       "display_owner": "OROZCO RHEA LYNN EST OF",
-      "display_score": 94,
+      "display_score": 87,
       "display_tier": "Hot",
       "display_patterns": [
         "tax",
-        "code",
         "estate"
       ],
       "stack_contrib_patterns": [
         "tax",
-        "code",
         "estate"
       ],
       "display_pattern_set": [
         "tax",
-        "code",
         "estate"
       ],
       "display_attributes": [],
@@ -45723,7 +45576,7 @@
       "display_last_sale_date": null,
       "display_year_built": null,
       "display_match_confidence": 100,
-      "stack_depth": 3,
+      "stack_depth": 2,
       "score_reasons": [
         {
           "factor": "base_TAX_FORECLOSURE_NOTICE",
@@ -45734,30 +45587,22 @@
           "delta": 15
         },
         {
-          "factor": "secondary_CODE_VIOLATION_NOTICE",
-          "delta": 6
-        },
-        {
-          "factor": "stack_patterns_3",
-          "delta": 30
+          "factor": "stack_patterns_2",
+          "delta": 15
         },
         {
           "factor": "recent_filing_within_30_days",
           "delta": 5
         }
       ],
-      "display_violations": [
-        "Repeat code complaints (8 in 12 months)"
-      ],
+      "display_violations": [],
       "evidence_ids": [
-        "ev_b289158f947d417ab248596502b37488",
-        "ev_259440bcd8e24685a46a5676f39633ef",
-        "ev_3ab488c168824452b29708d1f71e7981"
+        "ev_ab84255f4ea845e6a7dd13b0c68b0511",
+        "ev_5dec918d6d20434d895d0a43d817eb0c"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000624145000000#estate",
-        "https://taxsales.lgbs.com/api/property_sales/1011284687/",
-        "https://www.dallasopendata.com/d/d7e7-envw#DAL311-f9d817c9b9"
+        "https://taxsales.lgbs.com/api/property_sales/1011284687/"
       ],
       "primary_event_date": "2026-11-20",
       "expected_sale_date": null,
@@ -45775,27 +45620,19 @@
             "t": "Struck Off - Tax Resale",
             "u": "https://taxsales.lgbs.com/api/property_sales/1011284687/",
             "d": "2026-11-20"
-          },
-          {
-            "t": "Code: Repeat code complaints (8 in 12 months)",
-            "u": "https://www.dallasopendata.com/d/d7e7-envw#DAL311-f9d817c9b9",
-            "d": "2026-10-06"
           }
         ],
         "tags": [
-          "Code: Repeat code complaints (8 in 12 months)",
           "Struck Off - Tax Resale"
         ],
         "src": "https://taxsales.lgbs.com/api/property_sales/1011284687/",
         "srcs": [
-          "code_enforcement_dallas",
           "dallas_tax_sales_lgbs"
         ],
         "minimum_bid": 62625.98,
         "cur": 62625.98,
         "joins": [
-          "account",
-          "situs"
+          "account"
         ],
         "use": "SFR - Vacant Lots/Tracts",
         "apn": "00000624145000000"
@@ -45858,7 +45695,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6198cf320c3f4bfaaee27fc05ac3a40d"
+        "ev_86142fd017e94fb18be003cd9d014285"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010528561/"
@@ -45955,7 +45792,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f7b1ae7b918242b9914a24b3a1f95e60"
+        "ev_9496e23d1ea443f19a90df975f296296"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010797611/"
@@ -45985,7 +45822,6 @@
         "srcs": [
           "dallas_tax_sales_lgbs"
         ],
-        "tax_sale": "2026-12-01",
         "minimum_bid": 146630.24,
         "cur": 146630.24,
         "joins": [
@@ -46052,7 +45888,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_34a0dcb1a0aa430a83c2fd0a6b6d8331"
+        "ev_ca414b4a0da34021b60b2d9645a3aa5e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011578840/"
@@ -46148,7 +45984,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a10e44dafaa849ba9fe4a3729c8dc379"
+        "ev_c96aa61283e34bf589541b2986d3450b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010773400/"
@@ -46244,7 +46080,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a11b98bfe539433992d7d45ba7980904"
+        "ev_7d2fb89d351646c09340a3b456d0718c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010874651/"
@@ -46352,8 +46188,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a8bcc89e6b2948589e421431a9da8940",
-        "ev_ba3b727480fa44df917c3795d13160f1"
+        "ev_4b2f5934dbc644af829552679369cf6f",
+        "ev_3f2a1dd388a64d098f36b192bea5a302"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/32469500530000000#estate",
@@ -46451,7 +46287,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_341051daa1874e2ea42b6198a58d01ff"
+        "ev_03f6b9087e17425a9ea117fa34b50d64"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011535567/"
@@ -46552,8 +46388,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c4f82e17de054bc38c9c3ccc6f1c927c",
-        "ev_3358c3184f9e4d08a6a6f67784abd9ec"
+        "ev_3446d56aa32b430fba71932f9cce3624",
+        "ev_aa4d0fda21c74e7b93426ab6d54d54cd"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/32301500030010000#estate",
@@ -46649,7 +46485,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f8f25ad5b6cd470ab9aa1ea47bb4cd14"
+        "ev_bfa30387006e46d4855db05ad0868b2d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009536479/"
@@ -46744,7 +46580,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7d4d3695b8414519966dfe058ae4cfff"
+        "ev_e07958f5cf5b411593a45d102494e000"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010622111/"
@@ -46841,7 +46677,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_bdc3df0451d4494998b58b187103e2e6"
+        "ev_d634a76bd4204caf9b2a58d2a30a2c06"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010363412/"
@@ -46931,7 +46767,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_56f3b9b0e2a84bcbb5ae45c94e9ea7df"
+        "ev_e1f5be1223b74a61b2d0902948c6d16a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1013331554/"
@@ -47028,7 +46864,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f527de1ed9854ef89a6b3816db661357"
+        "ev_a52ce168e1e74938ab135743c82ed163"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1013037267/"
@@ -47125,7 +46961,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0c33056dd76f447a8d6d2a598b050f80"
+        "ev_8c7985abe5df4ff9a328b26949f41d74"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010635490/"
@@ -47168,23 +47004,20 @@
       "last_seen": "2026-11-20"
     },
     {
-      "lead_id": "lead_8e445d64afada7e1",
+      "lead_id": "lead_95d761ed2f256de2",
       "primary_parcel_id": "00000219706000000",
       "display_address": "2710 ANDERSON ST, DALLAS, TX 75215",
       "display_owner": "HARRIS JESSE",
-      "display_score": 87,
-      "display_tier": "Hot",
+      "display_score": 63,
+      "display_tier": "Workable",
       "display_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "stack_contrib_patterns": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_pattern_set": [
-        "tax",
-        "code"
+        "tax"
       ],
       "display_attributes": [
         "absentee"
@@ -47195,30 +47028,22 @@
       "display_deal_path_details": [
         {
           "path": "wholesale",
-          "confidence": "high",
-          "rationale": "Multi-signal distress + investor-friendly attribute set."
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
         }
       ],
       "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
+      "display_lead_status": "APPROVED_FOR_DASHBOARD",
       "display_assessed_value": 27590,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
       "display_year_built": null,
       "display_match_confidence": 100,
-      "stack_depth": 2,
+      "stack_depth": 1,
       "score_reasons": [
         {
           "factor": "base_TAX_FORECLOSURE_NOTICE",
           "delta": 55
-        },
-        {
-          "factor": "secondary_CODE_VIOLATION_NOTICE",
-          "delta": 12
-        },
-        {
-          "factor": "stack_patterns_2",
-          "delta": 15
         },
         {
           "factor": "recent_filing_within_30_days",
@@ -47229,16 +47054,12 @@
           "delta": 3
         }
       ],
-      "display_violations": [
-        "Repeat code complaints (23 in 12 months)"
-      ],
+      "display_violations": [],
       "evidence_ids": [
-        "ev_72fe084408324cf79de12630b218cffd",
-        "ev_202284a62849401c9abcb8daa29a5bfa"
+        "ev_b3d9014918104ac4977be145fc58074d"
       ],
       "primary_source_urls": [
-        "https://taxsales.lgbs.com/api/property_sales/1010385048/",
-        "https://www.dallasopendata.com/d/d7e7-envw#DAL311-47144c1f32"
+        "https://taxsales.lgbs.com/api/property_sales/1010385048/"
       ],
       "primary_event_date": "2026-11-20",
       "expected_sale_date": null,
@@ -47246,9 +47067,7 @@
       "parcel_master_status_note": "",
       "parcel_master_match_method": "tms_direct",
       "candidate_parcel_ids": [],
-      "review_flags": [
-        "address_match_uncertain"
-      ],
+      "review_flags": [],
       "display_stages": {
         "tax": "sale_pending"
       },
@@ -47258,20 +47077,13 @@
             "t": "Tax Sale List",
             "u": "https://taxsales.lgbs.com/api/property_sales/1010385048/",
             "d": "2026-11-20"
-          },
-          {
-            "t": "Code: Repeat code complaints (23 in 12 months)",
-            "u": "https://www.dallasopendata.com/d/d7e7-envw#DAL311-47144c1f32",
-            "d": "2026-11-02"
           }
         ],
         "tags": [
-          "Code: Repeat code complaints (23 in 12 months)",
           "Tax Sale List"
         ],
         "src": "https://taxsales.lgbs.com/api/property_sales/1010385048/",
         "srcs": [
-          "code_enforcement_dallas",
           "dallas_tax_sales_lgbs"
         ],
         "minimum_bid": 24858.84,
@@ -47340,7 +47152,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_199e84b01bd34a9b863a1c3a29758ca1"
+        "ev_d3a5a76cd3b54d89b4e17281b3c7290d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011606919/"
@@ -47439,7 +47251,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_03deaaad66c645cc8f748d8ab7d43f10"
+        "ev_743d4c529cf04e98bea681768d48d83f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1013760356/"
@@ -47539,7 +47351,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_78d4e9d16fc54dbb8b25b5b70428c934"
+        "ev_205891ae4f0548fe94ef700abed1265e"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011277357/"
@@ -47636,7 +47448,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1f2b7b5d74bc4aa993ab44e7a6ef750a"
+        "ev_4b5cec6f606547f1bd407f527a1549d0"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010684599/"
@@ -47733,7 +47545,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6f126ba6237a49e1a02499304d2b2741"
+        "ev_19984a3c49c448fd86548c568a9946cd"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010689452/"
@@ -47828,7 +47640,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_71dd050c89bf4d429ba58221210b641e"
+        "ev_f2cf6f89d07942efab22f3b7a359ff82"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011535234/"
@@ -47925,7 +47737,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0d75ac76ad144623997fcf387bea9724"
+        "ev_455cd957bb4845d8b5d373c8c9b14065"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009229212/"
@@ -48022,7 +47834,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_eb90f39e60824031886f6c41d0bab98a"
+        "ev_ca1085dc741c4eba951154c37fc1313d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010302907/"
@@ -48112,7 +47924,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_72b4d5831e2b4e20a9edadae92a60e1e"
+        "ev_068235b54e904022afbc72b3f8c33d14"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011296819/"
@@ -48209,7 +48021,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_954ba95c69c5452e9c151f3e288fe409"
+        "ev_e19997ccd2234832904b5d30f4d41e38"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011155914/"
@@ -48300,7 +48112,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_190029bda58140c898d64cd197a11533"
+        "ev_05efe93892f44da88b10f9ad2ae68936"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011527361/"
@@ -48391,7 +48203,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9c9012ae61bf4765a7af106d44cb272c"
+        "ev_7f71b0a7e8f346d2afdb9bf71575d338"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011639737/"
@@ -48483,7 +48295,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f6946aac9b554ef584afd0e182b3e060"
+        "ev_0dbfa1d5f7a24876830e3da775a9345f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009538768/"
@@ -48513,7 +48325,6 @@
         "srcs": [
           "dallas_tax_sales_lgbs"
         ],
-        "tax_sale": "2026-12-01",
         "minimum_bid": 86936.57,
         "cur": 86936.57,
         "joins": [
@@ -48582,7 +48393,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f368958402da48f7b6a292190379b4b6"
+        "ev_9a77f29efd7947689b0b452f94ee50f3"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011305032/"
@@ -48673,7 +48484,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f2866e93860a4e189be576997cd77d95"
+        "ev_f9f0ae0374e7455dac9a9d7528170f42"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011414171/"
@@ -48770,7 +48581,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5533672628f3424fa495db8a4d6d060d"
+        "ev_8ddd2d3c4222429994b029c11590f66b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011094731/"
@@ -48867,7 +48678,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_df1ad62cf8e14f9590a98bda567c1218"
+        "ev_f9ada243acca42d1abfbaea313e8bb83"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010737607/"
@@ -48965,7 +48776,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_426ac9f13edd46cbbfeb55d13eb4f485"
+        "ev_4f50f86b4ada45d688fa629c607db536"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010634637/"
@@ -49059,7 +48870,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_852326a8969149dfb6b3aa29c7639cee"
+        "ev_6b38f7d8124e456eb51432e8df582da5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011297076/"
@@ -49159,8 +48970,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_da7927b1451a4ddeb2f23523aac41e17",
-        "ev_f78154e6749b4db890d57ab0dae11c9c"
+        "ev_4635d54f02be48d98a31f4505743b672",
+        "ev_0b7847a315b54478825e8454612ff60a"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/38233500110070000#estate",
@@ -49259,7 +49070,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6803a9fe45334dbabcf805daa65384b2"
+        "ev_971f3d09edd04f7384e4c964572b1f7c"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1013892833/"
@@ -49350,7 +49161,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_04d6bce93ea5443ebcc8f26df4aa8c7f"
+        "ev_1497d1087baf48628f07dd9566fe9a52"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010617567/"
@@ -49447,7 +49258,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d152c8fa627c4a6b985232213b142ac6"
+        "ev_472e1cf295074645bd1607e670850c67"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010037010/"
@@ -49544,7 +49355,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_53495905c04646b7b8a565a51a255e2b"
+        "ev_fa45000b588745979656616e6181b37f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011158018/"
@@ -49640,7 +49451,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f5818d0b130042c6811a52c3e1665745"
+        "ev_374248874131402995f86ca7f3a74a4a"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011158020/"
@@ -49730,7 +49541,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_430bcfed897449bf8155c41a6ae81ddd"
+        "ev_7259408f9c0d40f281e5ac48a0642e6b"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1013912385/"
@@ -49822,7 +49633,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e146cc06e36a4f079495c7fc060062de"
+        "ev_4f59564318004182ba7d6a2816380f3d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011126111/"
@@ -49852,7 +49663,6 @@
         "srcs": [
           "dallas_tax_sales_lgbs"
         ],
-        "tax_sale": "2026-12-01",
         "minimum_bid": 22652.24,
         "cur": 22652.24,
         "joins": [
@@ -49919,7 +49729,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_44e3e32b9eee4379af70dc2de18fc8ec"
+        "ev_ca247b60437744dcb3070958303a43b5"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010853685/"
@@ -50010,7 +49820,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5a5bc2ac7e714cc68954ab3585f1dc98"
+        "ev_7c409b12d5f54d1ca1855e1d713f73a6"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011054560/"
@@ -50112,8 +49922,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4101a7f406f14977bc109e75967f0a50",
-        "ev_bf1ae6031e8a4e2d8fe4f3f03557b780"
+        "ev_ef441fa76cbb466fa27bdf1f6e737ea0",
+        "ev_d8cc2b09a6fe4cdea82f9cd6bfa7e96b"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000636076000000#estate",
@@ -50211,7 +50021,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_72efc29fc88c4a8483ad176fc68f33b8"
+        "ev_6c7cb2db3fc84e16adf88a160c456aea"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010395651/"
@@ -50308,7 +50118,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_850abc2351d04d28b51709ceeb789e3e"
+        "ev_f360c606ad4b4fcf9e9791c2528e84dc"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011605866/"
@@ -50405,7 +50215,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_5bd49100c7384783957113d4eb1b4687"
+        "ev_fc9c9062b4774dc68aad3eb3d002fbc1"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011291137/"
@@ -50507,8 +50317,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_187afd47a55d4d5eacbf7d1b42df6bb0",
-        "ev_fb3703b738b34b22b0300f19647a30be"
+        "ev_ad9ab11fc237419f8560fd2c5b01e16f",
+        "ev_d75e3436d4064e11acf692aada9e3226"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000820785300000#estate",
@@ -50606,7 +50416,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8acf1e000e02404a82ebe92f45aa5d4d"
+        "ev_24f6f31a18ee45abba5d002d71606973"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011231311/"
@@ -50703,7 +50513,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1feaee8bda384226a7b27ef90e0ddb24"
+        "ev_08f992177c7e46c3b99f2b06d975859f"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010605359/"
@@ -50793,7 +50603,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_dfe1992ba0b849919dbf9013b6b76db6"
+        "ev_d70d531f0de64e9a9fc7f3053e988219"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011565398/"
@@ -50895,8 +50705,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_051504e290d34b47b8cd500a939ffbbd",
-        "ev_eb650053fa964e35a6cdc838fde28bff"
+        "ev_7c3238f0648f4284ae856b344807fdc5",
+        "ev_e9fb81f548eb432880c11974be5a98ac"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000477904000000#estate",
@@ -51005,8 +50815,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f1b1d3fc97294989be040ae6bb18bd8a",
-        "ev_d8b076ea6e8f4b5e8706466a6eecfbea"
+        "ev_a50c75e65eec4e3dacc74a40adbaa4d6",
+        "ev_367d311e80464e5287809fb35fb0e638"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000180838000000#estate",
@@ -51109,8 +50919,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_22cf4dd347fb4672a16875fef78b28af",
-        "ev_34a33f9131534553aff9c860ab584305"
+        "ev_8d40ae943bcd4c2a97a462ef86e7e724",
+        "ev_3130855e4c3d4f23ae5ef1945a43abf3"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000470938000000#estate",
@@ -51202,7 +51012,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ed96d6b97079444ea8d3c6383e2f11c0"
+        "ev_daeb0c3eae9e4264a198156fb1185c78"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011405030/"
@@ -51293,7 +51103,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ef723e432e224df7a0abb560cb249457"
+        "ev_6d2b9368fac44319a42a897a52001816"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009240514/"
@@ -51388,7 +51198,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1e3cb7af20ce4fa28cd3d533427bb6ca"
+        "ev_54a3b8d99f014f75a01bbe37c64165f4"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011594986/"
@@ -51485,7 +51295,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c83c5c09543048b8a4b7555294a5e8c6"
+        "ev_6886d3ee2e294f65820e314f952a939d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1012448052/"
@@ -51576,7 +51386,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ec79ab6ab6644b9f893a3473c096726a"
+        "ev_679769108e3b46b9b461663c5a7dc2ff"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1010689189/"
@@ -51672,7 +51482,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_88edaa63d14b441180491ad465c8b0be"
+        "ev_22c87275397f4dd897890868997852ce"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1013895874/"
@@ -51774,8 +51584,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_75281e825e58457889e67376bf9b6646",
-        "ev_158f1c5797884c7ebb8655ac8820fd98"
+        "ev_b7d9b60565934e708a8887422742df7d",
+        "ev_991c941d0f4f47d8a1bbc060e7bb2d94"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000462196000000#estate",
@@ -51867,7 +51677,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_aff1449c2c5c4d0ab11fe6d48f21eab6"
+        "ev_6ab34e543104482a93f124ee93818f7d"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009624798/"
@@ -51968,8 +51778,8 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b5c97742e8794e7ba36fb6d7bf5021e0",
-        "ev_24414241ef624913805b6db324ddf1d2"
+        "ev_e863079174924213a16895d140b82558",
+        "ev_146cbac7c9e34e2286a0847030b3665f"
       ],
       "primary_source_urls": [
         "about:owner-name/parcel_master/00000362782000000#estate",
@@ -52015,11 +51825,11 @@
       "last_seen": "2026-11-20"
     },
     {
-      "lead_id": "lead_c81bcf7a1e3e6f42",
+      "lead_id": "lead_b4e443ba47d9571a",
       "primary_parcel_id": "00000359236000000",
       "display_address": "3742 ALMAZAN DR, DALLAS, TX 75220",
       "display_owner": "TOWNSVILLE REALTY LLC",
-      "display_score": 67,
+      "display_score": 65,
       "display_tier": "Strong",
       "display_patterns": [
         "tax"
@@ -52032,8 +51842,7 @@
       ],
       "display_attributes": [
         "absentee",
-        "entity_owned",
-        "multiple_properties"
+        "entity_owned"
       ],
       "display_deal_paths": [
         "wholesale"
@@ -52064,12 +51873,12 @@
         },
         {
           "factor": "attribute_bonus",
-          "delta": 7
+          "delta": 5
         }
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_735e834000874c6ab2a69e5fd53f6916"
+        "ev_192afdc2b53f4c1a8a0fd2c4ac45b0eb"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1013886449/"
@@ -52160,7 +51969,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8350aba7fbb8423b8240e2a3b741e446"
+        "ev_9a41a20600c94305b8cc4f6ab86f4744"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1009315378/"
@@ -228238,43 +228047,35 @@
     }
   ],
   "pattern_counts": {
-    "code": 1993,
-    "estate": 71,
+    "estate": 36,
     "tax": 547,
-    "transfer": 27
+    "transfer": 6
   },
   "attribute_counts": {
-    "absentee": 1573,
-    "entity_owned": 851,
-    "multiple_properties": 180,
-    "senior_owner": 4
+    "absentee": 390,
+    "entity_owned": 82,
+    "multiple_properties": 92,
+    "senior_owner": 1
   },
   "stack_depth_distribution": {
-    "1": 2392,
-    "2": 117,
-    "3": 4
+    "1": 504,
+    "2": 41,
+    "3": 1
   },
   "score_tier_distribution": {
-    "Archive": 1583,
-    "Hot": 49,
-    "Low": 328,
-    "Strong": 157,
-    "Workable": 396
+    "Hot": 42,
+    "Strong": 153,
+    "Workable": 351
   },
   "deal_path_distribution": {
-    "wholesale": 2513
+    "wholesale": 546
   },
   "refresh_summary": {
-    "last_run_utc": "2026-11-20T13:01:11Z",
+    "last_run_utc": "2026-11-20T19:26:21Z",
     "last_new_leads_utc": "2026-11-20T13:01:11Z",
-    "new_leads_total": 2513,
-    "new_leads_by_type": {
-      "code": 1993,
-      "tax": 547,
-      "estate": 71,
-      "transfer": 27
-    },
-    "carried_total": 0,
+    "new_leads_total": 0,
+    "new_leads_by_type": {},
+    "carried_total": 1967,
     "expired_total": 0,
     "retired_total": 0,
     "active_total": 2513

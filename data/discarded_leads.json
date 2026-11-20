@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:01:10Z",
+  "generated_at": "2026-11-20T19:26:20Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Dallas",
@@ -16,7 +16,7 @@
   "quality_metrics": {
     "source_verification_rate": 1.0,
     "field_completeness_rate": 1.0,
-    "match_confidence_avg": 81.30270485282418,
+    "match_confidence_avg": 97.43144424131627,
     "parser_confidence_avg": 100.0,
     "source_url_coverage": 1.0,
     "dedupe_ran": true,
@@ -74,7 +74,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_474270ba32ec48a7bc7f82f38241ade2"
+        "ev_ea9e1f4bcd324a3cb198c2f723495a52"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011232552/"
