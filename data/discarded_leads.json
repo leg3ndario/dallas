@@ -1,1 +1,111 @@
-{"records": []}
+{
+  "generated_at": "2026-11-20T13:01:10Z",
+  "build_label": "FULL_BUILD",
+  "mode": "production",
+  "county": "Dallas",
+  "state": "TX",
+  "deployment": {
+    "github_org": "leg3ndario",
+    "github_repo": "dallas",
+    "live_url": "https://leg3ndario.github.io/dallas/",
+    "scheduled_task_name": "tx_refresh.yml",
+    "scheduler_runtime_class": "RUNS_ON_GITHUB_ACTIONS",
+    "production_verification_status": "NOT_RUN"
+  },
+  "total_signals_suppressed": 0,
+  "quality_metrics": {
+    "source_verification_rate": 1.0,
+    "field_completeness_rate": 1.0,
+    "match_confidence_avg": 81.30270485282418,
+    "parser_confidence_avg": 100.0,
+    "source_url_coverage": 1.0,
+    "dedupe_ran": true,
+    "unsupported_claim_count": 0,
+    "hallucination_risk_avg": 0,
+    "live_verification_passed": false
+  },
+  "build_label_reason": "",
+  "lead_total": 1,
+  "records": [
+    {
+      "lead_id": "lead_536d8df326650b3f",
+      "primary_parcel_id": "DALL-ADDR-C324359E6E7D",
+      "display_address": "1501 E I 30 BLDG E UNIT 223, GARLAND, 75043",
+      "display_owner": "Unknown",
+      "display_score": 60,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "tax"
+      ],
+      "stack_contrib_patterns": [
+        "tax"
+      ],
+      "display_pattern_set": [
+        "tax"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_TAX_FORECLOSURE_NOTICE",
+          "delta": 55
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "display_violations": [],
+      "evidence_ids": [
+        "ev_474270ba32ec48a7bc7f82f38241ade2"
+      ],
+      "primary_source_urls": [
+        "https://taxsales.lgbs.com/api/property_sales/1011232552/"
+      ],
+      "primary_event_date": "2026-11-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ],
+      "display_stages": {
+        "tax": "sale_pending"
+      },
+      "display_property_type": "condo",
+      "display_property_type_basis": "address unit"
+    }
+  ],
+  "pattern_counts": {
+    "tax": 1
+  },
+  "attribute_counts": {},
+  "stack_depth_distribution": {
+    "1": 1
+  },
+  "score_tier_distribution": {
+    "Workable": 1
+  },
+  "deal_path_distribution": {
+    "wholesale": 1
+  }
+}
