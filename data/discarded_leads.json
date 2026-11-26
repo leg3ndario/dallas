@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:11:02Z",
+  "generated_at": "2026-11-26T19:11:15Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Dallas",
@@ -74,12 +74,12 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1109fe01ab684b41b6b6de0a9adb905a"
+        "ev_d32cffdd9b6f490790b533bc26dfc5ee"
       ],
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/1011232552/"
       ],
-      "primary_event_date": "2026-11-25",
+      "primary_event_date": "2026-11-26",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
